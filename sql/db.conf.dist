@@ -1,0 +1,9 @@
+#!/bin/bash
+# change these lines with your mysql config
+DB_WORLD=world
+DB_CHAR=characters
+DB_AUTH=auth
+MYSQL_USER=trinity
+MYSQL_PASS=trinity
+MYSQL_HOST=127.0.0.1
+#MYSQL_SOCK=/var/lib/mysql/mysql.sock
