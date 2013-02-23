@@ -3123,7 +3123,7 @@
 3880	0	0	0	2	0	100	1	0	15	0	0	25	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Sentinel Melyria Frostshadow - At 15% HP - Flee For Assist
 3886	0	0	0	9	0	100	2	0	5	2800	9700	11	7485	0	0	0	0	0	2	0	0	0	0	0	0	0	Razorclaw the Butcher - At 0 - 5 Range - Cast Butcher Drain
 3887	0	0	0	0	0	100	2	1000	1000	22300	35100	11	7068	0	0	0	0	0	2	0	0	0	0	0	0	0	Baron Silverlaine - In Combat - Cast Veil of Shadow
-3892	0	0	0	1	0	100	1	0	0	0	0	11	6606	0	0	0	0	0	1	0	0	0	0	0	0	0	Relara Whitemoon - Out Of Combat - Cast Self Visual - Sleep Until Cancelled (DND)
+3892	0	0	0	1	0	100	1	0	0	0	0	11	6606	0	0	0	0	0	1	0	0	0	0	0	0	0	Relara Whitemoon - Out Of Combat - Cast Self Visual - Sleep Until Cancelled  (DND)
 3897	0	0	0	2	0	100	1	0	15	0	0	25	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Krolg - At 15% HP - Flee For Assist
 3901	0	0	0	2	0	100	1	0	15	0	0	25	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Illiyana - At 15% HP - Flee For Assist
 3917	0	0	0	0	0	100	0	8100	10400	15500	18500	11	9672	0	0	0	0	0	2	0	0	0	0	0	0	0	Befouled Water Elemental - In Combat - Cast Frostbolt
@@ -3598,28 +3598,28 @@
 5682	0	1	0	2	0	100	0	0	30	10000	10000	11	2054	0	0	0	0	0	1	0	0	0	0	0	0	0	Dalin Forgewright - At 30% HP - Cast Heal
 5688	0	0	1	62	0	100	0	1296	0	0	0	72	0	0	0	0	0	0	7	0	0	0	0	0	0	0	Innkeeper Renee - On gossip option 0 select - Close gossip
 5688	0	1	0	61	0	100	0	0	0	0	0	85	24751	0	0	0	0	0	7	0	0	0	0	0	0	0	Innkeeper Renee - On gossip option 0 select - Player cast Trick or Treat on self
-5702	0	0	0	1	0	100	0	0	0	235000	235000	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC - Say Line 0
-5702	0	1	0	1	0	100	0	10000	10000	235000	235000	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC - Say Line 1
-5702	0	2	0	1	0	100	0	13000	13000	235000	235000	11	8677	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC - Cast Summon Effect
-5702	0	3	0	1	0	100	0	18000	18000	235000	235000	12	5730	2	30000	0	0	0	8	0	0	0	1793.26	128.034	-63.8432	3.14159	Jezelle Pruitt - OOC - Spawn Jezelle's Imp
-5702	0	4	0	1	0	100	0	20000	20000	235000	235000	1	2	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC - Say Line 2
-5702	0	5	0	1	0	100	0	50000	50000	235000	235000	1	3	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC - Say Line 3
-5702	0	6	0	1	0	100	0	53000	53000	235000	235000	11	8677	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC - Cast Summon Effect
-5702	0	7	0	1	0	100	0	58000	58000	235000	235000	12	5729	2	30000	0	0	0	8	0	0	0	1793.26	128.034	-63.8432	3.14159	Jezelle Pruitt - OOC - Spawn Jezelle's Voidwalker
-5702	0	8	0	1	0	100	0	60000	60000	235000	235000	1	4	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC - Say Line 4
-5702	0	9	0	1	0	100	0	90000	90000	235000	235000	1	5	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC - Say Line 5
-5702	0	10	0	1	0	100	0	93000	93000	235000	235000	11	8677	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC - Cast Summon Effect
-5702	0	11	0	1	0	100	0	98000	98000	235000	235000	12	5728	2	30000	0	0	0	8	0	0	0	1793.26	128.034	-63.8432	3.14159	Jezelle Pruitt - OOC - Spawn Jezelle's Succubus
-5702	0	12	0	1	0	100	0	100000	100000	235000	235000	1	6	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC - Say Line 6
-5702	0	13	0	1	0	100	0	130000	130000	235000	235000	1	7	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC - Say Line 7
-5702	0	14	0	1	0	100	0	133000	133000	235000	235000	11	8677	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC - Cast Summon Effect
-5702	0	15	0	1	0	100	0	138000	138000	235000	235000	12	5726	2	30000	0	0	0	8	0	0	0	1793.26	128.034	-63.8432	3.14159	Jezelle Pruitt - OOC - Spawn Jezelle's FelHunter
-5702	0	16	0	1	0	100	0	140000	140000	235000	235000	1	8	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC - Say Line 8
-5702	0	17	0	1	0	100	0	170000	170000	235000	235000	1	9	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC - Say Line 9
-5702	0	18	0	1	0	100	0	173000	173000	235000	235000	11	8677	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC - Cast Summon Effect
-5702	0	19	0	1	0	100	0	178000	178000	235000	235000	12	5727	2	30000	0	0	0	8	0	0	0	1793.26	128.034	-63.8432	3.14159	Jezelle Pruitt - OOC - Spawn Jezelle's Felsteed
-5702	0	20	0	1	0	100	0	180000	180000	235000	235000	1	10	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC - Say Line 10
-5702	0	21	0	1	0	100	0	210000	210000	235000	235000	1	11	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC - Say Line 11
+5702	0	0	0	1	0	100	0	0	0	235000	235000	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC  - Say Line 0
+5702	0	1	0	1	0	100	0	10000	10000	235000	235000	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC  - Say Line 1
+5702	0	2	0	1	0	100	0	13000	13000	235000	235000	11	8677	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC  - Cast Summon Effect
+5702	0	3	0	1	0	100	0	18000	18000	235000	235000	12	5730	2	30000	0	0	0	8	0	0	0	1793.26	128.034	-63.8432	3.14159	Jezelle Pruitt - OOC  - Spawn Jezelle's Imp
+5702	0	4	0	1	0	100	0	20000	20000	235000	235000	1	2	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC  - Say Line 2
+5702	0	5	0	1	0	100	0	50000	50000	235000	235000	1	3	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC  - Say Line 3
+5702	0	6	0	1	0	100	0	53000	53000	235000	235000	11	8677	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC  - Cast Summon Effect
+5702	0	7	0	1	0	100	0	58000	58000	235000	235000	12	5729	2	30000	0	0	0	8	0	0	0	1793.26	128.034	-63.8432	3.14159	Jezelle Pruitt - OOC  - Spawn Jezelle's Voidwalker
+5702	0	8	0	1	0	100	0	60000	60000	235000	235000	1	4	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC  - Say Line 4
+5702	0	9	0	1	0	100	0	90000	90000	235000	235000	1	5	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC  - Say Line 5
+5702	0	10	0	1	0	100	0	93000	93000	235000	235000	11	8677	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC  - Cast Summon Effect
+5702	0	11	0	1	0	100	0	98000	98000	235000	235000	12	5728	2	30000	0	0	0	8	0	0	0	1793.26	128.034	-63.8432	3.14159	Jezelle Pruitt - OOC  - Spawn Jezelle's Succubus
+5702	0	12	0	1	0	100	0	100000	100000	235000	235000	1	6	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC  - Say Line 6
+5702	0	13	0	1	0	100	0	130000	130000	235000	235000	1	7	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC  - Say Line 7
+5702	0	14	0	1	0	100	0	133000	133000	235000	235000	11	8677	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC  - Cast Summon Effect
+5702	0	15	0	1	0	100	0	138000	138000	235000	235000	12	5726	2	30000	0	0	0	8	0	0	0	1793.26	128.034	-63.8432	3.14159	Jezelle Pruitt - OOC  - Spawn Jezelle's FelHunter
+5702	0	16	0	1	0	100	0	140000	140000	235000	235000	1	8	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC  - Say Line 8
+5702	0	17	0	1	0	100	0	170000	170000	235000	235000	1	9	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC  - Say Line 9
+5702	0	18	0	1	0	100	0	173000	173000	235000	235000	11	8677	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC  - Cast Summon Effect
+5702	0	19	0	1	0	100	0	178000	178000	235000	235000	12	5727	2	30000	0	0	0	8	0	0	0	1793.26	128.034	-63.8432	3.14159	Jezelle Pruitt - OOC  - Spawn Jezelle's Felsteed
+5702	0	20	0	1	0	100	0	180000	180000	235000	235000	1	10	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC  - Say Line 10
+5702	0	21	0	1	0	100	0	210000	210000	235000	235000	1	11	0	0	0	0	0	1	0	0	0	0	0	0	0	Jezelle Pruitt - OOC  - Say Line 11
 5708	0	0	0	0	0	100	2	1000	3500	1200	6200	11	12280	32	0	0	0	0	2	0	0	0	0	0	0	0	Spawn of Hakkar - In Combat - Cast Acid of Hakkar
 5710	0	0	1	10	0	100	0	0	85	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Jammal'an the Prophet - On OOC Los - Say Line 0 (P0)
 5710	0	1	2	61	0	100	0	0	0	0	0	22	1	0	0	0	0	0	1	0	0	0	0	0	0	0	Jammal'an the Prophet - On OOC Los - Set Phase 1
@@ -4746,8 +4746,8 @@
 9026	0	1	0	0	0	100	0	9000	12000	8000	12000	11	13341	0	0	0	0	0	2	0	0	0	0	0	0	0	Overmaster Pyron - In Combat - Cast Fire Blast
 9045	0	0	0	4	0	100	2	0	0	0	0	39	10	0	0	0	0	0	1	0	0	0	0	0	0	0	Scarshield Acolyte - On Aggro - Call for help
 9045	0	1	0	0	0	100	2	7700	15700	21900	33500	11	14032	0	0	0	0	0	2	0	0	0	0	0	0	0	Scarshield Acolyte - Combat - Cast Shadow Word: Pain
-9045	0	2	0	2	0	100	3	0	75	0	0	11	12039	0	0	0	0	0	1	0	0	0	0	0	0	0	Scarshield Acolyte - HP@75% - Cast Heal
-9045	0	3	0	14	0	100	2	35	8	5000	6000	11	8362	0	0	0	0	0	7	0	0	0	0	0	0	0	Scarshield Acolyte - Friendly hp@35 - Cast Renew on friendly unit
+9045	0	2	0	2	0	100	3	0	75	0	0	11	12039	0	0	0	0	0	1	0	0	0	0	0	0	0	Scarshield Acolyte -  HP@75% - Cast Heal
+9045	0	3	0	14	0	100	2	35	8	5000	6000	11	8362	0	0	0	0	0	7	0	0	0	0	0	0	0	Scarshield Acolyte -  Friendly hp@35 - Cast Renew on friendly unit
 9096	0	0	0	0	0	100	2	4000	13200	6600	14400	11	15580	0	0	0	0	0	2	0	0	0	0	0	0	0	Rage Talon Dragonspawn - Combat - Cast Strike
 9096	0	1	0	0	0	100	2	7700	17100	20300	34200	11	12021	0	0	0	0	0	2	0	0	0	0	0	0	0	Rage Talon Dragonspawn - Combat - Cast Fixate
 9096	0	2	0	0	0	100	2	1400	12300	7100	11700	11	15572	0	0	0	0	0	2	0	0	0	0	0	0	0	Rage Talon Dragonspawn - Combat - Cast Sunder Armor
@@ -4755,8 +4755,8 @@
 9096	0	4	5	2	0	100	2	0	30	120000	120000	11	8269	0	0	0	0	0	1	0	0	0	0	0	0	0	Rage Talon Dragonspawn - HP@30% - Cast Frenzy
 9096	0	5	0	61	0	100	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Blackhand Summoner - HP@30% - say 0
 9097	0	0	0	4	0	100	2	0	0	0	0	39	10	0	0	0	0	0	1	0	0	0	0	0	0	0	Scarshield Legionnaire - On Aggro - Call for help
-9097	0	1	0	0	0	100	2	7800	11500	8000	22100	11	15496	0	0	0	0	0	2	0	0	0	0	0	0	0	Scarshield Legionnaire - Combat - Cast Cleave
-9097	0	2	0	0	0	100	2	4000	10000	14000	20000	11	11972	0	0	0	0	0	5	0	0	0	0	0	0	0	Scarshield Legionnaire - Combat - Cast Shield Bash
+9097	0	1	0	0	0	100	2	7800	11500	8000	22100	11	15496	0	0	0	0	0	2	0	0	0	0	0	0	0	Scarshield Legionnaire -  Combat - Cast Cleave
+9097	0	2	0	0	0	100	2	4000	10000	14000	20000	11	11972	0	0	0	0	0	5	0	0	0	0	0	0	0	Scarshield Legionnaire -  Combat - Cast Shield Bash
 9098	0	0	0	11	0	100	2	0	0	0	0	58	1	13748	1100	3000	30	30	1	0	0	0	0	0	0	0	Scarshield Spellbinder - On Reset - Load caster template Cast Arcane Bolt
 9098	0	1	0	4	0	100	2	0	0	0	0	39	10	0	0	0	0	0	1	0	0	0	0	0	0	0	Scarshield Spellbinder - On Aggro - Call for help
 9098	0	2	0	16	0	100	2	15123	30	3000	6000	11	15123	0	0	0	0	0	7	0	0	0	0	0	0	0	Blackhand Summoner - Combat - Cast Resist Fire
@@ -4963,11 +4963,11 @@
 10307	0	0	0	19	0	100	0	975	0	0	0	80	1030700	0	0	0	0	0	1	0	0	0	0	0	0	0	Witch Doctor Mau'ari - On Quest Accept - Run Script
 10307	0	1	2	62	0	100	0	2703	2	0	0	85	16351	0	0	0	0	0	7	0	0	0	0	0	0	0	Witch Doctor Mau'ari - On Gossip Option 2 Select - Cast Spell
 10307	0	2	0	61	0	100	0	0	0	0	0	72	0	0	0	0	0	0	7	0	0	0	0	0	0	0	Witch Doctor Mau'ari - On Gossip Option 2 Select - Close gossip
-10316	0	0	0	1	0	100	3	1000	1000	1000	1000	11	15281	0	0	0	0	0	1	0	0	0	0	0	0	0	Blackhand Incarcerator - OOC - Cast Encage Emberseer
-10316	0	1	2	38	0	100	2	0	1	0	0	92	0	15281	0	0	0	0	1	0	0	0	0	0	0	0	Blackhand Incarcerator - On data set - Stop Casting Encage Emberseer
-10316	0	2	4	61	0	100	0	0	0	0	0	19	768	0	0	0	0	0	1	0	0	0	0	0	0	0	Blackhand Incarcerator - On data set - Remove unit flags
-10316	0	3	4	4	0	100	2	0	0	0	0	9	0	0	0	0	0	0	15	175244	100	0	0	0	0	0	Blackhand Incarcerator - On aggro - close emberseer in door
-10316	0	4	0	61	0	100	0	0	0	0	0	9	0	0	0	0	0	0	15	175705	100	0	0	0	0	0	Blackhand Incarcerator - On aggro - close doors
+10316	0	0	0	1	0	100	3	1000	1000	1000	1000	11	15281	0	0	0	0	0	1	0	0	0	0	0	0	0	Blackhand Incarcerator - OOC -  Cast Encage Emberseer
+10316	0	1	2	38	0	100	2	0	1	0	0	92	0	15281	0	0	0	0	1	0	0	0	0	0	0	0	Blackhand Incarcerator - On data set -  Stop Casting Encage Emberseer
+10316	0	2	4	61	0	100	0	0	0	0	0	19	768	0	0	0	0	0	1	0	0	0	0	0	0	0	Blackhand Incarcerator - On data set -  Remove unit flags
+10316	0	3	4	4	0	100	2	0	0	0	0	9	0	0	0	0	0	0	15	175244	100	0	0	0	0	0	Blackhand Incarcerator - On aggro -  close emberseer in door
+10316	0	4	0	61	0	100	0	0	0	0	0	9	0	0	0	0	0	0	15	175705	100	0	0	0	0	0	Blackhand Incarcerator - On aggro -  close doors
 10316	0	5	0	0	0	100	2	7800	15800	13800	22900	11	12039	0	0	0	0	0	2	0	0	0	0	0	0	0	Blackhand Incarcerator - Combat - Cast Strike
 10316	0	6	0	0	0	100	2	10000	20000	6000	12000	11	8362	0	0	0	0	0	5	0	0	0	0	0	0	0	Blackhand Incarcerator - Combat - Cast Encage
 10316	0	7	0	2	0	100	3	0	15	0	0	25	1	0	0	0	0	0	1	0	0	0	0	0	0	0	Blackhand Incarcerator - HP@15% - Flee for help
@@ -5452,7 +5452,7 @@
 11454	0	16	0	2	0	100	1	0	15	0	0	21	1	0	0	0	0	0	1	0	0	0	0	0	0	0	Wildspawn Betrayer - At 15% HP - Start Combat Movement
 11454	0	17	0	2	0	100	1	0	15	0	0	25	1	0	0	0	0	0	1	0	0	0	0	0	0	0	Wildspawn Betrayer - At 15% HP - Flee
 11454	0	18	19	7	0	100	0	0	0	0	0	22	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Wildspawn Betrayer - On Evade - Set Phase to 0
-11454	0	19	0	61	0	100	0	0	0	0	0	40	1	0	0	0	0	0	1	0	0	0	0	0	0	0	Wildspawn Betrayer - On Evade - Set Melee Weapon Model
+11454	0	19	0	61	0	100	0	0	0	0	0	40	1	0	0	0	0	0	1	0	0	0	0	0	0	0	Wildspawn Betrayer - On Evade -  Set Melee Weapon Model
 11455	0	0	0	1	0	100	1	1000	1000	1800000	1800000	11	12542	0	0	0	0	0	1	0	0	0	0	0	0	0	Wildspawn Felsworn - Cast Chaotic Focus
 11455	0	1	0	4	0	100	0	0	0	0	0	21	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Wildspawn Felsworn - On Aggro - Prevent Combat Movement
 11455	0	2	3	4	0	100	0	0	0	0	0	11	15537	0	0	0	0	0	2	0	0	0	0	0	0	0	Wildspawn Felsworn - On Aggro - Cast Shadow Bolt
@@ -5460,7 +5460,7 @@
 11455	0	4	0	9	1	100	0	0	40	2400	3800	11	15537	0	0	0	0	0	2	0	0	0	0	0	0	0	Wildspawn Felsworn - Phase 1 - Cast Shadow Bolt
 11455	0	5	6	3	1	100	0	0	15	0	0	21	1	0	0	0	0	0	1	0	0	0	0	0	0	0	Wildspawn Felsworn -In Phase 1 - Start Combat Movement
 11455	0	6	0	61	1	100	0	0	0	0	0	22	1	0	0	0	0	0	1	0	0	0	0	0	0	0	Wildspawn Felsworn - Mana at 15% (Phase 1) - Set Phase 2
-11455	0	7	0	9	1	100	0	35	80	0	0	21	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Wildspawn Felsworn - At 35 Yards (Phase 1) - Start Combat Movement
+11455	0	7	0	9	1	100	0	35	80	0	0	21	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Wildspawn Felsworn - At 35 Yards  (Phase 1) - Start Combat Movement
 11455	0	8	0	9	1	100	0	5	15	0	0	21	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Wildspawn Felsworn - at 15 Yards (Phase 1) - Prevent Combat Movement 
 11455	0	9	0	9	1	100	0	0	5	0	0	21	1	0	0	0	0	0	1	0	0	0	0	0	0	0	Wildspawn Felsworn - Below 5 Yards (Phase 1) - Start Combat Movement
 11455	0	10	0	3	2	100	0	0	30	100	100	22	1	0	0	0	0	0	1	0	0	0	0	0	0	0	Wildspawn Felsworn - Mana is above 30% (Phase 2) - Set Phase 1
@@ -5478,7 +5478,7 @@
 11457	0	3	0	9	1	100	0	0	40	2400	3800	11	15228	0	0	0	0	0	2	0	0	0	0	0	0	0	Wildspawn Hellcaller - Phase 1 - Cast Fireball
 11457	0	4	5	3	1	100	0	0	15	0	0	21	1	0	0	0	0	0	1	0	0	0	0	0	0	0	Wildspawn Hellcaller -In Phase 1 - Start Combat Movement
 11457	0	5	0	61	1	100	0	0	0	0	0	22	1	0	0	0	0	0	1	0	0	0	0	0	0	0	Wildspawn Hellcaller - Mana at 15% (Phase 1) - Set Phase 2
-11457	0	6	0	9	1	100	0	35	80	0	0	21	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Wildspawn Hellcaller - At 35 Yards (Phase 1) - Start Combat Movement
+11457	0	6	0	9	1	100	0	35	80	0	0	21	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Wildspawn Hellcaller - At 35 Yards  (Phase 1) - Start Combat Movement
 11457	0	7	0	9	1	100	0	5	15	0	0	21	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Wildspawn Hellcaller - at 15 Yards (Phase 1) - Prevent Combat Movement 
 11457	0	8	0	9	1	100	0	0	5	0	0	21	1	0	0	0	0	0	1	0	0	0	0	0	0	0	Wildspawn Hellcaller - Below 5 Yards (Phase 1) - Start Combat Movement
 11457	0	9	0	3	2	100	0	0	30	100	100	22	1	0	0	0	0	0	1	0	0	0	0	0	0	0	Wildspawn Hellcaller - Mana is above 30% (Phase 2) - Set Phase 1
@@ -5495,7 +5495,7 @@
 11518	0	1	0	0	0	75	2	12000	12000	30000	30000	11	20800	1	0	0	0	0	2	0	0	0	0	0	0	0	Jergosh the Invoker - Cast Immolat
 11519	0	0	0	0	0	85	2	8000	8000	16000	17000	11	14873	1	0	0	0	0	2	0	0	0	0	0	0	0	Bazzalan - Cast Sinister Strike
 11519	0	1	0	0	0	75	2	3000	5000	12000	15000	11	2818	1	32	0	0	0	2	0	0	0	0	0	0	0	Bazzalan - Cast Poison
-11520	0	0	0	0	0	85	2	5000	5000	15000	20000	11	18072	1	0	0	0	0	5	0	0	0	0	0	0	0	Taragaman the Hungerer - Cast Uppercut
+11520	0	0	0	0	0	85	2	5000	5000	15000	20000	11	18072	1	0	0	0	0	5	0	0	0	0	0	0	0	Taragaman the Hungerer  - Cast Uppercut
 11520	0	1	0	0	0	75	2	8000	8000	20000	25000	11	11970	1	0	0	0	0	24	0	0	0	0	0	0	0	Taragaman the Hungerer - Cast Fire Nova
 11551	0	0	0	0	0	100	2	6500	13100	20700	33900	11	15474	0	0	0	0	0	2	0	0	0	0	0	0	0	Necrofiend - In Combat - Cast Web Explosion
 11551	0	1	0	0	0	100	2	6400	22800	16000	25600	11	3583	32	0	0	0	0	2	0	0	0	0	0	0	0	Necrofiend - In Combat - Cast Deadly Poison
@@ -5903,7 +5903,7 @@
 13196	0	8	0	0	8	100	0	4000	8000	10000	13000	11	22356	2	0	0	0	0	2	0	0	0	0	0	0	0	Phase Lasher - In Phase 4 - Cast Slow
 13196	0	9	0	61	8	100	0	0	0	0	0	22	1	0	0	0	0	0	1	0	0	0	0	0	0	0	Phase Lasher - In Phase 4 - Set Phase 1
 13196	0	10	11	0	16	100	0	4000	8000	6000	8000	11	21749	2	0	0	0	0	2	0	0	0	0	0	0	0	Phase Lasher - In Phase 5 - Cast Thorn Volley
-13196	0	11	0	61	16	100	0	0	0	0	0	22	1	0	0	0	0	0	1	0	0	0	0	0	0	0	Phase Lasher - In Phase 5 - Set Phase 1
+13196	0	11	0	61	16	100	0	0	0	0	0	22	1	0	0	0	0	0	1	0	0	0	0	0	0	0	Phase Lasher - In Phase 5  - Set Phase 1
 13196	0	12	0	7	0	100	0	0	0	0	0	22	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Phase Lasher - On Evade - Set Phase to 0
 13196	0	13	0	6	0	100	0	0	0	0	0	22	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Phase Lasher - On Death - Set Phase to 0
 13197	0	0	0	4	0	100	0	0	0	0	0	21	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Fel Lash - On Aggro - Prevent Combat Movement
@@ -5911,7 +5911,7 @@
 13197	0	2	0	61	0	100	0	0	0	0	0	22	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Fel Lash - On Aggro - Set Phase 1
 13197	0	3	0	9	1	100	0	0	40	2400	3800	11	15230	0	0	0	0	0	2	0	0	0	0	0	0	0	Fel Lash - In Phase 1 - Cast Arcane Bolt 
 13197	0	4	5	3	1	100	0	0	15	0	0	21	1	0	0	0	0	0	1	0	0	0	0	0	0	0	Fel Lash - In Phase 1 and Mana at 15% - Start Combat Movement
-13197	0	5	0	61	1	100	0	0	0	0	0	22	2	0	0	0	0	0	0	0	0	0	0	0	0	0	Fel Lash - In Phase 1 and Mana is at 15% - set Phase 2
+13197	0	5	0	61	1	100	0	0	0	0	0	22	2	0	0	0	0	0	0	0	0	0	0	0	0	0	Fel Lash - In Phase 1 and  Mana is at 15% - set Phase 2
 13197	0	6	0	9	1	100	0	35	80	0	0	21	1	0	0	0	0	0	1	0	0	0	0	0	0	0	Fel Lash - In Phase 1 - Start Combat Movement at 35 Yards
 13197	0	7	0	9	1	100	0	5	15	0	0	21	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Fel Lash - In Phase 1 - Prevent Combat Movement at 15 Yards
 13197	0	8	0	9	1	100	0	0	5	0	0	21	1	0	0	0	0	0	1	0	0	0	0	0	0	0	Fel Lash - In Phase 1 - Start Combat Movement Below 5 Yards
@@ -8790,7 +8790,7 @@
 22964	0	0	0	0	0	100	2	7000	7000	25000	40000	11	41380	0	0	0	0	0	2	0	0	0	0	0	0	0	Sister of Pleasure - In Combat - Cast Holy Nova
 22964	0	1	0	2	0	100	2	0	50	50000	65000	11	41378	0	0	0	0	0	1	0	0	0	0	0	0	0	Sister of Pleasure - At 50% HP - Cast Greater Heal
 22964	0	2	0	2	0	100	2	0	20	40000	50000	11	41381	0	0	0	0	0	1	0	0	0	0	0	0	0	Sister of Pleasure - At 20% HP - Cast Shell of Life
-22979	0	0	0	13	0	100	0	0	0	0	0	25	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Sparrowhawk - On target casting spell on it - Flee
+22979	0	0	0	13	0	100	0	0	0	0	0	25	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Sparrowhawk - On target casting  spell on it - Flee
 22979	0	1	2	8	0	100	0	39810	0	0	0	85	39812	0	0	0	0	0	7	0	0	0	0	0	0	0	Sparrowhawk - On spell hit by net - Ivoker cast on self spell for item
 22979	0	2	3	61	0	100	0	0	0	0	0	47	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Sparrowhawk - Linked with previous event - Set unseen
 22979	0	3	0	61	0	100	0	0	0	0	0	41	1	0	0	0	0	0	1	0	0	0	0	0	0	0	Sparrowhawk - Linked with previous event - Despawn in 1 sec
@@ -9959,7 +9959,7 @@
 26293	0	1	0	2	0	100	1	0	80	0	0	80	2629300	2	0	0	0	0	1	0	0	0	0	0	0	0	Hulking Jormungar - At 80% HP - Run Script
 26293	0	2	0	8	1	100	0	47305	0	0	0	80	2629301	2	0	0	0	0	1	0	0	0	0	0	0	0	Hulking Jormungar - On Spellhit (P1) - Run Script
 26343	0	0	0	11	0	100	0	0	0	0	0	11	32423	0	0	0	0	0	1	0	0	0	0	0	0	0	Indu'le Fisherman - On spawn - Cast Blue Radiation on self
-26343	0	1	0	9	0	100	0	0	20	15000	18000	11	11820	0	0	0	0	0	2	0	0	0	0	0	0	0	Indu'le Fisherman - Cast Electrified Net
+26343	0	1	0	9	0	100	0	0	20	15000	18000	11	11820	0	0	0	0	0	2	0	0	0	0	0	0	0	Indu'le Fisherman -  Cast Electrified Net
 26349	0	0	0	1	0	100	1	1000	1000	1000	1000	11	46906	2	0	0	0	0	10	113473	26298	0	0	0	0	0	Cast Surge Needle Beam when spawned
 26349	0	1	0	21	0	100	0	0	0	0	0	11	46906	2	0	0	0	0	10	113473	26298	0	0	0	0	0	Cast Surge Needle Beam when reach home
 26349	0	2	0	2	0	100	1	0	50	0	0	11	20828	0	0	0	0	0	2	0	0	0	0	0	0	0	Cast Cone of Cold on victim at 50% health
@@ -11126,7 +11126,7 @@
 29402	0	0	0	0	0	100	0	1000	3000	7000	10000	11	56356	0	0	0	0	0	1	0	0	0	0	0	0	0	Cast Ironwool Coat
 29402	0	1	2	8	0	100	0	54577	0	0	0	11	54581	0	0	0	0	0	1	0	0	0	0	0	0	0	On spellhit - Cast Mammoth Explosion Spell Spawner
 29402	0	2	0	61	0	100	0	0	0	0	0	41	500	0	0	0	0	0	1	0	0	0	0	0	0	0	On link - Despawn
-29445	0	0	0	62	0	100	0	9926	0	0	0	33	30514	0	0	0	0	0	7	0	0	0	0	0	0	0	Thorim - gossip select - give quest credit
+29445	0	0	0	62	0	100	0	9926	0	0	0	33	30514	0	0	0	0	0	7	0	0	0	0	0	0	0	Thorim - gossip select  - give quest credit
 29454	0	0	0	10	0	100	0	1	20	2000	2000	33	29454	0	0	0	0	0	7	0	0	0	0	0	0	0	Burr - On LOS Out Of Combat - Quest Credit
 29455	0	0	0	10	0	100	0	1	20	2000	2000	33	29455	0	0	0	0	0	7	0	0	0	0	0	0	0	Gerk - On LOS Out Of Combat - Quest Credit
 29466	0	0	0	11	0	100	1	0	0	0	0	32	0	0	0	0	0	0	15	191544	5	0	0	0	0	0	Goblin Prisoner - On respawn - reset cage
@@ -11758,9 +11758,9 @@
 32246	0	0	0	11	0	100	5	0	0	0	0	11	59686	1	0	0	0	0	1	0	0	0	0	0	0	0	Ticking Time Bomb - On Respawn - Cast Ticking Time Bomb
 32246	0	1	0	0	0	100	5	5500	5500	0	0	41	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Ticking Time Bomb - In Combat - Forced Despawn
 32300	0	0	0	0	0	100	0	8000	9000	8000	9000	11	60472	0	0	0	0	0	2	0	0	0	0	0	0	0	Alumeth - IC - Cast Mindflay
-32300	0	1	0	0	0	100	0	8000	10000	8000	10000	11	34322	1	0	0	0	0	2	0	0	0	0	0	0	0	Alumeth - IC - Cast Psychicscream
-32300	0	2	0	0	0	100	0	9000	12000	9000	12000	11	37978	0	0	0	0	0	1	0	0	0	0	0	0	0	Alumeth - IC - Cast Renew
-32300	0	3	0	0	0	100	0	7000	10000	7000	10000	11	34942	1	0	0	0	0	2	0	0	0	0	0	0	0	Alumeth - IC - Cast Shadow Word: Pain
+32300	0	1	0	0	0	100	0	8000	10000	8000	10000	11	34322	1	0	0	0	0	2	0	0	0	0	0	0	0	Alumeth - IC -  Cast Psychicscream
+32300	0	2	0	0	0	100	0	9000	12000	9000	12000	11	37978	0	0	0	0	0	1	0	0	0	0	0	0	0	Alumeth - IC -  Cast Renew
+32300	0	3	0	0	0	100	0	7000	10000	7000	10000	11	34942	1	0	0	0	0	2	0	0	0	0	0	0	0	Alumeth - IC -  Cast Shadow Word: Pain
 32347	0	0	0	8	0	100	0	60834	0	0	0	12	32300	6	20000	0	0	0	8	0	0	8219	2187.09	499.82	3.10669	0	Alumeth Summon Bunny - On Spellhit - Summon Alumeth the Ascended
 32357	0	0	0	0	0	100	0	3700	16200	19200	28000	11	50506	0	0	0	0	0	0	0	0	0	0	0	0	0	Old Crystalbark - Cast Mark of Detonation
 32357	0	1	0	0	0	100	0	1625	8100	9600	14000	11	60903	0	0	0	0	0	0	0	0	0	0	0	0	0	Old Crystalbark - Cast Arcane Breath
@@ -12522,8 +12522,8 @@
 190834	1	0	0	70	0	100	0	2	0	0	0	9	0	0	0	0	0	0	14	57571	190784	0	0	0	0	0	Gate lever - On activate - Activate gate
 191544	1	0	1	70	0	100	0	2	0	0	0	45	0	1	0	0	0	0	11	29466	5	0	0	0	0	0	Rusty Cage - On activate - set data on Goblin Prisoner
 191544	1	1	0	61	0	100	0	0	0	0	0	33	29466	0	0	0	0	0	7	0	0	0	0	0	0	0	Rusty Cage - On activate - quest credit
-191553	1	0	1	62	0	100	0	10211	0	0	0	72	0	0	0	0	0	0	7	0	0	0	0	0	0	0	On gossip - Close gossip
-191553	1	1	0	61	0	100	0	0	0	0	0	85	54576	0	0	0	0	0	7	0	0	0	0	0	0	0	On link - Cast Forceitem U.D.E.D.
+191553	1	0	1	62	0	100	0	10211	0	0	0	72	0	0	0	0	0	0	7	0	0	0	0	0	0	0	On gossip  - Close gossip
+191553	1	1	0	61	0	100	0	0	0	0	0	85	54576	0	0	0	0	0	7	0	0	0	0	0	0	0	On link  - Cast Forceitem U.D.E.D.
 193020	1	0	0	70	0	100	0	2	0	0	0	9	0	0	0	0	0	0	14	61606	193019	0	0	0	0	0	Lever - On activate - Activate The Violet Hold
 193058	1	0	1	62	0	100	0	10028	0	0	0	85	58524	2	0	0	0	0	7	0	0	0	0	0	0	0	On Gossip Option Select - Cast Control Eidolon Watcher - Action Invoker
 193058	1	1	2	61	0	100	0	0	0	0	0	72	0	0	0	0	0	0	7	0	0	0	0	0	0	0	Eye of Dominion - On link - Close Gossip Option
@@ -12629,7 +12629,7 @@
 369200	9	2	0	0	0	100	0	135000	135000	0	0	1	2	0	0	0	0	0	7	0	0	0	0	0	0	0	Volcor - On Script - Say Line 2
 369200	9	3	0	0	0	100	0	0	0	0	0	15	994	0	0	0	0	0	7	0	0	0	0	0	0	0	Volcor - On Script - Quest Credit
 369201	9	0	0	0	0	100	0	0	0	0	0	1	0	0	0	0	0	0	1	3	0	0	0	0	0	0	Volcor - On Script - Say Line 0
-369201	9	1	0	0	0	100	0	0	0	0	0	53	0	3692	0	0	0	2	1	0	0	0	0	0	0	0	Volcor - On Script - Start WP
+369201	9	1	0	0	0	100	0	0	0	0	0	53	0	3692	0	0	0	2	1	0	0	0	0	0	0	0	Volcor - On Script  - Start WP
 369201	9	2	0	0	0	100	0	135000	135000	0	0	1	3	0	0	0	0	0	7	0	0	0	0	0	0	0	Volcor - On Script - Say Line 3
 369201	9	3	0	0	0	100	0	0	0	0	0	15	995	0	0	0	0	0	7	0	0	0	0	0	0	0	Volcor - On Script - Quest Credit
 369300	9	0	0	0	0	100	0	0	0	0	0	12	6086	1	25000	0	0	0	8	0	0	0	6435.25	368.004	13.9412	1.09956	Terenthis - On Script - Summon Auberdine Sentinel
@@ -12824,7 +12824,7 @@
 1435403	9	4	0	0	0	100	0	0	0	0	0	53	1	430620	0	0	0	0	1	0	0	0	0	0	0	0	Pusillin - On Script 4 - Start Waypoint Movement
 1435404	9	0	0	0	0	100	0	0	0	0	0	55	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Pusillin - On Script 5 - Stop Waypoint Movement
 1435404	9	1	0	0	0	100	0	0	0	0	0	1	4	0	0	0	0	0	9	0	0	0	0	0	0	0	Pusillin - On script 5 - Say Text 4
-1435404	9	2	0	0	0	100	0	0	0	0	0	2	168	0	0	0	0	0	1	0	0	0	0	0	0	0	Pusillin - On Script 5 - Set Faction Enemy
+1435404	9	2	0	0	0	100	0	0	0	0	0	2	168	0	0	0	0	0	1	0	0	0	0	0	0	0	Pusillin - On Script 5  - Set Faction Enemy
 1435404	9	3	0	0	0	100	0	100	100	0	0	8	2	0	0	0	0	0	1	0	0	0	0	0	0	0	Pusillin - On script 5 - Set React State Hostile
 1435404	9	4	0	0	0	100	0	100	100	0	0	11	22735	1	0	0	0	0	1	0	0	0	0	0	0	0	Pusillin - On Script 5 - Aura Self
 1435404	9	5	0	0	0	100	0	0	0	0	0	12	13276	7	0	0	0	0	8	0	0	0	25.1447	-703.067	-12.6426	0	Pusillin - On Script 5 - Summon Wildspawn Imp
@@ -14202,7 +14202,7 @@
 17954400	9	4	0	0	0	100	0	0	0	0	0	9	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Skeletal Remains of Kariel Winthalus - Script - Deactivate self
 17954400	9	5	0	0	0	100	0	28000	28000	28000	28000	32	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Skeletal Remains of Kariel Winthalus - Script - Activate self
 18174800	9	0	0	0	0	100	0	2000	2000	0	0	12	17189	3	180000	0	0	0	8	0	0	0	-3105.36	-12549.2	-1.28	4.6	Blood Crystal - Action 0 - Summon
-18174800	9	1	0	0	0	100	0	0	0	0	0	12	17189	3	180000	0	0	0	8	0	0	0	-3128.49	-12540.2	-2.54	1.5	Blood Crystal - Action 1 - Summon
+18174800	9	1	0	0	0	100	0	0	0	0	0	12	17189	3	180000	0	0	0	8	0	0	0	-3128.49	-12540.2	-2.54	1.5	Blood Crystal  - Action 1 - Summon
 18551200	9	0	0	0	0	100	0	10000	10000	0	0	12	22920	1	300000	0	1	0	8	0	0	0	3989.02	6071.37	266.41	3.72	Script - After 10s - Summon Thuk the Defiant
 18785400	9	0	0	0	0	100	0	65000	65000	65000	65000	32	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Scourge Cage - Script - Reset GameObject
 18785500	9	0	0	0	0	100	0	65000	65000	65000	65000	32	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Scourge Cage - Script - Reset GameObject

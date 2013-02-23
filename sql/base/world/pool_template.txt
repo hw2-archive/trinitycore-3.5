@@ -2176,7 +2176,7 @@
 5692	1	Dalaran Books: Violet Citadel Lower
 5693	1	Dalaran Books: Threads of Fate
 5694	1	Dalaran Books: Ledgerdemain Lounge Upstairs
-5695	1	Dalaran Books: Visitor├ås Center
+5695	1	Dalaran Books: VisitorÆs Center
 5696	1	Dalaran Books: Violet Citadel Upstairs
 5697	1	Dalaran Books: Violet Hold
 5698	1	Dalaran Books: Ledgerdemain Lounge Lower

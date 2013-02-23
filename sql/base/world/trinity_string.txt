@@ -274,7 +274,7 @@ GroundZ: %f FloorZ: %f Have height data (Map: %u VMap: %u)	\N	\N	\N	\N	\N	\N	\N	
 326	Faction %s (%u) can't have reputation.	\N	\N	\N	\N	\N	\N	\N	\N
 327	 [no reputation]	\N	\N	\N	\N	\N	\N	\N	\N
 328	Characters at account %s (Id: %u)	\N	\N	\N	\N	\N	\N	\N	\N
-329	 %s (GUID %u)	\N	\N	\N	\N	\N	\N	\N	\N
+329	  %s (GUID %u)	\N	\N	\N	\N	\N	\N	\N	\N
 330	No players found!	\N	\N	\N	\N	\N	\N	\N	\N
 331	Extended item cost %u not exist	\N	\N	\N	\N	\N	\N	\N	\N
 332	GM mode is ON	\N	\N	\N	\N	\N	\N	\N	\N
@@ -326,7 +326,7 @@ GroundZ: %f FloorZ: %f Have height data (Map: %u VMap: %u)	\N	\N	\N	\N	\N	\N	\N	
 415	There is no such IP in banlist.	\N	\N	\N	\N	\N	\N	\N	\N
 416	Account %s has never been banned	\N	\N	\N	\N	\N	\N	\N	\N
 417	Ban history for account %s:	\N	\N	\N	\N	\N	\N	\N	\N
-418	Ban Date: %s Bantime: %s Still active: %s Reason: %s Set by: %s	\N	\N	\N	\N	\N	\N	\N	\N
+418	Ban Date: %s Bantime: %s Still active: %s  Reason: %s Set by: %s	\N	\N	\N	\N	\N	\N	\N	\N
 419	Inf.	\N	\N	\N	\N	\N	\N	\N	\N
 420	Never	\N	\N	\N	\N	\N	\N	\N	\N
 421	Yes	\N	\N	\N	\N	\N	\N	\N	\N
@@ -444,18 +444,18 @@ Orientation: %f\
 Phasemask %u	\N	\N	\N	\N	\N	\N	\N	\N
 525	>> Add Game Object '%i' (%s) (GUID: %i) added at '%f %f %f'.	\N	\N	\N	\N	\N	\N	\N	\N
 526	%s (lowguid: %u) movement generators stack:	\N	\N	\N	\N	\N	\N	\N	\N
-527	 Idle	\N	\N	\N	\N	\N	\N	\N	\N
-528	 Random	\N	\N	\N	\N	\N	\N	\N	\N
-529	 Waypoint	\N	\N	\N	\N	\N	\N	\N	\N
-530	 Animal random	\N	\N	\N	\N	\N	\N	\N	\N
-531	 Confused	\N	\N	\N	\N	\N	\N	\N	\N
-532	 Targeted to player %s (lowguid %u)	\N	\N	\N	\N	\N	\N	\N	\N
-533	 Targeted to creature %s (lowguid %u)	\N	\N	\N	\N	\N	\N	\N	\N
-534	 Targeted to <NULL>	\N	\N	\N	\N	\N	\N	\N	\N
-535	 Home movement to (X:%f Y:%f Z:%f)	\N	\N	\N	\N	\N	\N	\N	\N
-536	 Home movement used for player?!?	\N	\N	\N	\N	\N	\N	\N	\N
-537	 Taxi flight	\N	\N	\N	\N	\N	\N	\N	\N
-538	 Unknown movement generator (%u)	\N	\N	\N	\N	\N	\N	\N	\N
+527	   Idle	\N	\N	\N	\N	\N	\N	\N	\N
+528	   Random	\N	\N	\N	\N	\N	\N	\N	\N
+529	   Waypoint	\N	\N	\N	\N	\N	\N	\N	\N
+530	   Animal random	\N	\N	\N	\N	\N	\N	\N	\N
+531	   Confused	\N	\N	\N	\N	\N	\N	\N	\N
+532	   Targeted to player %s (lowguid %u)	\N	\N	\N	\N	\N	\N	\N	\N
+533	   Targeted to creature %s (lowguid %u)	\N	\N	\N	\N	\N	\N	\N	\N
+534	   Targeted to <NULL>	\N	\N	\N	\N	\N	\N	\N	\N
+535	   Home movement to (X:%f Y:%f Z:%f)	\N	\N	\N	\N	\N	\N	\N	\N
+536	   Home movement used for player?!?	\N	\N	\N	\N	\N	\N	\N	\N
+537	   Taxi flight	\N	\N	\N	\N	\N	\N	\N	\N
+538	   Unknown movement generator (%u)	\N	\N	\N	\N	\N	\N	\N	\N
 539	Player selected NPC\
 DB GUID: %u, current GUID: %u.\
 Faction: %u.\
@@ -486,7 +486,7 @@ Faction Template: %u.	\N	\N	\N	\N	\N	\N	\N	\N
 559	%s reset your level progress.	\N	\N	\N	\N	\N	\N	\N	\N
 560	The area has been set as explored.	\N	\N	\N	\N	\N	\N	\N	\N
 561	The area has been set as not explored.	\N	\N	\N	\N	\N	\N	\N	\N
-562	GUID=%i 's updateIndex: %i, value: %i.	\N	\N	\N	\N	\N	\N	\N	\N
+562	GUID=%i 's updateIndex: %i, value:  %i.	\N	\N	\N	\N	\N	\N	\N	\N
 563	You change GUID=%i 's UpdateIndex: %i value to %i.	\N	\N	\N	\N	\N	\N	\N	\N
 564	The value index %u is too big to %u(count: %u).	\N	\N	\N	\N	\N	\N	\N	\N
 565	Set %u uint32 Value:[OPCODE]:%u [VALUE]:%u	\N	\N	\N	\N	\N	\N	\N	\N
@@ -515,16 +515,16 @@ Start: %s End: %s Occurence: %s Length: %s\
 Next state change: %s	\N	\N	\N	\N	\N	\N	\N	\N
 587	Event %u already active!	\N	\N	\N	\N	\N	\N	\N	\N
 588	Event %u not active!	\N	\N	\N	\N	\N	\N	\N	\N
-589	 Point movement to (X:%f Y:%f Z:%f)	\N	\N	\N	\N	\N	\N	\N	\N
-590	 Fear movement	\N	\N	\N	\N	\N	\N	\N	\N
-591	 Distract movement	\N	\N	\N	\N	\N	\N	\N	\N
+589	   Point movement to (X:%f Y:%f Z:%f)	\N	\N	\N	\N	\N	\N	\N	\N
+590	   Fear movement	\N	\N	\N	\N	\N	\N	\N	\N
+591	   Distract movement	\N	\N	\N	\N	\N	\N	\N	\N
 592	You have learned all spells in craft: %s	\N	\N	\N	\N	\N	\N	\N	\N
 593	Currently Banned Accounts:	\N	\N	\N	\N	\N	\N	\N	\N
-594	| Account | BanDate | UnbanDate | Banned By | Ban Reason |	\N	\N	\N	\N	\N	\N	\N	\N
+594	|    Account    |   BanDate    |   UnbanDate  |  Banned By    |   Ban Reason  |	\N	\N	\N	\N	\N	\N	\N	\N
 595	Currently Banned IPs:	\N	\N	\N	\N	\N	\N	\N	\N
-596	| IP | BanDate | UnbanDate | Banned By | Ban Reason |	\N	\N	\N	\N	\N	\N	\N	\N
+596	|      IP       |   BanDate    |   UnbanDate  |  Banned By    |   Ban Reason  |	\N	\N	\N	\N	\N	\N	\N	\N
 597	Current gamemasters:	\N	\N	\N	\N	\N	\N	\N	\N
-598	| Account | GM |	\N	\N	\N	\N	\N	\N	\N	\N
+598	|    Account    |  GM  |	\N	\N	\N	\N	\N	\N	\N	\N
 599	No gamemasters.	\N	\N	\N	\N	\N	\N	\N	\N
 600	The Alliance wins!	\N	\N	\N	\N	\N	\N	\N	\N
 601	The Horde wins!	\N	\N	\N	\N	\N	\N	\N	\N
@@ -672,13 +672,13 @@ Queued hordes: %u (Need at least %u more)	\N	\N	\N	\N	\N	\N	\N	\N
 1007	Account %s NOT created (probably sql file format was updated)	\N	\N	\N	\N	\N	\N	\N	\N
 1008	Account %s NOT created (unknown error)	\N	\N	\N	\N	\N	\N	\N	\N
 1009	Player %s (Guid: %u) Account %s (Id: %u) deleted.	\N	\N	\N	\N	\N	\N	\N	\N
-1010	-[ Account][ Character][ IP][Map][Zone][Exp][GMLev]-	\N	\N	\N	\N	\N	\N	\N	\N
-1011	|<Error> | %20s |<Error> |<Er>| <Error> |	\N	\N	\N	\N	\N	\N	\N	\N
+1010	-[         Account][   Character][             IP][Map][Zone][Exp][GMLev]-	\N	\N	\N	\N	\N	\N	\N	\N
+1011	|<Error>        | %20s |<Error>          |<Er>| <Error>   |	\N	\N	\N	\N	\N	\N	\N	\N
 1012	-==================================================================-	\N	\N	\N	\N	\N	\N	\N	\N
 1013	-[%16s][%12s][%15s][%3d][%4d][%d][%d]-	\N	\N	\N	\N	\N	\N	\N	\N
 1014	No online players.	\N	\N	\N	\N	\N	\N	\N	\N
 1015	-======================== Characters Online =======================-	\N	\N	\N	\N	\N	\N	\N	\N
-1016	| GUID | Name | Account | Delete Date |	\N	\N	\N	\N	\N	\N	\N	\N
+1016	| GUID       | Name                 | Account                      | Delete Date         |	\N	\N	\N	\N	\N	\N	\N	\N
 1017	| %10u | %20s | %15s (%10u) | %19s |	\N	\N	\N	\N	\N	\N	\N	\N
 1018	==========================================================================================	\N	\N	\N	\N	\N	\N	\N	\N
 1019	No characters found.	\N	\N	\N	\N	\N	\N	\N	\N
@@ -725,16 +725,16 @@ Queued hordes: %u (Need at least %u more)	\N	\N	\N	\N	\N	\N	\N	\N
 1130	Can't dump deleted characters,aborting.	\N	\N	\N	\N	\N	\N	\N	\N
 1131	The following characters match your query:	\N	\N	\N	\N	\N	\N	\N	\N
 1132	Currently Banned Characters:	\N	\N	\N	\N	\N	\N	\N	\N
-1133	| Character | BanDate | UnbanDate | Banned By | Ban Reason |	\N	\N	\N	\N	\N	\N	\N	\N
+1133	|   Character   |   BanDate    |   UnbanDate  |  Banned By    |   Ban Reason  |	\N	\N	\N	\N	\N	\N	\N	\N
 1134	Sending tickets is allowed.	\N	\N	\N	\N	\N	\N	\N	\N
 1135	Sending tickets is not allowed.	\N	\N	\N	\N	\N	\N	\N	\N
 1136	Character %s has never been banned!	\N	\N	\N	\N	\N	\N	\N	\N
 1137	Dev mode is ON	\N	\N	\N	\N	\N	\N	\N	\N
 1138	Dev mode is OFF	\N	\N	\N	\N	\N	\N	\N	\N
-1139	 Follow player %s (lowguid %u)	\N	\N	\N	\N	\N	\N	\N	\N
-1140	 Follow creature %s (lowguid %u)	\N	\N	\N	\N	\N	\N	\N	\N
-1141	 Follow <NULL>	\N	\N	\N	\N	\N	\N	\N	\N
-1142	 Effect movement	\N	\N	\N	\N	\N	\N	\N	\N
+1139	   Follow player %s (lowguid %u)	\N	\N	\N	\N	\N	\N	\N	\N
+1140	   Follow creature %s (lowguid %u)	\N	\N	\N	\N	\N	\N	\N	\N
+1141	   Follow <NULL>	\N	\N	\N	\N	\N	\N	\N	\N
+1142	   Effect movement	\N	\N	\N	\N	\N	\N	\N	\N
 1143	Target's moveFlags: %u, moveFlagsExtra: %u.	\N	\N	\N	\N	\N	\N	\N	\N
 1144	Target's moveFlags set to: %u, moveFlagsExtra to: %u	\N	\N	\N	\N	\N	\N	\N	\N
 1200	You try to view cinematic %u but it doesn't exist.	\N	\N	\N	\N	\N	\N	\N	\N
@@ -955,7 +955,7 @@ Queued hordes: %u (Need at least %u more)	\N	\N	\N	\N	\N	\N	\N	\N
 10059	Let the battle for Strand of the Ancients begin!	\N	\N	\N	\N	\N	\N	\N	\N
 10060	The %s is under attack!	\N	\N	\N	\N	\N	\N	\N	\N
 10061	The %s was destroyed!	\N	\N	\N	\N	\N	\N	\N	\N
-10062	Round 1 - finished!	\N	\N	\N	\N	\N	\N	\N	\N
+10062	Round 1 -  finished!	\N	\N	\N	\N	\N	\N	\N	\N
 10063	The Alliance captured the titan portal!	\N	\N	\N	\N	\N	\N	\N	\N
 10064	The Horde captured the titan portal!	\N	\N	\N	\N	\N	\N	\N	\N
 10065	Round 2 of the Battle for the Strand of the Ancients begins in 1 minute.	\N	\N	\N	\N	\N	\N	\N	\N

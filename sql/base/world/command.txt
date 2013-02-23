@@ -96,17 +96,17 @@ bindsight	3	Syntax: .bindsight\
 \
 Binds vision to the selected unit indefinitely. Cannot be used while currently possessing a target.
 cast	3	Syntax: .cast #spellid [triggered]\
- Cast #spellid to selected target. If no target selected cast to self. If 'trigered' or part provided then spell casted with triggered flag.
+  Cast #spellid to selected target. If no target selected cast to self. If 'trigered' or part provided then spell casted with triggered flag.
 cast back	3	Syntax: .cast back #spellid [triggered]\
- Selected target will cast #spellid to your character. If 'trigered' or part provided then spell casted with triggered flag.
+  Selected target will cast #spellid to your character. If 'trigered' or part provided then spell casted with triggered flag.
 cast dest	3	Syntax: .cast dest #spellid #x #y #z [triggered]\
- Selected target will cast #spellid at provided destination. If 'trigered' or part provided then spell casted with triggered flag.
+  Selected target will cast #spellid at provided destination. If 'trigered' or part provided then spell casted with triggered flag.
 cast dist	3	Syntax: .cast dist #spellid [#dist [triggered]]\
- You will cast spell to pint at distance #dist. If 'trigered' or part provided then spell casted with triggered flag. Not all spells can be casted as area spells.
+  You will cast spell to pint at distance #dist. If 'trigered' or part provided then spell casted with triggered flag. Not all spells can be casted as area spells.
 cast self	3	Syntax: .cast self #spellid [triggered]\
 Cast #spellid by target at target itself. If 'trigered' or part provided then spell casted with triggered flag.
 cast target	3	Syntax: .cast target #spellid [triggered]\
- Selected target will cast #spellid to his victim. If 'trigered' or part provided then spell casted with triggered flag.
+  Selected target will cast #spellid to his victim. If 'trigered' or part provided then spell casted with triggered flag.
 channel set ownership	3	Syntax: .channel set ownership $channel [on/off]\
 \
 Grant ownership to the first person that joins the channel.
@@ -129,7 +129,7 @@ Shows a list with all deleted characters.\
 If $name is supplied, only characters with that string in their name will be selected, if #guid is supplied, only the character with that GUID will be selected.
 character deleted old	4	Syntax: .character deleted old [#keepDays]\
 \
-Completely deletes all characters with deleted time longer #keepDays. If #keepDays not provided the used value from mangosd.conf option 'CharDelete.KeepDays'. If referenced config option disabled (use 0 value) then command can't be used without #keepDays.
+Completely deletes all characters with deleted time longer #keepDays. If #keepDays not provided the  used value from mangosd.conf option 'CharDelete.KeepDays'. If referenced config option disabled (use 0 value) then command can't be used without #keepDays.
 character deleted restore	3	Syntax: .character deleted restore #guid|$name [$newname] [#new account]\
 \
 Restores deleted characters.\
@@ -326,7 +326,7 @@ Query Gameobject information for selected gameobject or given entry.
 gobject move	2	Syntax: .gobject move #goguid [#x #y #z]\
 \
 Move gameobject #goguid to character coordinates (or to (#x,#y,#z) coordinates if its provide).
-gobject near	2	Syntax: .gobject near [#distance]\
+gobject near	2	Syntax: .gobject near  [#distance]\
 \
 Output gameobjects at distance #distance from player. Output gameobject guids and coordinates sorted by distance from character. If #distance not provided use 10 as default value.
 gobject set phase	2	Syntax: .gobject set phase #guid #phasemask\
@@ -362,7 +362,7 @@ guild	3	Syntax: .guild $subcommand\
 Type .guild to see the list of possible subcommands or .help guild $subcommand to see info on subcommands
 guild create	2	Syntax: .guild create [$GuildLeaderName] "$GuildName"\
 \
-Create a guild named $GuildName with the player $GuildLeaderName (or selected) as leader. Guild name must in quotes.
+Create a guild named $GuildName with the player $GuildLeaderName (or selected) as leader.  Guild name must in quotes.
 guild delete	2	Syntax: .guild delete "$GuildName"\
 \
 Delete guild $GuildName. Guild name must in quotes.
@@ -395,13 +395,13 @@ Force the yesterday's honor fields to be updated with today's data, which will g
 instance	3	Syntax: .instance $subcommand\
 Type .instance to see the list of possible subcommands or .help instance $subcommand to see info on subcommands
 instance listbinds	3	Syntax: .instance listbinds\
- Lists the binds of the selected player.
+  Lists the binds of the selected player.
 instance savedata	3	Syntax: .instance savedata\
- Save the InstanceData for the current player's map to the DB.
+  Save the InstanceData for the current player's map to the DB.
 instance stats	3	Syntax: .instance stats\
- Shows statistics about instances.
+  Shows statistics about instances.
 instance unbind	3	Syntax: .instance unbind <mapid|all> [difficulty]\
- Clear all/some of player's binds
+  Clear all/some of player's binds
 itemmove	2	Syntax: .itemmove #sourceslotid #destinationslotid\
 \
 Move an item from slots #sourceslotid to #destinationslotid in your inventory\
@@ -444,7 +444,7 @@ Increase/decrease the level of character with $playername (or the selected if no
 lfg clean	3	Syntax: .flg clean\
  Cleans current queue, only for debugging purposes.
 lfg group	2	Syntax: .lfg group\
- Shows information about all players in the group (state, roles, comment, dungeons selected).
+ Shows information about all players in the group  (state, roles, comment, dungeons selected).
 lfg options	3	Syntax: .lfg options [new value]\
  Shows current lfg options. New value is set if extra param is present.
 lfg player	2	Syntax: .lfg player\
@@ -618,7 +618,7 @@ morph	2	Syntax: .morph #displayid\
 \
 Change your current model id to #displayid.
 movegens	3	Syntax: .movegens\
- Show movement generators stack for selected creature or player.
+  Show movement generators stack for selected creature or player.
 mute	1	Syntax: .mute [$playerName] $timeInMinutes [$reason]\
 \
 Disible chat messaging for any character from account of character $playerName (or currently selected) at $timeInMinutes minutes. Player can be offline.
@@ -719,7 +719,7 @@ npc textemote	1	Syntax: .npc textemote #emoteid\
 \
 Make the selected creature to do textemote with an emote of id #emoteid.
 npc whisper	1	Syntax: .npc whisper #playerguid #text\
-Make the selected npc whisper #text to #playerguid.
+Make the selected npc whisper #text to  #playerguid.
 npc yell	1	Syntax: .npc yell $message\
 Make selected creature yell specified message.
 pdump	3	Syntax: .pdump $subcommand\
@@ -975,16 +975,16 @@ Syntax: .reset all talents\
 \
 Request reset spells or talents (including talents for all character's pets if any) at next login each existed character.
 reset honor	3	Syntax: .reset honor [Playername]\
- Reset all honor data for targeted character.
+  Reset all honor data for targeted character.
 reset level	3	Syntax: .reset level [Playername]\
- Reset level to 1 including reset stats and talents. Equipped items with greater level requirement can be lost.
+  Reset level to 1 including reset stats and talents.  Equipped items with greater level requirement can be lost.
 reset spells	3	Syntax: .reset spells [Playername]\
- Removes all non-original spells from spellbook.\
+  Removes all non-original spells from spellbook.\
 . Playername can be name of offline character.
 reset stats	3	Syntax: .reset stats [Playername]\
- Resets(recalculate) all stats of the targeted player to their original VALUESat current level.
+  Resets(recalculate) all stats of the targeted player to their original VALUESat current level.
 reset talents	3	Syntax: .reset talents [Playername]\
- Removes all talents of the targeted player or pet or named player. Playername can be name of offline character. With player talents also will be reset talents for all character's pets if any.
+  Removes all talents of the targeted player or pet or named player. Playername can be name of offline character. With player talents also will be reset talents for all character's pets if any.
 respawn	3	Syntax: .respawn\
 \
 Respawn all nearest creatures and GO without waiting respawn time expiration.
@@ -1133,7 +1133,7 @@ unfreeze	1	Syntax: .unfreeze (#player)\
 "Unfreezes" #player and enables his chat again. When using this without #name it will unfreeze your target.
 unlearn	3	Syntax: .unlearn #spell [all]\
 \
-Unlearn for selected player a spell #spell. If 'all' provided then all ranks unlearned.
+Unlearn for selected player a spell #spell.  If 'all' provided then all ranks unlearned.
 unmute	1	Syntax: .unmute [$playerName]\
 \
 Restore chat messaging for any character from account of character $playerName (or selected). Character can be ofline.

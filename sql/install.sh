@@ -5,4 +5,4 @@ source "../contrib/bashlib/sql.sh"
 
 mysqlrun "import" "$CONF_DIR/db.conf"
 
-read -p "Terminated. Press any key to continue;
+read -p "Terminated. Press any key to continue.."

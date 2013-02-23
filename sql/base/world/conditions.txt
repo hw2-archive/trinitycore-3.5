@@ -6070,7 +6070,7 @@
 15	6321	1	0	5	8	0	8042	0	0	0	0	0		Only allow gossip option to be visible if quest Strength of Mount Mugamba is rewarded
 15	6321	1	0	6	2	0	19576	1	1	1	0	0		Only allow gossip option to be visible if player does not have item Strength of Mugamba
 15	6321	1	0	6	8	0	8043	0	0	0	0	0		Only allow gossip option to be visible if quest Strength of Mount Mugamba is rewarded
-15	6322	0	0	0	2	0	19842	1	1	1	0	0		Only allow gossip option to be visible if player does not have item Zandalar Confessor's Bindings
+15	6322	0	0	0	2	0	19842	1	1	1	0	0		Only allow gossip option to be visible if player does not have item  Zandalar Confessor's Bindings
 15	6322	0	0	0	8	0	8070	0	0	0	0	0		Only allow gossip option to be visible if quest Paragons of Power: The Confessor's Bindings is rewarded
 15	6322	0	0	1	2	0	19841	1	1	1	0	0		Only allow gossip option to be visible if player does not have item Zandalar Confessor's Mantle
 15	6322	0	0	1	8	0	8071	0	0	0	0	0		Only allow gossip option to be visible if quest Paragons of Power: The Confessor's Mantle is rewarded
@@ -6926,7 +6926,7 @@
 15	21264	5	0	0	8	0	8042	0	0	0	0	0		Only allow gossip option to be visible if quest Strength of Mount Mugamba is rewarded
 15	21264	6	0	0	2	0	19576	1	1	1	0	0		Only allow gossip option to be visible if player does not have item Strength of Mugamba
 15	21264	6	0	0	8	0	8043	0	0	0	0	0		Only allow gossip option to be visible if quest Strength of Mount Mugamba is rewarded
-15	21265	0	0	0	2	0	19842	1	1	1	0	0		Only allow gossip option to be visible if player does not have item Zandalar Confessor's Bindings
+15	21265	0	0	0	2	0	19842	1	1	1	0	0		Only allow gossip option to be visible if player does not have item  Zandalar Confessor's Bindings
 15	21265	0	0	0	8	0	8070	0	0	0	0	0		Only allow gossip option to be visible if quest Paragons of Power: The Confessor's Bindings is rewarded
 15	21265	1	0	0	2	0	19841	1	1	1	0	0		Only allow gossip option to be visible if player does not have item Zandalar Confessor's Mantle
 15	21265	1	0	0	8	0	8071	0	0	0	0	0		Only allow gossip option to be visible if quest Paragons of Power: The Confessor's Mantle is rewarded

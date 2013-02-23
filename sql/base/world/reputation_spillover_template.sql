@@ -8,7 +8,7 @@ DROP TABLE IF EXISTS `reputation_spillover_template`;
 CREATE TABLE `reputation_spillover_template` (
   `faction` smallint(5) unsigned NOT NULL DEFAULT '0' COMMENT 'faction entry',
   `faction1` smallint(5) unsigned NOT NULL DEFAULT '0' COMMENT 'faction to give spillover for',
-  `rate_1` float NOT NULL DEFAULT '0' COMMENT 'the given rep points base create db.conf db.conf.dist dump.sh install.sh old update.sh updates rate',
+  `rate_1` float NOT NULL DEFAULT '0' COMMENT 'the given rep points * rate',
   `rank_1` tinyint(3) unsigned NOT NULL DEFAULT '0' COMMENT 'max rank,above this will not give any spillover',
   `faction2` smallint(5) unsigned NOT NULL DEFAULT '0',
   `rate_2` float NOT NULL DEFAULT '0',

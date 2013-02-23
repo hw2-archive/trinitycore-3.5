@@ -46,17 +46,17 @@
 253	1	0	The invisibility liquer is ready for you, $N.	12	0	100	0	0	0	William Pestle
 257	0	0	You no take candle!	12	0	100	0	0	0	Kobold Worker - Random Say on Aggro
 257	0	1	Yiieeeee! Me run!	12	0	100	0	0	0	Kobold Worker - Random Say on Aggro
-263	0	0	Undead are crawling all over the land. Where is the Stormwind Army?	12	0	100	0	0	0	Lord Ello Ebonlocke
-269	0	0	The Council of Duskwood must take action. Evil lingers in the air.	12	0	100	0	0	0	Role Dreuger
-269	0	1	The people of Darkshire expect more from the Council. We cannot let them suffer from this unholy wrath which plagues us.	12	0	100	0	0	0	Role Dreuger
-269	0	2	Constant bickering will get us nowhere. We need to take action.	12	0	100	0	0	0	Role Dreuger
+263	0	0	Undead are crawling all over the land.  Where is the Stormwind Army?	12	0	100	0	0	0	Lord Ello Ebonlocke
+269	0	0	The Council of Duskwood must take action.  Evil lingers in the air.	12	0	100	0	0	0	Role Dreuger
+269	0	1	The people of Darkshire expect more from the Council.  We cannot let them suffer from this unholy wrath which plagues us.	12	0	100	0	0	0	Role Dreuger
+269	0	2	Constant bickering will get us nowhere.  We need to take action.	12	0	100	0	0	0	Role Dreuger
 270	0	0	We need better representation from Stormwind. Our homes are falling to the undead.	12	0	100	0	0	0	Councilman Millstipe
 271	0	0	Our cause falls on deaf ears beyond the thick, stone walls of Stormwind.	12	0	100	0	0	0	Ambassador Berrybuck
 271	0	1	The news from Stormwind does not bode well. . . .	12	0	100	0	0	0	Ambassador Berrybuck
-314	0	0	Wait...you are not my husband. But he must have sent you. And you... look... delicious!	12	0	100	0	0	0	Eliza
+314	0	0	Wait...you are not my husband.  But he must have sent you.  And you... look... delicious!	12	0	100	0	0	0	Eliza
 314	0	1	Aber? Is that you...? Oh...I'm so hungry, Aber! SO HUNGRY!!	12	0	100	0	0	0	Eliza
 315	0	0	I shall spill your blood, $C!	12	0	100	0	0	0	Stalvan Mistmantle
-315	0	1	Who dares disturb me? Die $N!	12	0	100	0	0	0	Stalvan Mistmantle
+315	0	1	Who dares disturb me?  Die $N!	12	0	100	0	0	0	Stalvan Mistmantle
 325	0	0	I fear something dark is coming.	12	0	100	0	0	0	Hogan Ference
 325	0	1	The light appears to have forsaken us.	12	0	100	0	0	0	Hogan Ference
 325	0	2	Why haven't the Stormwind guards come?	12	0	100	0	0	0	Hogan Ference
@@ -380,7 +380,7 @@
 1978	7	0	Hello, Quinn. How are you faring?	12	0	100	0	0	0	erland SAY_QUINN
 1978	8	0	Try to take better care of yourself, Quinn. You were lucky this time.	12	0	100	0	0	0	erland SAY_BYE
 2044	0	0	Toil not in matters of the past, $N!	12	0	100	0	0	0	Forlorn Spirit
-2044	0	1	Who is this mere $R that meddles with that which is past? May the legend of Stalvan die along with you!	12	0	100	0	0	0	Forlorn Spirit
+2044	0	1	Who is this mere $R that meddles with that which is past?  May the legend of Stalvan die along with you!	12	0	100	0	0	0	Forlorn Spirit
 2080	0	0	Now let us place this rare earth in my planter...	12	0	100	1	0	0	Denalan
 2080	1	0	Thank you again, $N. This rare earth will be very helpful in my experiments.	12	0	100	1	0	0	Denalan
 2080	2	0	Denalan hurries to his planter.	41	0	100	1	0	0	Denalan
@@ -489,11 +489,11 @@
 2748	1	0	Awake ye servants, defend the discs!	14	0	100	0	0	5856	Archaedas On Summon Guardians
 2748	2	0	To my side, brothers. For the makers!	14	0	100	0	0	5857	Archaedas On Summon Vault Walkers
 2748	3	0	Reckless mortal.	14	0	100	0	0	5858	Archaedas On Player Kill
-2763	0	0	Stop! Foolish $C, we cannot let you summon the creature Myzrael!	14	0	100	0	0	0	Thenan
-2764	0	0	Take that! The Drywhiskers will prevail!	12	0	100	0	0	0	Sleeby
-2764	0	1	Stand firm, brothers. And don't worry! Size is on our side!	12	0	100	0	0	0	Sleeby
-2765	0	0	No! Leave us! We must not fail our task!	12	0	100	0	0	0	Znort
-2765	0	1	Stand firm, brothers. And don't worry! Size is on our side!	12	0	100	0	0	0	Znort
+2763	0	0	Stop!  Foolish $C, we cannot let you summon the creature Myzrael!	14	0	100	0	0	0	Thenan
+2764	0	0	Take that!  The Drywhiskers will prevail!	12	0	100	0	0	0	Sleeby
+2764	0	1	Stand firm, brothers.  And don't worry!  Size is on our side!	12	0	100	0	0	0	Sleeby
+2765	0	0	No!  Leave us!  We must not fail our task!	12	0	100	0	0	0	Znort
+2765	0	1	Stand firm, brothers.  And don't worry!  Size is on our side!	12	0	100	0	0	0	Znort
 2765	0	2	The Great One will smash you!	12	0	100	0	0	0	Znort
 2768	0	0	Ok, $N. Follow me to the cave where I'll attempt to harness the power of the rune stone into these goggles.	12	0	100	0	0	0	Professor Phizzlethorpe - SAY_PROGRESS_1
 2768	1	0	I discovered this cave on our first day here. I believe the energy in the stone can be used to our advantage.	12	0	100	0	0	0	Professor Phizzlethorpe - SAY_PROGRESS_2
@@ -682,8 +682,8 @@
 3983	3	0	Purged by pain!	14	0	100	0	0	5848	vishas SAY_KILL
 4049	0	0	The spirits of Stonetalon still rage, $N.	16	7	100	0	0	0	Seereth Stonebreak on Quest 1062 finished
 4049	1	0	I fear we may never soothe them...	16	7	100	0	0	0	Seereth Stonebreak on Quest 1062 finished
-4063	0	0	No! Leave us! We must not fail our task!	12	0	100	0	0	0	Feeboz
-4063	0	1	Die! You will not free Myzrael!	12	0	100	0	0	0	Feeboz
+4063	0	0	No!  Leave us!  We must not fail our task!	12	0	100	0	0	0	Feeboz
+4063	0	1	Die!  You will not free Myzrael!	12	0	100	0	0	0	Feeboz
 4063	0	2	The Great One will smash you!	12	0	100	0	0	0	Feeboz
 4064	0	0	%s becomes enraged!	16	0	100	0	0	0	Blackrock Scout
 4065	0	0	[Orcish] Tago mog regas gi mog Tov'nokaz Kagg	12	0	100	0	0	0	Blackrock Sentry
@@ -691,7 +691,7 @@
 4065	1	0	%s becomes enraged!	16	0	100	0	0	0	Blackrock Sentry
 4267	0	0	Guards!	14	7	100	0	0	0	Daelyshia
 4275	0	0	Who dares interfere with the Sons of Arugal?	14	0	100	0	0	0	
-4295	0	0	There is no escape for you. The Crusade shall destroy all who carry the scourge's taint.	12	7	0	0	0	0	Scarlet Myrmidon - Talk on low HP
+4295	0	0	There is no escape for you.  The Crusade shall destroy all who carry the scourge's taint.	12	7	0	0	0	0	Scarlet Myrmidon - Talk on low HP
 4312	0	0	Guards!	14	1	100	0	0	0	Tharm
 4314	0	0	Guards!	14	1	100	0	0	0	Gorkas
 4317	0	0	Guards!	14	1	100	0	0	0	Nyse
@@ -857,8 +857,8 @@
 7358	3	0	I am the hand of the Lich King!	14	0	100	0	0	5827	amnennar SAY_HP
 7358	4	0	Too...easy!	14	0	100	0	0	5826	amnennar SAY_KILL
 7361	0	0	We come from below! You can never stop us!	14	0	100	0	0	0	SAY_GRUBBIS
-7604	0	0	What? How dare you say that to me?!?	12	0	100	6	0	0	Sergeant Bly
-7604	1	0	After all we've been through? Well, I didn't like you anyway!!	12	0	100	5	0	0	Sergeant Bly
+7604	0	0	What?  How dare you say that to me?!?	12	0	100	6	0	0	Sergeant Bly
+7604	1	0	After all we've been through?  Well, I didn't like you anyway!!	12	0	100	5	0	0	Sergeant Bly
 7607	0	0	Oh no! Here they come!	12	0	100	0	0	0	weegli blastfuse SAY_WEEGLI_OHNO
 7607	1	0	OK. Here I go.	12	0	100	0	0	0	weegli blastfuse SAY_WEEGLI_OK_I_GO
 7664	0	0	Ilifar, your master calls!	14	0	100	0	0	0	Razelikh the Defiler
@@ -923,7 +923,7 @@
 8020	0	0	Guards!	14	1	100	0	0	0	Shyn
 8297	0	0	%s goes into a frenzy!	16	0	100	0	0	0	Magronos the Unyielding
 8391	0	0	You are here to stop the Archduke?	14	0	100	0	0	0	Lathoric the Black
-8391	1	0	Fools. Obsidion! Rise, and destroy the interlopers!	14	0	100	0	0	0	Lathoric the Black
+8391	1	0	Fools.  Obsidion!  Rise, and destroy the interlopers!	14	0	100	0	0	0	Lathoric the Black
 8479	0	0	I raise my brew and hope to be rid of the likes of you! Cheers, you no good scoundrel, $N!	12	0	100	1	0	0	Kalaran Windblade
 8503	0	0	I'll cut you!	12	0	100	0	0	0	Gibblewilt
 8538	0	0	%s lets out a high pitched screech, calling for help!	16	0	100	0	0	0	Unseen Servant - Call for help Say
@@ -1451,11 +1451,11 @@
 15638	0	2	Protect the innocent!	12	0	100	0	0	0	Arcane Patroller
 15643	0	0	%s becomes enraged!	16	0	100	0	0	0	Amani Berserker
 15644	0	0	The pain...the need...I hunger for more...	12	10	100	0	0	0	Wretched Urchin
-15644	0	1	I cannot stand the pain. I must find a new source.	12	10	100	0	0	0	Wretched Urchin
-15644	0	2	More, more, more! I must feed soon.	12	10	100	0	0	0	Wretched Urchin
+15644	0	1	I cannot stand the pain.  I must find a new source.	12	10	100	0	0	0	Wretched Urchin
+15644	0	2	More, more, more!  I must feed soon.	12	10	100	0	0	0	Wretched Urchin
 15645	0	0	The pain...the need...I hunger for more...	12	10	100	0	0	0	Wretched Thug
-15645	0	1	I cannot stand the pain. I must find a new source.	12	10	100	0	0	0	Wretched Thug
-15645	0	2	More, more, more! I must feed soon.	12	10	100	0	0	0	Wretched Thug
+15645	0	1	I cannot stand the pain.  I must find a new source.	12	10	100	0	0	0	Wretched Thug
+15645	0	2	More, more, more!  I must feed soon.	12	10	100	0	0	0	Wretched Thug
 15648	0	0	%s bursts, showering the area with arcane residue!	16	0	100	0	0	0	Manawraith
 15656	0	0	%s goes into a frenzy!	16	0	100	0	0	0	Angershade
 15657	0	0	%s goes into a frenzy!	16	0	100	0	0	0	Darkwraith
@@ -1616,7 +1616,7 @@
 16151	2	0	Come, Midnight, let's disperse this petty rabble!	14	0	100	0	0	9168	attumen SAY_MOUNT
 16189	0	0	Guards!	14	1	100	0	0	0	Skymaster Sunwing
 16192	0	0	Guards!	14	1	100	0	0	0	Skymistress Gloaming
-16206	0	0	Th... thank you. I thought I was going to die.	12	0	100	0	0	0	Apprentice Varnis
+16206	0	0	Th... thank you.  I thought I was going to die.	12	0	100	0	0	0	Apprentice Varnis
 16208	0	0	Thanks, I should've never left Silverpine Forest.	12	0	100	6	0	0	Apothecary Enith
 16209	0	0	You have my thanks!	12	0	100	0	0	0	Ranger Vedoran
 16220	0	0	Liatha, get someone to look at those injuries. Thank you for bringing her back safely.	12	0	100	0	0	0	lilatha CAPTAIN_ANSWER
@@ -1675,9 +1675,9 @@
 16524	7	0	You've wasted enough of my time. Let these games be finished!	14	0	100	0	0	9247	aran SAY_TIMEOVER
 16524	8	0	At last... The nightmare is.. over...	14	0	100	0	0	9244	aran SAY_DEATH
 16524	9	0	Where did you get that?! Did HE send you?!	14	0	100	0	0	9249	aran SAY_ATIESH
-16550	0	0	By the seven Ata'mal crystals! Others have survived the crash! Zhanaa, is that you? It is so good to see you again!	12	0	100	0	0	0	Image of Technician Dyvuun
-16550	1	0	And who do we have here? No doubt th... crzzzk ...ade this communication possible? I give you greetings fro... psshzzzk... Azure Watch.	12	0	100	0	0	0	Image of Technician Dyvuun
-16550	2	0	Judging by your signal, we put you... ust southeast of the larger part of the island we crashed onto. Cross the Crystalbrook River to ge... kshhhhk zzzt. Sorry, there's a lot of stat...	12	0	100	0	0	0	Image of Technician Dyvuun
+16550	0	0	By the seven Ata'mal crystals!  Others have survived the crash!  Zhanaa, is that you?  It is so good to see you again!	12	0	100	0	0	0	Image of Technician Dyvuun
+16550	1	0	And who do we have here?  No doubt th... crzzzk ...ade this communication possible?  I give you greetings fro... psshzzzk... Azure Watch.	12	0	100	0	0	0	Image of Technician Dyvuun
+16550	2	0	Judging by your signal, we put you... ust southeast of the larger part of the island we crashed onto.  Cross the Crystalbrook River to ge... kshhhhk zzzt. Sorry, there's a lot of stat...	12	0	100	0	0	0	Image of Technician Dyvuun
 16577	0	0	Brothers and sisters, I have been to the promised land. I have tasted in the sublim energy. I have felt bliss - bliss so engrossing and all encompassing that I was left wondering if I had stumbled upon the dreams of gods.!	12	0	100	5	0	0	Martik Tor'seldoi
 16577	1	0	In paradise, you merely reach out and take from the Nether.	12	0	100	1	0	0	Martik Tor'seldoi
 16577	2	0	From the very air! Tendrils of arcane energy light up the obsidian sky as plumes of raw magic rise up from fissures in the land. Kneel and drink from the fissure as you do from a stream or well. Pluck a tendril from the heavens as if it were an apple hanging from a branch.	12	0	100	5	0	0	Martik Tor'seldoi
@@ -1734,8 +1734,8 @@
 16812	11	0	But don't take it from me, see for yourself what tragedy lies ahead when the paths of star-crossed lovers meet. And now...on with the show!	14	0	100	0	0	9343	barnes RAJ4
 16822	0	0	Guards!	14	7	100	0	0	0	Flightmaster Krill Bitterhue
 16878	0	0	%s becomes enraged!	16	0	100	0	0	0	Shattered Hand Berserker
-16916	0	0	Please! I must feed on something soon... A mana crystal.... a shard... anything! The pain is unbearable!	12	0	100	0	0	0	Wretched Captive
-16924	0	0	Tell us! Where does your leader hide?	12	0	100	1	0	0	Sergeant Kan''ren
+16916	0	0	Please!  I must feed on something soon... A mana crystal.... a shard... anything!  The pain is unbearable!	12	0	100	0	0	0	Wretched Captive
+16924	0	0	Tell us!  Where does your leader hide?	12	0	100	1	0	0	Sergeant Kan''ren
 16924	1	0	You're not getting anything until you speak, scum!	12	0	100	1	0	0	Sergeant Kan''ren
 16993	0	0	Thank you for agreeing to help. Now, let's get out of here $N.	12	0	100	0	0	0	wounded elf SAY_ELF_START
 16993	1	0	Over there! They're following us!	12	0	100	0	0	0	wounded elf SAY_ELF_SUMMON1
@@ -1744,7 +1744,7 @@
 16993	4	0	Falcon Watch, at last! Now, where's my... Oh no! My pack, it's missing! Where has -	12	0	100	0	0	0	wounded elf SAY_ELF_COMPLETE
 16993	5	0	You won't keep me from getting to Falcon Watch!	12	0	100	0	0	0	wounded elf SAY_ELF_AGGRO
 17023	0	0	Welcome, kind spirit. What has brought you to us?	12	0	100	0	0	0	ancestral wolf SAY_WOLF_WELCOME
-17071	0	0	This is great news! Your efforts have indeed saved us, $N!	12	0	100	0	0	0	Technician Zhanaa
+17071	0	0	This is great news!  Your efforts have indeed saved us, $N!	12	0	100	0	0	0	Technician Zhanaa
 17073	0	0	<Sobbing> I hate graveyards. So many dead. And my sweet Luhanaa.....	12	0	100	1	0	0	Draenei Mourner - Random Say
 17073	0	1	It should have been me!	12	0	100	1	0	0	Draenei Mourner - Random Say
 17073	0	2	Be at peace, my sweet, sweet, Luhanaa.	12	0	100	1	0	0	Draenei Mourner - Random Say
@@ -2034,11 +2034,11 @@
 17888	1	0	Your death will be a painful one.	14	0	100	0	0	11016	Kazrogal - SAY_MARK1
 17888	1	1	You... are marked.	14	0	100	0	0	11052	Kazrogal - SAY_MARK2
 17888	2	0	Cry for mercy! Your meaningless lives will soon be forfeit.	14	0	100	0	0	11015	Kazrogal - SAY_ONAGGRO
-17893	0	0	Over here! Yeah, over here... I'm in this cage!!!	14	0	100	0	0	0	Naturalist Bite
-17893	1	0	Uh oh! It would appear that all of the noise you've been making has attracted some unwanted attention!	12	0	100	0	0	0	Naturalist Bite
+17893	0	0	Over here!  Yeah, over here... I'm in this cage!!!	14	0	100	0	0	0	Naturalist Bite
+17893	1	0	Uh oh!  It would appear that all of the noise you've been making has attracted some unwanted attention!	12	0	100	0	0	0	Naturalist Bite
 17900	0	0	Thank you for helping me. I know my way back from here.	12	0	100	0	0	0	ashyen and keleth GOSSIP_REWARD_BLESS
 17901	0	0	Thank you for helping me. I know my way back from here.	12	0	100	0	0	0	ashyen and keleth GOSSIP_REWARD_BLESS
-17957	0	0	Intrudersss with the prisssoner! Kill them!!!	14	0	100	0	0	0	Coilfang Champion
+17957	0	0	Intrudersss with the prisssoner!  Kill them!!!	14	0	100	0	0	0	Coilfang Champion
 17968	1	0	Your resistance is insignificant.	14	0	100	0	0	10987	Archimonde - SAY_AGGRO
 17968	2	0	This world will burn!	14	0	100	0	0	10990	Archimonde - SAY_DOOMFIRE1
 17968	2	1	Manach sheek-thrish!	14	0	100	0	0	11041	Archimonde - SAY_DOOMFIRE2
@@ -2520,8 +2520,8 @@
 20129	11	0	The timeways are currently ranked in order from least catastrophic to most catastrophic. Note that they are all classified as catastrophic, meaning that any single one of these timeways collapsing would mean that your world would end. We only classify them in such a way so that the heroes and adventurers that are sent here know which timeway best suits their abilities.	15	0	100	0	0	0	WHISPER_CUSTODIAN_12
 20129	12	0	All we know of this timeway is that it leads to Mount Hyjal. The Infinite Dragonflight have gone to great lengths to prevent our involvement. We know next to nothing, mortal. Soridormi is currently attempting to break through the timeway's defenses but has thus far been unsuccessful. You might be our only hope of breaking through and resolving the conflict.	15	0	100	0	0	0	WHISPER_CUSTODIAN_13
 20129	13	0	Our time is at an end $N. I would wish you luck, if such a thing existed.	15	0	100	0	0	0	WHISPER_CUSTODIAN_14
-20159	0	0	If you think I'll betray my friend that easily, think again! Face me, you scoundrel!	12	1	100	0	0	0	Magister Aledis
-20159	1	0	Spare my life! I will tell you about Arelion's secret.	12	1	100	0	0	0	Magister Aledis
+20159	0	0	If you think I'll betray my friend that easily, think again!  Face me, you scoundrel!	12	1	100	0	0	0	Magister Aledis
+20159	1	0	Spare my life!  I will tell you about Arelion's secret.	12	1	100	0	0	0	Magister Aledis
 20209	0	0	Warning! %s emergency shutdown process initiated by $N. Shutdown will complete in two minutes.	16	0	100	0	0	0	manaforge_control EMOTE_START
 20209	1	0	Emergency shutdown will complete in one minute.	16	0	100	0	0	0	manaforge_control EMOTE_60
 20209	2	0	Emergency shutdown will complete in thirty seconds.	16	0	100	0	0	0	manaforge_control EMOTE_30
@@ -2529,7 +2529,7 @@
 20209	4	0	Emergency shutdown complete.	16	0	100	0	0	0	manaforge_control EMOTE_COMPLETE
 20209	5	0	Emergency shutdown aborted.	16	0	100	0	0	0	manaforge_control EMOTE_ABORT
 20234	0	0	Guards!	14	7	100	0	0	0	Runetog Wildhammer
-20242	0	0	The best selection of smuggled goods is available right here, $N. Great for the whole family! Avoid goblin taxation and naaru prohibition - the Consortium is here to fill your every shopping need!	12	0	100	1	0	0	Karaaz
+20242	0	0	The best selection of smuggled goods is available right here, $N.  Great for the whole family!  Avoid goblin taxation and naaru prohibition - the Consortium is here to fill your every shopping need!	12	0	100	1	0	0	Karaaz
 20415	0	0	Bessy, is that you?	12	0	100	0	0	0	bessy SAY_THADELL_1
 20415	1	0	Thank you for bringing back my Bessy, $N. I couldn't live without her!	12	0	100	0	0	0	bessy SAY_THADELL_2
 20417	0	0	Warning! %s emergency shutdown process initiated by $N. Shutdown will complete in two minutes.	16	0	100	0	0	0	manaforge_control EMOTE_START
@@ -3492,20 +3492,20 @@
 26935	0	0	I'm old enough to shoot beasts like you right between the eyes... at twice this distance.	12	0	100	0	0	0	Sasha
 26935	1	0	Don't you dare talk about my father, monster. He was twice the man you'll ever be.	12	0	100	0	0	0	Sasha
 26935	2	0	I'd rather be dead than be one of you! You think you're still human? You're... animals!	12	0	100	0	0	0	Sasha
-26935	3	0	Surprise, you scum! You're going to tell me where my sister is or I'll put a bucketful of truesilver bullets through your wife's heart.	12	0	100	0	0	0	Sasha
+26935	3	0	Surprise, you scum!  You're going to tell me where my sister is or I'll put a bucketful of truesilver bullets through your wife's heart.	12	0	100	0	0	0	Sasha
 26935	4	0	Where is Anya?	12	0	100	0	0	0	Sasha
-26935	5	0	There is one last thing. I need to know where Arugal is.	12	0	100	0	0	0	Sasha
-26935	6	0	Anya!! You're all right!	12	0	100	0	0	0	Sasha
-26935	7	0	Badmoon? You mean Bloodmoon?	12	0	100	0	0	0	Sasha
+26935	5	0	There is one last thing.  I need to know where Arugal is.	12	0	100	0	0	0	Sasha
+26935	6	0	Anya!!  You're all right!	12	0	100	0	0	0	Sasha
+26935	7	0	Badmoon?  You mean Bloodmoon?	12	0	100	0	0	0	Sasha
 26935	8	0	Don't worry, sister... no one can hurt you now.	12	0	100	0	0	0	Sasha
 26971	0	0	How old are you, lass?	12	0	100	0	0	0	Anatoly
 26971	1	0	You won't get away with this, you know? You're just a kid.	12	0	100	0	0	0	Anatoly
 26971	2	0	Your father was weak, Sasha... he didn't have the guts to do what had to be done.	12	0	100	0	0	0	Anatoly
 26971	3	0	We'll all end up serving the Lich King, kid. Better this way than becoming a rotten corpse.	12	0	100	0	0	0	Anatoly
-26971	4	0	Stop! Do not shoot! Do not hurt Tatjana!	12	0	100	0	0	0	Anatoly
-26971	5	0	The brat's held prisoner in the wolf den on the other side of the mountain. She was to be taken to Arugal. Are we free to go now?	12	0	100	0	0	0	Anatoly
+26971	4	0	Stop!  Do not shoot!  Do not hurt Tatjana!	12	0	100	0	0	0	Anatoly
+26971	5	0	The brat's held prisoner in the wolf den on the other side of the mountain.  She was to be taken to Arugal.  Are we free to go now?	12	0	100	0	0	0	Anatoly
 26971	6	0	Forgive me, Tatjana... 	12	0	100	0	0	0	Anatoly
-26971	7	0	Nothing you can do can compare to what Arugal can do to us! I will tear you apart myself!	12	0	100	0	0	0	Anatoly
+26971	7	0	Nothing you can do can compare to what Arugal can do to us!  I will tear you apart myself!	12	0	100	0	0	0	Anatoly
 27003	0	0	I know why you've come - one of those foolish Magnataur on the plains meddled and managed to get the dragons involved. Do you enjoy serving them like a dog?	14	0	100	0	0	0	Dregmar Runebrand - yell
 27003	1	0	You seek their leader... little thing, you wage war against the clans of Grom'thar the Thunderbringer himself. Don't be so eager to rush to your death.	14	0	100	0	0	0	Dregmar Runebrand yell
 27003	2	0	Hah! So be it. Blow the horn of a magnataur leader at the ring of torches south of the Azure Dragonshrine. Make peace with your gods... Grom'thar will come.	14	0	100	0	0	0	Dregmar Runebrand yell
@@ -3594,8 +3594,8 @@
 27629	1	7	Just hang on. We'll get through this.	15	0	100	0	0	0	Wyrmrest Defender
 27629	2	0	We should get out of here. I need to heal!	42	0	100	0	3000	0	Wyrmrest Defender
 27646	0	0	You won't eat me, will you?	12	0	100	0	0	0	Anya
-27646	1	0	Sister! The mean men were going to take me to Badmoon Isle. They wanted to turn me into one of them.	12	0	100	0	0	0	Anya
-27646	2	0	That's what I said! Badmoon! Sasha... don't ever leave me again! First they took papa, then they took you... I don't want to be alone with them!	12	0	100	0	0	0	Anya
+27646	1	0	Sister!  The mean men were going to take me to Badmoon Isle.  They wanted to turn me into one of them.	12	0	100	0	0	0	Anya
+27646	2	0	That's what I said!  Badmoon!  Sasha... don't ever leave me again!  First they took papa, then they took you... I don't want to be alone with them!	12	0	100	0	0	0	Anya
 27654	0	0	The prisoners shall not go free! The word of Malygos is law!	14	0	100	0	0	13594	drakos SAY_AGGRO
 27654	1	0	A fitting punishment!	14	0	100	0	0	13602	drakos SAY_KILL_1
 27654	1	1	Sentence: executed!	14	0	100	0	0	13603	drakos SAY_KILL_2
@@ -3689,7 +3689,7 @@
 27990	8	0	Rest assured, Kekek, she is the queen of the dragons. We often take the forms of smaller beings when we work with them.	12	0	0	0	0	0	
 28012	0	0	The trickster Mage-Lord Urom protects the third ring. He will appear alone and defenseless, but do not be fooled by appearences! Urom is a powerful conjurer who commands a menagerie of Phantasmal creatures. Seek him out above.	12	0	0	0	0	0	
 28012	1	1	Your greatest challenge lies ahead. Ley-Guardian Eregos is a Blue dragon of immense power. You will find him flying above the uppermost ring.	12	0	0	0	0	0	
-28016	0	0	Ahh, Back in Drak'Tharon at last!	12	0	100	71	0	14006	Drakuru
+28016	0	0	Ahh,  Back in Drak'Tharon at last!	12	0	100	71	0	14006	Drakuru
 28016	1	0	Drakuru casts his gaze down on Drak'Tharon Keep.	16	0	100	0	0	0	Drakuru
 28016	2	0	Ya done well, mon....	12	0	100	0	0	14007	Drakuru
 28016	3	0	Ya surpassed my greatest hopes.	12	0	100	0	0	14008	Drakuru
@@ -3790,7 +3790,7 @@
 28355	0	0	Sir, I think we were close with the Lethargy Root in that last poison recipie.	12	0	100	0	0	0	Wright Williams
 28355	0	1	Sir, our customers are complaining that there's too much Deathweed in our Anesthetics.	12	0	100	0	0	0	Wright Williams
 28355	0	2	Sir, our customers are complaining that there's not enough Maiden's Anguish in our Deadly Poisons.	12	0	100	0	0	0	Wright Williams
-28401	0	0	$N, please come to me. I'm here in Zim'Torga now.	15	0	100	0	0	0	Har'koa
+28401	0	0	$N, please come to me.  I'm here in Zim'Torga now.	15	0	100	0	0	0	Har'koa
 28406	0	0	No potions!	12	0	100	0	0	0	dk initiate SAY_DUEL_A
 28406	0	1	Remember this day, $n, for it is the day that you will be thoroughly owned.	12	0	100	0	0	0	dk initiate SAY_DUEL_B
 28406	0	2	I'm going to tear your heart out, cupcake!	12	0	100	0	0	0	dk initiate SAY_DUEL_C
@@ -4892,7 +4892,7 @@
 30007	6	0	Do you fell that folks? The air is cracking with energy! Than can only mean one thing...	14	0	100	0	0	0	gurgthock SAY_GURGTHOCK_ELEMENTAL_SPAWN
 30012	0	0	You will not defeat me!	12	0	100	0	0	0	Victorious Challenger
 30012	0	1	You're not worthy of Thorim!	12	0	100	0	0	0	Victorious Challenger
-30012	0	2	Good luck... You'll need it!	12	0	100	0	0	0	Victorious Challenger
+30012	0	2	Good luck...  You'll need it!	12	0	100	0	0	0	Victorious Challenger
 30012	0	3	May the best win!	12	0	100	0	0	0	Victorious Challenger
 30017	5	0	Stinkbeard comin' for you, little ones!	14	0	100	0	0	0	gurgthock SAY_STINKBEARD_SPAWN
 30020	0	0	Whisker! Where are you? Assist me!	14	0	100	0	0	0	orinoko SAY_CALL_FOR_HELP
@@ -4972,7 +4972,7 @@
 30452	6	0	%s begins to hatch eggs in the twilight!	42	0	100	0	0	0	tenebron WHISPER_HATCH_EGGS
 30461	0	0	%s lets out a bellowing roar as she descends upon the nest.	16	0	100	15	0	0	Veranus
 30462	0	0	Look out below!	14	0	100	0	0	0	Thorim
-30462	1	0	Easy there, girl! Don't you recognize your old master?	12	0	100	0	0	0	Thorim
+30462	1	0	Easy there, girl!  Don't you recognize your old master?	12	0	100	0	0	0	Thorim
 30462	2	0	I will see you at the Temple of Storms. Looks like I'm going to have to break her in again.	12	0	100	0	0	0	Thorim
 30475	0	0	Bethod's Sword?!! Very well, $r, I accept your challenge. But first, you must best my champions. Volgur! Squash this insect!	14	0	100	15	2000	0	Thane
 30475	1	0	Brita, create a pincushion of this puny $c!	14	0	100	22	2000	0	Thane
@@ -5050,7 +5050,7 @@
 31134	5	0	Shiver and die!	14	0	100	0	0	13948	cyanigosa SAY_BREATH_ATTACK
 31134	6	0	The world has forgotten what true magic is! Let this be a reminder!	14	0	100	0	0	13949	cyanigosa SAY_SPECIAL_ATTACK_1
 31134	6	1	Who among you can withstand my power?	14	0	100	0	0	13950	cyanigosa SAY_SPECIAL_ATTACK_2
-31237	0	0	You shouldn't have done that! He's not going to like it.	15	0	100	0	0	0	Matthias Lehner - On quest accept
+31237	0	0	You shouldn't have done that!  He's not going to like it.	15	0	100	0	0	0	Matthias Lehner - On quest accept
 31397	0	0	AHAHAHAHA... you'll join us soon enough!	14	0	100	0	0	0	Saronite Mine Slave
 31397	0	1	I don't want to leave! I want to stay here!	14	0	100	0	0	0	Saronite Mine Slave
 31397	0	2	NO! You're wrong! The voices in my head are beautiful!	14	0	100	0	0	0	Saronite Mine Slave
@@ -5337,7 +5337,7 @@
 34496	1	0	Let the light consume you!	14	0	100	0	0	16279	Eydis Darkbane to Fjola Lightbane - Light Vortex
 34496	2	0	Let the dark consume you!	14	0	100	0	0	16278	Eydis Darkbane to Fjola Lightbane - Dark Vortex
 34496	3	0	%s begins to cast |cFF9932CDDark Vortex!|r Switch to |cFF9932CDDark|r Essence!	41	0	100	0	0	16278	Eydis Darkbane to Fjola Lightbane - Dark Vortex emote
-34496	4	0	%s begins to cast |cFFFF0000Twin's Pact!|r	41	0	100	0	0	16274	Eydis Darkbane to Fjola Lightbane - Twin's Pact emote
+34496	4	0	%s begins to cast  |cFFFF0000Twin's Pact!|r	41	0	100	0	0	16274	Eydis Darkbane to Fjola Lightbane - Twin's Pact emote
 34496	5	0	CHAOS!	14	0	100	0	0	16274	Eydis Darkbane to Fjola Lightbane - Twin's Pact
 34496	6	0	You have been measured and found wanting.	14	0	100	0	0	16276	Eydis Darkbane - Killing a player
 34496	6	1	UNWORTHY!	14	0	100	0	0	16276	Eydis Darkbane - Killing a player
@@ -5435,8 +5435,8 @@
 34990	5	0	Not even the Lich King most powerful minions can stand against the Alliance! All hail our victors!	14	0	0	0	0	16068	King Varian Wrynn - Faction Champions Outro
 34990	6	0	Hardly a challenge.	14	0	100	274	0	16061	King Varian Wrynn - Faction Champions Kill Player
 34990	6	1	HAH!	14	0	100	5	0	16060	King Varian Wrynn - Faction Champions Kill Player
-34990	6	2	Is this the best the Horde has to offer?	14	0	100	6	0	16063	King Varian Wrynn - Faction Champions Kill Player
-34990	6	3	Worthless scrub.	14	0	100	25	0	16062	King Varian Wrynn - Faction Champions Kill Player
+34990	6	2	Is this the best the Horde has to offer?	14	0	100	6	0	16063	King Varian Wrynn  - Faction Champions Kill Player
+34990	6	3	Worthless scrub.	14	0	100	25	0	16062	King Varian Wrynn  - Faction Champions Kill Player
 34990	50	0	I have no taste for these games, Tirion. Still... I trust they will perform admirably.	12	0	100	1	0	0	King Varian Wrynn
 34990	51	0	Don't just stand there; kill him!	14	0	100	22	0	0	King Varian Wrynn
 34990	52	0	I did not come here to watch animals tear at each other senselessly, Tirion.	12	0	100	1	0	0	King Varian Wrynn
@@ -5444,7 +5444,7 @@
 34994	0	0	Fight well, Horde! Lok'tar Ogar!	14	0	100	22	0	0	Thrall - SAY_THRALL_GRAND_CHAMPIONS_INTRO
 34994	1	0	Well done, Horde!	14	0	100	66	0	0	Thrall - SAY_THRALL_KNIGHT_OUTRO
 34994	2	0	Garrosh, enough.	12	0	100	396	0	0	Thrall
-34995	0	0	I've seen more worthy challenges in the Ring of Blood. You waste our time, paladin.	14	0	100	1	0	16026	Garrosh Hellscream - Northrend Beasts Outro
+34995	0	0	I've seen more worthy challenges in the Ring of Blood. You waste our time, paladin.	14	0	100	1	0	16026	Garrosh Hellscream  - Northrend Beasts Outro
 34995	1	0	Treacherous Alliance dogs! You summon a demon lord against warriors of the Horde? Your deaths will be swift!	14	0	100	5	0	16021	Garrosh Hellscream - Lord Jaraxxus Outro
 34995	2	0	The Horde demands justice! We challenge the Alliance. Allow us to battle in place of your knights, paladin. We will show these dogs what it means to insult the Horde!	14	0	100	1	0	16023	Garrosh Hellscream - Faction Champions Intro
 34995	3	0	Show them no mercy, Horde champions! LOK'TAR OGAR!	14	0	0	0	0	16022	Garrosh - Faction Champions Intro
@@ -6108,14 +6108,14 @@
 39368	8	0	Let me hear that battle roar!	12	0	100	5	0	0	Drill Sergeant Steamcrank
 39368	9	0	Wow, nice and scary!	12	0	100	0	0	0	Drill Sergeant Steamcrank
 39368	10	0	Remember though, a key factor in winning any battle is positive reinforcement.	12	0	100	5	0	0	Drill Sergeant Steamcrank
-39368	11	0	Reward your fellow soldiers in battle with a resounding cheer. Now, cheer at me when I tell you to!	12	0	100	1	0	0	Drill Sergeant Steamcrank
+39368	11	0	Reward your fellow soldiers in battle with a resounding cheer.  Now, cheer at me when I tell you to!	12	0	100	1	0	0	Drill Sergeant Steamcrank
 39368	12	0	Everyone, cheer!	12	0	100	0	0	0	Drill Sergeant Steamcrank
 39368	13	0	Fantastic!	12	0	100	273	0	0	Drill Sergeant Steamcrank
 39368	14	0	However, the most important part of battle is how you celebrate a good hard earned victory!	12	0	100	396	0	0	Drill Sergeant Steamcrank
 39368	15	0	Show me your best victory dance when I give the signal!	12	0	100	5	0	0	Drill Sergeant Steamcrank
 39368	16	0	Now, dance!	12	0	100	0	0	0	Drill Sergeant Steamcrank
 39368	17	0	Superb!	12	0	100	273	0	0	Drill Sergeant Steamcrank
-39368	18	0	You might be the best set of recruits I've ever seen! Let's go through all of that again!	12	0	100	396	0	0	Drill Sergeant Steamcrank
+39368	18	0	You might be the best set of recruits I've ever seen!  Let's go through all of that again!	12	0	100	396	0	0	Drill Sergeant Steamcrank
 39712	0	0	They may take our lives, but they'll never take...	12	0	100	0	0	0	High Tinker Mekkatorque to Milli Featherwhistle 1
 39712	1	0	...our INNOVATION!	12	0	100	0	0	0	High Tinker Mekkatorque to Milli Featherwhistle 2
 39712	2	0	What I want out of each and every one of you is a hard-target search of every refuelling station, residence, warehouse, farmhouse, henhouse, outhouse, and doghouse in this area.	12	0	100	0	0	0	High Tinker Mekkatorque to Ozzie Togglevolt 1
@@ -6201,5 +6201,5 @@
 40429	4	0	They slaughtered us with cold efficiency, but the true focus of their interest seemed to be the eggs kept here in the Sanctum.	12	0	100	1	0	17495	Sanctum Guardian Xerestrasza
 40429	5	0	The commander of the forces on the ground here is a cruel brute named Zarithrian, but I fear there are greater powers at work.	12	0	100	1	0	17496	Sanctum Guardian Xerestrasza
 40429	6	0	In their initial assault, I caught a glimpse of their true leader, a fearsome full-grown twilight dragon.	12	0	100	1	0	17497	Sanctum Guardian Xerestrasza
-40429	7	0	I know not the extent of their plans, heroes, but I know this: They cannot be allowed to succeed!	12	0	100	5	0	17498	Sanctum Guardian Xerestrasza
-40429	8	0	Help! I am trapped within this tree! I require aid!	14	0	100	5	0	17490	Sanctum Guardian Xerestrasza
+40429	7	0	I know not the extent of their plans, heroes, but I know this:  They cannot be allowed to succeed!	12	0	100	5	0	17498	Sanctum Guardian Xerestrasza
+40429	8	0	Help! I am trapped within this tree!  I require aid!	14	0	100	5	0	17490	Sanctum Guardian Xerestrasza

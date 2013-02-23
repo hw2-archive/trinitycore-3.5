@@ -116,13 +116,13 @@
 564	0	0	What is a "resilient foundation of construction"?	1	1	565	0	0	0	
 565	0	0	So... the Earthen were made out of stone?	1	1	566	0	0	0	
 566	0	0	Anything else I should know about the Earthen?	1	1	567	0	0	0	
-567	0	0	I think I understand the Creators' design intent for the Earthen now. What are the Earthen's anomalies that you spoke of earlier?	1	1	568	0	0	0	
+567	0	0	I think I understand the Creators' design intent for the Earthen now.  What are the Earthen's anomalies that you spoke of earlier?	1	1	568	0	0	0	
 568	0	0	What high-stress environments would cause the Earthen to destabilize?	1	1	569	0	0	0	
 569	0	0	What happens when the Earthen destabilize?	1	1	570	0	0	0	
-570	0	0	Troggs?! Are the troggs you mention the same as the ones in the world today?	1	1	571	0	0	0	
-571	0	0	You mentioned two results when the Earthen destabilize. What is the second?	1	1	572	0	0	0	
-572	0	0	Dwarves!!! Now you're telling me that dwarves originally came from the Earthen?!	1	1	573	0	0	0	
-573	0	0	These dwarves are the same ones today, yes? Do dwarves maintain any other links to the Earthen?	1	1	574	0	0	0	
+570	0	0	Troggs?!  Are the troggs you mention the same as the ones in the world today?	1	1	571	0	0	0	
+571	0	0	You mentioned two results when the Earthen destabilize.  What is the second?	1	1	572	0	0	0	
+572	0	0	Dwarves!!!  Now you're telling me that dwarves originally came from the Earthen?!	1	1	573	0	0	0	
+573	0	0	These dwarves are the same ones today, yes?  Do dwarves maintain any other links to the Earthen?	1	1	574	0	0	0	
 574	0	0	Who are the Creators?	1	1	575	0	0	0	
 575	0	0	This is a lot to think about.	1	1	576	0	0	0	
 576	0	0	I will access the discs now.	1	1	0	0	0	0	
@@ -205,7 +205,7 @@
 882	0	0	You can count on me, Hero.	1	1	881	0	0	0	
 883	0	0	What are the stones of binding?	1	1	882	0	0	0	
 884	0	0	Subordinates?	1	1	883	0	0	0	
-941	1	0	That's it! I'm tired of helping you out. It's time we settled things on the battlefield!	1	1	0	0	0	0	
+941	1	0	That's it!  I'm tired of helping you out.  It's time we settled things on the battlefield!	1	1	0	0	0	0	
 1012	0	3	Train me.	5	16	0	0	0	0	
 1017	0	3	Train me.	5	16	0	0	0	0	
 1045	0	0	Acquire Higher Level Access Card	1	1	0	0	0	0	
@@ -254,8 +254,8 @@
 1341	0	0	What's an elf like you doing inside a cave like this?	1	1	1363	0	0	0	
 1341	1	0	Do you know someone... or something, rather, by the name of Eranikus?	1	1	1366	0	0	0	
 1364	0	0	I will consider what you have told me.	1	1	0	0	0	0	
-1365	0	0	I possess part of Eranikus' essence. What do you want with it... or with me?	1	1	1364	0	0	0	
-1366	0	0	What happened to him in the first place? When I... encountered him, he was rather malicious.	1	1	1365	0	0	0	
+1365	0	0	I possess part of Eranikus' essence.  What do you want with it... or with me?	1	1	1364	0	0	0	
+1366	0	0	What happened to him in the first place?  When I... encountered him, he was rather malicious.	1	1	1365	0	0	0	
 1403	0	3	I seek training as a druid.	5	16	0	0	0	0	
 1403	1	0	I wish to unlearn my talents.	16	16	4461	0	0	0	
 1403	2	0	I wish to know about Dual Talent Specialization.	1	1	10371	0	0	0	
@@ -293,7 +293,7 @@
 1942	10	0	Mining	1	1	1868	315	0	0	
 1942	11	0	Skinning	1	1	1869	316	0	0	
 1942	12	0	Tailoring	1	1	1871	317	0	0	
-1947	0	0	Your bondage is at an end, Doom'rel. I challenge you!	1	1	0	0	0	0	
+1947	0	0	Your bondage is at an end, Doom'rel.  I challenge you!	1	1	0	0	0	0	
 1949	0	0	Hunter	1	1	1906	300	0	0	
 1949	1	0	Mage	1	1	1907	301	0	0	
 1949	2	0	Priest	1	1	1908	302	0	0	
@@ -1357,12 +1357,12 @@
 7173	0	0	Trick or Treat!	1	1	0	0	0	0	
 7173	2	5	Make this inn your home.	8	65536	0	0	0	0	
 7173	3	1	Let me browse your goods.	3	128	0	0	0	0	
-7176	0	0	You're free to go now. The way out is safe.	1	1	0	0	0	0	
+7176	0	0	You're free to go now.  The way out is safe.	1	1	0	0	0	0	
 7177	0	0	<Administer the restorative draught.>	1	1	7176	0	0	0	
-7179	0	0	A bit ungrateful, aren't we? The way out is clear, flee quickly!	1	1	0	0	0	0	
+7179	0	0	A bit ungrateful, aren't we?  The way out is clear, flee quickly!	1	1	0	0	0	0	
 7182	0	0	<Administer the restorative draught.>	1	1	7179	0	0	0	
 7185	0	0	<Administer the restorative draught.>	1	1	7186	0	0	0	
-7186	0	0	You're free to go now. The way out is safe.	1	1	0	0	0	0	
+7186	0	0	You're free to go now.  The way out is safe.	1	1	0	0	0	0	
 7187	0	0	I seek a sample of your restorative draught, apothecary.	1	1	0	0	0	0	
 7219	0	1	Show me your wares, Wilhelm.	3	128	0	0	0	0	
 7243	0	1	Let me browse your goods.	3	128	0	0	0	0	
@@ -1476,7 +1476,7 @@
 7589	0	1	I wish to browse your wares.	3	128	0	0	0	0	
 7590	0	1	Let me browse your reagents and poison supplies.	3	128	0	0	0	0	
 7590	1	0	Specialist, eh? Just what kind of specialist are you, anyway?	1	1	7591	0	0	0	
-7596	0	0	I've heard your name spoken only in whispers, mage. Who are you?	1	1	8009	0	0	0	
+7596	0	0	I've heard your name spoken only in whispers, mage.  Who are you?	1	1	8009	0	0	0	
 7603	0	1	I would like to buy from you.	3	128	0	0	0	0	
 7608	0	1	I wish to purchase tradeskill supplies.	3	128	0	0	0	0	
 7609	0	1	I wish to purchase fishing supplies.	3	128	0	0	0	0	
@@ -1531,7 +1531,7 @@
 7682	0	0	Should I know? You look like an orc to me.	1	1	7681	0	0	0	
 7690	0	3	Train me.	5	16	0	0	0	0	
 7691	0	3	Train me.	5	16	6647	0	0	0	
-7692	0	0	Treelos, I know that the truth is somewhere inside you. Tell me what it is.	1	1	7726	0	0	0	
+7692	0	0	Treelos, I know that the truth is somewhere inside you.  Tell me what it is.	1	1	7726	0	0	0	
 7704	0	0	Empoor, you're going to tell me what I want to know, or else!	1	1	0	0	0	0	
 7712	0	1	I want to browse your goods.	3	128	0	0	0	0	
 7713	0	1	Let me browse your goods.	3	128	0	0	0	0	
@@ -1543,8 +1543,8 @@
 7719	1	0	Tell me about the demon hunter training grounds at the Ruins of Karabor.	1	1	8394	0	0	0	
 7722	1	1	I have marks to redeem!	3	128	0	0	0	0	
 7724	1	1	I have marks to redeem!	3	128	0	0	0	0	
-7726	0	0	Keep it together man! What about Zangarmarsh?	1	1	7727	0	0	0	
-7727	0	0	I don't have time for this! Warden, what happened?!	1	1	7728	0	0	0	
+7726	0	0	Keep it together man!  What about Zangarmarsh?	1	1	7727	0	0	0	
+7727	0	0	I don't have time for this!  Warden, what happened?!	1	1	7728	0	0	0	
 7757	0	0	Why are you fixing all of this up?	1	1	7755	0	0	0	\N
 7759	0	0	What are you doing there?	1	1	7758	0	0	0	\N
 7760	0	0	Advisor, what's the latest news?	1	1	7761	0	0	0	\N
@@ -1640,8 +1640,8 @@
 7964	0	0	Why don't you escape?	1	1	7963	0	0	0	
 7967	0	0	Send me to the Abyssal Shelf!	1	1	0	0	0	0	
 7967	1	0	Send me to the Abyssal Shelf!	1	1	0	0	0	0	
-7967	4	0	Lend me a Windrider. I'm going to Spinebreaker Post!	1	1	0	0	0	0	
-7967	5	0	I'm on a bombing mission for Forward Commander To'arch. I need a wyvern destroyer!	1	1	0	0	0	0	
+7967	4	0	Lend me a Windrider.  I'm going to Spinebreaker Post!	1	1	0	0	0	0	
+7967	5	0	I'm on a bombing mission for Forward Commander To'arch.  I need a wyvern destroyer!	1	1	0	0	0	0	
 7982	0	5	Make this inn your home.	8	65536	0	0	0	0	
 7982	1	1	I want to browse your goods.	3	128	0	0	0	0	
 7984	0	0	Read on, if you dare...	1	1	7985	0	0	0	
@@ -1670,7 +1670,7 @@
 8070	0	1	What do you have to sell, Tuluman?	3	128	0	0	0	0	
 8072	0	0	Please take me to the master's lair.	1	1	0	0	0	0	
 8079	0	9	I would like to go to the battleground.	12	1048576	0	0	0	0	
-8081	0	0	Magistrix Carinda has sent me to ask you about Arelion's secret. Who was he seeing?	1	1	0	0	0	0	
+8081	0	0	Magistrix Carinda has sent me to ask you about Arelion's secret.  Who was he seeing?	1	1	0	0	0	0	
 8082	0	0	I'm as ready as I'll ever be.	1	1	0	0	0	0	
 8084	0	1	Dealer Dunar, I wish to browse your wares.	3	128	0	0	0	0	
 8085	0	0	Tell me more of our mission here, Nazgrel.	1	1	8090	0	0	0	
@@ -1716,9 +1716,9 @@
 8138	11	0	Mining	1	1	8156	235	0	0	
 8138	12	0	Skinning	1	1	8157	236	0	0	
 8138	13	0	Tailoring	1	1	8158	237	0	0	
-8161	0	0	Walk free, elder. Bring the spirits back to your tribe.	1	1	0	0	0	0	
-8162	0	0	Walk free, elder. Bring the spirits back to your tribe.	1	1	0	0	0	0	
-8163	0	0	Walk free, elder. Bring the spirits back to your tribe.	1	1	0	0	0	0	
+8161	0	0	Walk free, elder.  Bring the spirits back to your tribe.	1	1	0	0	0	0	
+8162	0	0	Walk free, elder.  Bring the spirits back to your tribe.	1	1	0	0	0	0	
+8163	0	0	Walk free, elder.  Bring the spirits back to your tribe.	1	1	0	0	0	0	
 8179	0	1	What could you be selling?	3	128	0	0	0	0	
 8185	0	0	Dragonhawk Master	1	1	8184	353	0	0	
 8185	1	0	Guild Master	1	1	8186	0	0	0	
@@ -1853,12 +1853,12 @@
 8424	7	0	Skinning	1	1	8333	255	0	0	
 8429	0	0	Overseer, I am here to negotiate on behalf of the Cenarion Expedition.	1	1	8430	0	0	0	
 8435	0	0	Oh, it's not my fault, I can assure you.	1	1	8437	0	0	0	
-8436	0	0	I'm fine, thank you. You asked for me?	1	1	8435	0	0	0	
+8436	0	0	I'm fine, thank you.  You asked for me?	1	1	8435	0	0	0	
 8437	0	0	Um, no... no, I don't want that at all.	1	1	8438	0	0	0	
-8438	0	0	Impressive. When do we attack?	1	1	8439	0	0	0	
+8438	0	0	Impressive.  When do we attack?	1	1	8439	0	0	0	
 8439	0	0	Absolutely!	1	1	8440	0	0	0	
 8452	0	9	I would like to go to the battleground.	12	1048576	0	0	0	0	
-8454	0	0	I have the signed waiver! Fire me into the Singing Ridge!	1	1	0	0	0	0	
+8454	0	0	I have the signed waiver!  Fire me into the Singing Ridge!	1	1	0	0	0	0	
 8455	0	0	Send me back to the Jagged Ridge.	1	1	0	0	0	0	
 8455	1	0	Send me back to the Singing Ridge.	1	1	0	0	0	0	
 8455	2	0	Send me back to Razaan's Landing.	1	1	0	0	0	0	
@@ -1870,7 +1870,7 @@
 8497	0	0	I have battled many beasts, dragon. I will help you.	1	1	0	0	0	0	
 8498	0	0	Your mate?	1	1	8497	0	0	0	
 8499	0	0	But you are dragons! How could orcs do this to you?	1	1	8498	0	0	0	
-8510	0	0	Yes, Scryer. You may possess me.	1	1	0	0	0	0	
+8510	0	0	Yes, Scryer.  You may possess me.	1	1	0	0	0	0	
 8519	0	3	Train me.	5	16	0	0	0	0	
 8523	0	0	The Felsworn Gas Mask was destroyed, do you have another one?	1	1	0	0	0	0	
 8530	0	1	Show me what you have for sale.	3	128	0	0	0	0	
@@ -1943,7 +1943,7 @@
 8716	0	1	Let me browse your goods.	3	128	0	0	0	0	
 8717	0	1	Let me browse your goods.	3	128	0	0	0	0	
 8718	1	0	Yes, I'd love a ride to Blackwind Landing.	1	1	0	0	0	0	
-8719	1	0	Absolutely! Send me to the Skyguard Outpost.	1	1	0	0	0	0	
+8719	1	0	Absolutely!  Send me to the Skyguard Outpost.	1	1	0	0	0	0	
 8721	0	1	Let me browse your goods.	3	128	0	0	0	0	
 8722	0	1	Let me browse your goods.	3	128	0	0	0	0	
 8723	0	1	Let me browse your goods.	3	128	0	0	0	0	
@@ -1997,7 +1997,7 @@
 8912	1	1	I want to browse your goods.	3	128	0	0	0	0	
 8932	0	0	Thanks for the concern, but we intend to explore Zul'Aman.	1	1	0	0	0	0	\N
 8934	0	0	Do you still need some help shipping kegs from Kharanos?	1	1	8953	0	0	0	
-8953	0	0	I'm ready to work for you today! Give me the good stuff!	1	1	0	0	0	0	
+8953	0	0	I'm ready to work for you today!  Give me the good stuff!	1	1	0	0	0	0	
 8955	0	0	I have another question.	1	1	8783	0	0	0	
 8958	1	0	Do I get a free mount?	1	1	8959	0	0	0	
 8958	2	0	How do I make my ram go faster?	1	1	8960	0	0	0	
@@ -2062,7 +2062,7 @@
 9002	2	0	Tokens & Souvenirs	1	1	9001	451	0	0	
 9002	3	0	Brew of the Month Club	1	1	9559	453	0	0	
 9002	4	0	Dark Iron Dwarf Attacks	1	1	9017	0	0	0	
-9006	0	0	What if I don't like drinking... Is there another way I can help out?	1	1	10604	0	0	0	
+9006	0	0	What if I don't like drinking...  Is there another way I can help out?	1	1	10604	0	0	0	
 9007	0	0	Feed the grub to the Rock Falcon.	1	1	0	0	0	0	
 9010	0	0	Taruk sent me to collect what you owe.	1	1	0	0	0	0	
 9010	1	1	Do you sell any of this stuff?	3	128	0	0	0	0	
@@ -2308,9 +2308,9 @@
 9498	2	1	I would like to browse your goods, Illusia.	3	128	0	0	0	0	
 9500	0	0	You're free to go Orsonn, but first tell me what's wrong with the furbolg.	1	1	9502	0	0	0	
 9502	0	0	What happened then?	1	1	9503	0	0	0	
-9503	0	0	Thank you, Son of Ursoc. I'll see what can be done.	1	1	0	0	0	0	
+9503	0	0	Thank you, Son of Ursoc.  I'll see what can be done.	1	1	0	0	0	0	
 9504	0	0	Who was this stranger?	1	1	9505	0	0	0	
-9505	0	0	Thank you, Kodian. I'll do what I can.	1	1	0	0	0	0	
+9505	0	0	Thank you, Kodian.  I'll do what I can.	1	1	0	0	0	0	
 9511	0	0	I am ready to be teleported to Dalaran.	1	1	0	0	0	0	
 9512	0	0	Unchain and control Flamebringer.	1	1	0	0	0	0	
 9513	0	0	I am ready to be teleported to Dalaran.	1	1	0	0	0	0	
@@ -2409,8 +2409,8 @@
 9713	0	0	I'm ready to start the distillation, uh, Tipsy.	1	1	0	0	0	0	
 9714	0	0	Stefan told me you would demonstrate the purpose of this item	1	1	0	0	0	0	
 9717	0	1	What are you hiding under that fold of flesh?	3	128	0	0	0	0	
-9720	0	0	I want to stop the Scourge as much as you do. How can I help?	1	1	9721	0	0	0	
-9721	0	0	You can trust me. I am no friend of the Lich King's.	1	1	9722	0	0	0	
+9720	0	0	I want to stop the Scourge as much as you do.  How can I help?	1	1	9721	0	0	0	
+9721	0	0	You can trust me.  I am no friend of the Lich King's.	1	1	9722	0	0	0	
 9722	0	0	I will not fail.	1	1	0	0	0	0	
 9724	1	0	Have a spare bunch of bananas?	1	1	0	0	0	0	
 9727	0	0	The eastern zeppelin tower	1	1	2481	182	0	0	
@@ -2508,14 +2508,14 @@
 9907	0	0	Tell me about this proposal.	1	1	9908	0	0	0	
 9908	0	0	What happened then?	1	1	9909	0	0	0	
 9909	0	0	You want me to take part in the Hyldsmeet to end the war?	1	1	9910	0	0	0	
-9910	0	0	Very well. I'll take part in this competition.	1	1	0	0	0	0	
+9910	0	0	Very well.  I'll take part in this competition.	1	1	0	0	0	0	
 9917	0	0	I am ready to head further into Storm Peaks.	1	1	0	0	0	0	
 9923	0	0	I'd like to build a catapult.	1	1	0	0	0	0	
 9923	1	0	I'd like to build a demolisher.	1	1	0	0	0	0	
 9923	2	0	I'd like to build a siege engine.	1	1	0	0	0	0	
 9924	0	0	Can you tell me what became of Sif?	1	1	9927	0	0	0	
 9926	0	0	It needn't end this way.	1	1	9925	0	0	0	
-9927	0	0	He did more than that, Thorim. He controls Ulduar now.	1	1	9926	0	0	0	
+9927	0	0	He did more than that, Thorim.  He controls Ulduar now.	1	1	9926	0	0	0	
 9931	1	0	Where is Elder Arp?	1	1	21075	0	0	0	\N
 9931	2	0	Where is Elder Pamuya?	1	1	21117	0	0	0	\N
 9931	3	0	Where is Elder Igasho?	1	1	21099	0	0	0	\N
@@ -3292,7 +3292,7 @@
 21283	0	0	You're insane.	1	1	21284	0	0	0	\N
 21284	0	0	I'm all ears.	1	1	21285	0	0	0	\N
 21285	0	0	Come again.	1	1	21286	0	0	0	\N
-21286	0	0	Ok, let me get this straight. You put the scepter entrusted to your Flight by Anachronos on a minnow of your own making and now you expect me to build an... an arcanite buoy or something... to force your minnow out of hiding? AND potentially incur the wrath of an Elemental Lord? Did I miss anything? Perhaps I am to do this without any clothes on, during a solar eclipse, on a leap year?	1	1	21287	0	0	0	\N
+21286	0	0	Ok, let me get this straight. You put the scepter entrusted to your Flight by Anachronos  on a minnow of your own making and now you expect me to build an... an arcanite buoy or something... to force your minnow out of hiding? AND potentially incur the wrath of an Elemental Lord? Did I miss anything? Perhaps I am to do this without any clothes on, during a solar eclipse, on a leap year?	1	1	21287	0	0	0	\N
 21287	0	0	FINE! And how, dare I ask, am I supposed to acquire an arcanite buoy?	1	1	21288	0	0	0	\N
 21288	0	0	But...	1	1	0	0	0	0	\N
 21289	0	0	I believe in you.	1	1	0	0	0	0	\N

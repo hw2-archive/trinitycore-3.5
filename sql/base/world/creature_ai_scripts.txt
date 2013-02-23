@@ -1483,7 +1483,7 @@
 497101	4971	0	0	100	1	3700	6500	16000	22800	11	744	1	32	0	0	0	0	0	0	0	0	Slim's Friend - Cast Poison
 497102	4971	0	0	100	1	5000	8900	8400	15300	11	7992	1	32	0	0	0	0	0	0	0	0	Slim's Friend - Cast Slowing Poison
 497103	4971	0	0	70	1	500	500	2100	5600	11	2589	1	0	0	0	0	0	0	0	0	0	Slim's Friend - Cast Backstab
-508901	5089	2	0	100	0	20	0	0	0	1	-775	0	0	24	0	0	0	23	1	0	0	Balos Jacken - Say and Set Phase 1 at 20% HP
+508901	5089	2	0	100	0	20	0	0	0	1	-775	0	0	24	0	0	0	23	1	0	0	Balos Jacken -  Say and Set Phase 1 at 20% HP
 508902	5089	21	5	100	0	0	0	0	0	2	35	0	0	23	1	0	0	0	0	0	0	Balos Jacken - Become Friendly and Set Phase 2 on Reach Home (Phase 1)
 508903	5089	1	3	100	1	120000	120000	120000	120000	2	54	0	0	22	0	0	0	0	0	0	0	Balos Jacken - Become Hostile After 2 Minutes OOC and Set Phase 0 (Phase 2)
 523701	5237	1	0	100	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	Gordunni Ogre Mage - Prevent Combat Movement on Spawn
@@ -1943,7 +1943,7 @@
 732001	7320	0	0	100	3	5000	8000	7000	10000	11	3391	0	0	0	0	0	0	0	0	0	0	Stonevault Mauler - Cast Thrash
 732002	7320	2	0	100	3	30	0	120000	120000	11	8269	0	1	1	-106	0	0	0	0	0	0	Stonevault Mauler - Cast Frenzy at 30% HP
 732701	7327	2	0	50	3	30	0	120000	125000	11	8599	0	1	1	-46	0	0	0	0	0	0	Withered Warrior - Cast Enrage at 30% HP
-732702	7327	0	0	100	3	12000	20000	8000	15000	11	6268	0	0	0	0	0	0	0	0	0	0	Withered Warrior - Crushing Charge
+732702	7327	0	0	100	3	12000	20000	8000	15000	11	6268	0	0	0	0	0	0	0	0	0	0	Withered Warrior -  Crushing Charge
 732801	7328	2	0	100	3	30	0	120000	125000	11	8599	0	1	1	-46	0	0	0	0	0	0	Withered Reaver - Cast Enrage at 30% HP
 732802	7328	0	0	100	3	4000	8000	3000	10000	11	40504	1	0	0	0	0	0	0	0	0	0	Withered Reaver - Cleave
 732901	7329	2	0	100	3	30	0	120000	125000	11	8599	0	1	1	-46	0	0	0	0	0	0	Withered Quilguard - Cast Enrage at 30% HP
@@ -1953,7 +1953,7 @@
 733204	7332	9	5	100	3	25	80	0	0	21	1	1	0	20	1	0	0	0	0	0	0	Withered Spearhide - Start Combat Movement and Start Melee at 25 Yards (Phase 1)
 733205	7332	9	5	100	3	0	5	0	0	21	1	0	0	40	1	0	0	20	1	0	0	Withered Spearhide - Start Combat Movement and Set Melee Weapon Model and Start Melee Below 5 Yards (Phase 1)
 733206	7332	9	5	100	3	5	15	0	0	21	0	1	0	20	0	0	0	0	0	0	0	Withered Spearhide - Prevent Combat Movement and Prevent Melee at 15 Yards (Phase 1)
-733207	7332	0	0	100	3	8000	12000	6000	17000	11	11397	4	1	40	2	0	0	0	0	0	0	Withered Spearhide - Diseased Shot
+733207	7332	0	0	100	3	8000	12000	6000	17000	11	11397	4	1	40	2	0	0	0	0	0	0	Withered Spearhide -  Diseased Shot
 733208	7332	2	0	100	3	30	0	120000	120000	11	8599	0	1	1	-46	0	0	0	0	0	0	Withered Spearhide - Cast Enrage at 30% HP
 733209	7332	2	0	100	2	15	0	0	0	23	1	0	0	0	0	0	0	0	0	0	0	Withered Spearhide - Set Phase 2 at 15% HP
 733210	7332	2	3	100	2	15	0	0	0	21	1	0	0	25	0	0	0	1	-47	0	0	Withered Spearhide - Start Combat Movement and Flee at 15% HP (Phase 2)
@@ -2196,7 +2196,7 @@
 904114	9041	7	0	100	2	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	Warder Stilgiss - Set Phase to 0 on Evade
 904201	9042	0	0	100	2	0	0	6000	6000	11	15042	1	0	0	0	0	0	0	0	0	0	Verek - Cast Curse of Blood
 904202	9042	2	0	100	2	30	0	0	0	11	8599	0	0	0	0	0	0	0	0	0	0	Verek - Cast Enrage at 30% HP
-904301	9043	0	0	100	3	5000	7000	4000	6000	11	11976	1	0	0	0	0	0	0	0	0	0	Scarshield Grunt - Strike
+904301	9043	0	0	100	3	5000	7000	4000	6000	11	11976	1	0	0	0	0	0	0	0	0	0	Scarshield Grunt -  Strike
 905601	9056	4	0	100	2	0	0	0	0	11	8258	0	0	0	0	0	0	0	0	0	0	Fineous Darkvire - Cast Devotion Aura on Aggro
 905602	9056	2	0	100	2	60	0	0	0	11	15493	0	0	0	0	0	0	0	0	0	0	Fineous Darkvire - Cast Holy Light at 60% HP
 905603	9056	2	0	100	2	40	0	0	0	11	15493	0	0	0	0	0	0	0	0	0	0	Fineous Darkvire - Cast Holy Light at 40% HP
@@ -2241,7 +2241,7 @@
 921706	9217	9	5	100	2	5	15	0	0	21	0	0	0	0	0	0	0	0	0	0	0	Spirestone Lord Magus - Prevent Combat Movement at 15 Yards (Phase 1)
 921707	9217	9	5	100	2	0	5	0	0	21	1	0	0	0	0	0	0	0	0	0	0	Spirestone Lord Magus - Start Combat Movement Below 5 Yards
 921708	9217	3	3	100	3	100	30	100	100	23	-1	0	0	0	0	0	0	0	0	0	0	Spirestone Lord Magus - Set Phase 1 when Mana is above 30% (Phase 2)
-921709	9217	0	0	100	3	7000	12000	14000	19000	11	13323	5	1	0	0	0	0	0	0	0	0	Spirestone Lord Magus - Cast Polymorph
+921709	9217	0	0	100	3	7000	12000	14000	19000	11	13323	5	1	0	0	0	0	0	0	0	0	Spirestone Lord Magus -  Cast Polymorph
 921710	9217	2	0	100	3	50	0	25000	30000	11	8365	0	1	0	0	0	0	0	0	0	0	Spirestone Lord Magus - Cast Enlarge at 50% HP
 921711	9217	2	0	100	3	30	0	30000	35000	11	6742	0	1	0	0	0	0	0	0	0	0	Spirestone Lord Magus - Cast Bloodlust at 30% HP
 921712	9217	7	0	100	2	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	Spirestone Lord Magus - Set Phase to 0 on Evade
@@ -2249,7 +2249,7 @@
 923902	9239	14	0	100	3	2000	40	10000	15000	11	15799	6	0	0	0	0	0	0	0	0	0	Smolderthorn Mysic - Chain Heal
 924001	9240	0	0	100	3	10000	10000	10000	10000	11	15090	1	0	0	0	0	0	0	0	0	0	Smolderthron Shadow Priest - Dispell Magic
 924002	9240	0	0	100	3	5000	10000	20000	20000	11	11641	4	0	0	0	0	0	0	0	0	0	Smolderthron Shadow Priest - Hex
-924003	9240	0	0	100	3	6000	8000	5000	10000	11	15800	4	0	0	0	0	0	0	0	0	0	Smolderthorn Shadow Priest - Mana Burn
+924003	9240	0	0	100	3	6000	8000	5000	10000	11	15800	4	0	0	0	0	0	0	0	0	0	Smolderthorn Shadow Priest -  Mana Burn
 924101	9241	1	0	100	2	0	0	0	0	21	0	0	0	20	0	0	0	0	0	0	0	Smolderthorn Headhunter - Prevent Combat Movement and Prevent Melee on Spawn
 924102	9241	4	0	100	2	0	0	0	0	11	15795	1	0	23	1	0	0	0	0	0	0	Smolderthorn Headhunter - Cast Throw and Set Phase 1 on Aggro
 924103	9241	9	5	100	3	5	30	2300	3900	11	15795	1	0	40	2	0	0	0	0	0	0	Smolderthorn Headhunter - Cast Throw and Set Ranged Weapon Model (Phase 1)
@@ -2279,7 +2279,7 @@
 925902	9259	0	0	100	3	5000	5000	6000	10000	11	13737	1	0	0	0	0	0	0	0	0	0	Firebrand Grunt - Mortal Strike
 925903	9259	0	0	100	3	20000	20000	30000	30000	11	15128	1	0	0	0	0	0	0	0	0	0	Firebrand Grunt - Mark of Flames
 926001	9260	0	0	100	3	1000	5000	10000	15000	11	3248	0	0	0	0	0	0	0	0	0	0	Firebrand Legionnaire - Improved Blocking
-926002	9260	0	0	100	3	10000	10000	6000	12000	11	11972	1	0	0	0	0	0	0	0	0	0	Firebrand Legionaire - Shield Bash
+926002	9260	0	0	100	3	10000	10000	6000	12000	11	11972	1	0	0	0	0	0	0	0	0	0	Firebrand Legionaire -  Shield Bash
 926003	9260	0	0	100	3	20000	20000	30000	30000	11	15128	1	0	0	0	0	0	0	0	0	0	Firebrand Legionnarie - Mark of Flames
 926101	9261	1	0	100	2	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	Firebrand Darkweaver - Prevent Combat Movement on Spawn
 926102	9261	4	0	100	2	0	0	0	0	11	12471	1	0	23	1	0	0	0	0	0	0	Firebrand Darkweaver - Cast Shadowbolt and Set Phase 1 on Aggro
@@ -2331,7 +2331,7 @@
 926710	9267	2	3	100	2	15	0	0	0	21	1	0	0	25	0	0	0	1	-47	0	0	Smolderthorn Axe Thrower - Start Combat Movement and Flee at 15% HP (Phase 2)
 926711	9267	7	0	100	2	0	0	0	0	22	0	0	0	40	1	0	0	0	0	0	0	Smolderthorn Axe Thrower - Set Phase to 0 and Set Melee Weapon Model on Evade
 926801	9268	2	0	100	3	30	0	30000	35000	11	8269	0	0	1	-106	0	0	0	0	0	0	Smolderthorn Berserker - Cast Frenzy at 30% HP
-926802	9268	0	0	100	3	5000	7000	4000	6000	11	13446	1	0	0	0	0	0	0	0	0	0	Smolderthorn Berserker - Strike
+926802	9268	0	0	100	3	5000	7000	4000	6000	11	13446	1	0	0	0	0	0	0	0	0	0	Smolderthorn Berserker -  Strike
 926803	9268	0	0	100	3	5000	5000	6000	10000	11	17547	1	0	0	0	0	0	0	0	0	0	Smolderthorn Berserker - Mortal Strike
 926901	9269	1	0	100	2	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	Smolderthorn Seer - Prevent Combat Movement on Spawn
 926902	9269	1	0	100	3	1000	1000	600000	600000	11	13585	0	1	0	0	0	0	0	0	0	0	Smolderthorn Seer - Cast Lightning Shield on Spawn
@@ -2462,7 +2462,7 @@
 1026301	10263	1	0	100	3	10000	10000	0	0	37	0	0	0	0	0	0	0	0	0	0	0	Burning Felguard - Die on Evade
 1026302	10263	0	0	100	3	10000	10000	10000	10000	11	16046	0	0	0	0	0	0	0	0	0	0	Burning Felguard - Blast Wave
 1026303	10263	0	0	100	3	5000	5000	15000	20000	11	15548	0	0	0	0	0	0	0	0	0	0	Burning Felguard - Thunderclap
-1026304	10263	0	0	100	3	5000	7000	4000	6000	11	15580	1	0	0	0	0	0	0	0	0	0	Burning Felguard - Strike
+1026304	10263	0	0	100	3	5000	7000	4000	6000	11	15580	1	0	0	0	0	0	0	0	0	0	Burning Felguard -  Strike
 1026801	10268	2	0	100	3	20	0	30000	30000	11	8269	0	0	0	0	0	0	0	0	0	0	Gizrul the Slavener - Frenzy
 1026802	10268	0	0	100	3	10000	10000	10000	10000	11	16495	1	0	0	0	0	0	0	0	0	0	Gizrul the Slavener - Fatal Bite
 1026803	10268	0	0	100	3	15000	20000	10000	20000	11	16128	1	32	0	0	0	0	0	0	0	0	Gizrul the Slavener - Infected Bite
@@ -2494,7 +2494,7 @@
 1037403	10374	0	0	100	3	10000	20000	30000	30000	12	10375	4	60000	0	0	0	0	0	0	0	0	Spire Spider - Summon Spire Spiderling
 1037404	10374	0	0	100	3	10000	20000	30000	30000	12	10375	4	60000	0	0	0	0	0	0	0	0	Spire Spider - Summon Spire Spiderling
 1037405	10374	0	0	100	3	15000	15000	15000	15000	11	16104	1	0	0	0	0	0	0	0	0	0	Spire Spider - Crystallize
-1037501	10375	1	0	100	3	10000	10000	0	0	37	0	0	0	0	0	0	0	0	0	0	0	Spire Spiderling - Die on Evade
+1037501	10375	1	0	100	3	10000	10000	0	0	37	0	0	0	0	0	0	0	0	0	0	0	Spire Spiderling -  Die on Evade
 1037601	10376	0	0	100	3	5000	10000	5000	10000	12	10375	4	60000	0	0	0	0	0	0	0	0	Crystal Fang - Summon Spire Spiderling
 1039301	10393	1	0	100	2	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	Skul - Prevent Combat Movement on Spawn
 1039302	10393	1	0	100	3	1000	1000	1800000	1800000	11	12544	0	1	0	0	0	0	0	0	0	0	Skul - Cast Frost Armor on Spawn
@@ -2575,7 +2575,7 @@
 1048803	10488	2	0	100	3	30	0	120000	120000	11	8269	0	1	1	-46	0	0	0	0	0	0	Risen Construct - Cast Frenzy at 30% HP
 1050901	10509	0	0	100	3	5000	7000	4000	6000	11	14516	1	0	0	0	0	0	0	0	0	0	Jed Runewatcher - Strike
 1050902	10509	0	0	100	3	10000	10000	10000	10000	11	11972	1	0	0	0	0	0	0	0	0	0	Jed Runewatcher - Shield Bash
-1050903	10509	0	0	100	3	10000	10000	5000	15000	11	15749	4	0	0	0	0	0	0	0	0	0	Jed Runewatcher - Shield Charge
+1050903	10509	0	0	100	3	10000	10000	5000	15000	11	15749	4	0	0	0	0	0	0	0	0	0	Jed Runewatcher -  Shield Charge
 1055801	10558	1	0	100	2	0	0	0	0	21	0	0	0	20	0	0	0	0	0	0	0	Hearthsinger Forresten - Prevent Combat Movement and Prevent Melee on Spawn
 1055802	10558	4	0	100	2	0	0	0	0	11	16100	1	0	23	1	0	0	0	0	0	0	Hearthsinger Forresten - Cast Shoot and Set Phase 1 on Aggro
 1055803	10558	9	5	100	3	5	30	2300	3900	11	16100	1	0	40	2	0	0	0	0	0	0	Hearthsinger Forresten - Cast Shoot and Set Ranged Weapon Model (Phase 1)
@@ -2638,9 +2638,9 @@
 1068011	10680	7	0	100	2	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	Summoned Blackhand Dreadweaver - Set Phase to 0 on Evade
 1068012	10680	1	0	100	3	10000	10000	0	0	37	0	0	0	0	0	0	0	0	0	0	0	Summoned Blackhand Dreadweaver - Die on Evade
 1068101	10681	4	0	100	2	0	0	0	0	1	-526	0	0	0	0	0	0	0	0	0	0	Summoned Blackhand Veteran - Emote on Aggro
-1068102	10681	9	0	100	2	8	25	0	0	11	15749	1	0	0	0	0	0	0	0	0	0	Summoned Blackhand Veteran - Cast Shield Charge
+1068102	10681	9	0	100	2	8	25	0	0	11	15749	1	0	0	0	0	0	0	0	0	0	Summoned Blackhand Veteran -  Cast Shield Charge
 1068103	10681	0	0	100	3	5800	14000	7800	18200	11	14516	1	0	0	0	0	0	0	0	0	0	Summoned Blackhand Veteran - Cast Strike
-1068104	10681	0	0	100	3	10000	15000	6000	18000	11	11972	5	0	0	0	0	0	0	0	0	0	Summoned Blackhand Veteran - Shield Bash
+1068104	10681	0	0	100	3	10000	15000	6000	18000	11	11972	5	0	0	0	0	0	0	0	0	0	Summoned Blackhand Veteran -  Shield Bash
 1068105	10681	1	0	100	3	10000	10000	0	0	37	0	0	0	0	0	0	0	0	0	0	0	Summoned Blackhand Dreadweaver - Die on Evade
 1068301	10683	0	0	100	3	10000	12000	10000	15000	11	15572	1	0	0	0	0	0	0	0	0	0	Rookery Hatcher - Sunder Armor
 1068302	10683	0	0	100	3	5000	7000	4000	6000	11	15580	1	0	0	0	0	0	0	0	0	0	Rookery Hatcher - Strike
@@ -8467,7 +8467,7 @@
 2902802	29028	4	0	100	0	0	0	0	0	1	-948	0	0	0	0	0	0	0	0	0	0	Prophet of Akali - Say on Aggro
 2902803	29028	0	0	100	0	8000	8000	0	0	1	-949	0	0	0	0	0	0	0	0	0	0	Prophet of Akali - Combat Say 2
 2902804	29028	0	0	100	0	15000	15000	0	0	19	33554752	0	0	20	1	0	0	21	1	0	0	Prophet of Akali - Enable Melee and Combat Movement
-2902805	29028	2	0	100	0	75	0	0	0	11	52982	0	1	22	2	0	0	21	0	0	0	Prophet of Akali - Cast Akali's Immunity and Prevent Combat Movement at 75% HP
+2902805	29028	2	0	100	0	75	0	0	0	11	52982	0	1	22	2	0	0	21	0	0	0	Prophet of Akali -  Cast Akali's Immunity and Prevent Combat Movement at 75% HP
 2902806	29028	0	27	100	0	2000	2000	0	0	11	52989	0	4	20	0	0	0	0	0	0	0	Prophet of Akali - Cast Akali's Stun and Prevent Melee
 2902807	29028	0	27	100	0	5000	5000	0	0	1	-950	0	0	0	0	0	0	0	0	0	0	Prophet of Akali - Combat Say 3
 2902808	29028	0	27	100	0	14000	14000	0	0	1	-951	0	0	0	0	0	0	0	0	0	0	Prophet of Akali - Combat Say 4
@@ -9033,7 +9033,7 @@
 3037609	30376	7	0	100	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	Halefnir the Windborn - Set Phase to 0 on Evade
 3038701	30387	1	0	100	0	1000	1000	0	0	11	56620	0	0	0	0	0	0	0	0	0	0	Seething Revenant - Cast Seething Flame on Spawn
 3040901	30409	2	0	100	0	40	30	0	0	2	35	0	0	20	0	0	0	23	1	0	0	Apprentice Osterkilgr - Set faction friendly stop combat go to Phase 2 when 30 to 40% health
-3040902	30409	0	13	100	0	1000	2000	0	0	1	-10020	0	0	33	30412	6	0	23	1	0	0	Apprentice Osterkilgr - Say kill credit go to phase 3
+3040902	30409	0	13	100	0	1000	2000	0	0	1	-10020	0	0	33	30412	6	0	23	1	0	0	Apprentice Osterkilgr -  Say kill credit go to phase 3
 3040903	30409	0	11	100	0	1000	1000	0	0	1	-10021	0	0	2	21	0	0	23	1	0	0	Apprentice Osterkilgr - Say set faction hostile go to phase 4
 3040904	30409	0	7	100	0	1000	1000	0	0	20	1	0	0	22	0	0	0	0	0	0	0	Apprentice Osterkilgr - Allow combat go back to phase 0
 3041401	30414	0	0	100	3	7000	11000	17000	20000	11	60833	4	0	0	0	0	0	0	0	0	0	Forgotten One (Normal)- Cast Shadow Crash 

@@ -34,10 +34,10 @@
 -955	PROPHET!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29050
 -954	NO! I will kill you all!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29028
 -953	Very well, kitten. I see no need to delay your inevitable demise. I look forward to dealing with you just as soon as I finish off these simpletons!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29028
--952	What? HAR┬┤KOA?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29028
+-952	What? HAR´KOA?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29028
 -951	You've meddled in affairs that were none of your business. You are nothing but foreign invaders. Prepare to die!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29028
 -950	How sad that only now do you grasp the truth - I wield the power of a god. You are a mere mortal. You cannot hope to defeat me!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29028
--949	You don┬┤t worry me, boy. Just the opposite - I look forward to killing you and your friends. Nothing will stand between me and Zim'Torga now!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29028
+-949	You don´t worry me, boy. Just the opposite - I look forward to killing you and your friends. Nothing will stand between me and Zim'Torga now!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29028
 -948	What is this? I recognize you from when I killed Akali. You must be this $N that everyone is dreading.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29028
 -947	The pain...the need...I hunger for more...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	10	0	Common Wretched Text
 -946	Ah, wonderful. It was all just a dream...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	1	20100
@@ -139,9 +139,9 @@
 -830	%s shimmers and becomes intangible.	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	16325
 -829	%s charges!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	Common Emote
 -828	%s attacks Karang's Banner!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	12921
--827	No! You cannot be stronger than the Foulweald! No!!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	12918
--826	You are a little gnat to the Foulweald! Die!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	12918
--825	This evil cannot be allowed to enter this world! Come my children!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	5721
+-827	No!  You cannot be stronger than the Foulweald!  No!!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	12918
+-826	You are a little gnat to the Foulweald!  Die!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	12918
+-825	This evil cannot be allowed to enter this world!  Come my children!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	5721
 -820	You know not what you do! We must destroy you for your own good.	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	5721
 -819	Turn back! Do not wake the dreamer!	\N	\N	\N	\N	\N	\N	\N	\N	5866	1	0	0	5721
 -818	IMan atuad fi ting caang	\N	\N	\N	\N	\N	\N	\N	\N	5860	1	14	0	8580
@@ -154,7 +154,7 @@
 -811	It seems my freedom must be bought... with blood.	\N	\N	\N	\N	\N	\N	\N	\N	14499	1	0	0	29266
 -810	Back in business! Now, to execute an exit strategy.	\N	\N	\N	\N	\N	\N	\N	\N	14498	1	0	0	29266
 -809	Help me crush these punys!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	14325
--808	No one get past me and threaten da king! Ungh, take it!!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	14325
+-808	No one get past me and threaten da king!  Ungh, take it!!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	14325
 -807	%s begins to retaliate all attacks against him!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	14325
 -806	AHHHHHHHHH! Please... we know... that you... have a spy... disguised as... one of us! There... that's all that I know. Please... mercy... STOP!	\N	\N	\N	\N	\N	\N	\N	\N	0	4	0	0	27209
 -805	We know... that you don't... know why we're immune... to your so-called blight. Grand Admiral Westwind somehow gave the high abbot that prayer. I beg you... no more... please?	\N	\N	\N	\N	\N	\N	\N	\N	0	4	0	0	27209
@@ -273,21 +273,21 @@
 -690	As Tharon'ja predicted.	\N	\N	\N	\N	\N	\N	\N	\N	13863	1	0	0	26632
 -689	Im... impossible! Tharon'ja is eternal! Tharon'ja... is...	\N	\N	\N	\N	\N	\N	\N	\N	13869	1	0	0	26632
 -688	Tharon'ja sees all! The work of mortals shall not end the eternal dynasty!	\N	\N	\N	\N	\N	\N	\N	\N	13862	1	0	0	26632
--687	Who dares slay one of my Kargath's commanders? You will pay for this... in flesh!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	22374
+-687	Who dares slay one of my Kargath's commanders?  You will pay for this... in flesh!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	22374
 -686	%s begins a massive heal!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	17730
 -685	What is this?! Didn't mommy and daddy teach you anything?	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	17959
 -684	Get back to work you!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	17959
 -683	This is terrible..... my arms grow tired from beating on you lazy peons!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	17959
--682	Hey! Over here! Yeah, over here... I'm in this cage!!!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	17959
+-682	Hey!  Over here!  Yeah, over here... I'm in this cage!!!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	17959
 -681	Too soon! You are slacking off too soon!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	17959
 -680	Wake up! Now get up and back to work!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	17959
 -679	Hurry up with it already! The longer you take, the more of a hurtin' I'm putting on you!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	17959
 -678	Assist me slaves!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	17959
 -677	Will the pain ever end?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	18206
--676	Help me! Please help me!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	18206
+-676	Help me!  Please help me!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	18206
 -675	How can you just leave me here?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	18206
--674	For Kargath! For Victory!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	17264
--673	You there! Keep a close watch on these ramparts, intruders could approach at any time!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	17264
+-674	For Kargath!  For Victory!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	17264
+-673	You there!  Keep a close watch on these ramparts, intruders could approach at any time!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	17264
 -672	This world is OURS!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	1	0	Common Orc Say
 -671	Incompetent fools! Auchindoun should've been ours... look at yourselves scrambling like rats!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	22381
 -670	Anaya's soft voice trails away into the mists, "Know that I love you always..."	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	3843
@@ -304,8 +304,8 @@
 -659	Goddess, grant me the power to overcome my enemies! Hear me, please, my need is desperate and my cause is just!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3946
 -658	The numbers of my companions dwindles, goddess, and my own power shall soon be insufficient to hold back the demons of Felwood.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3946
 -657	You're not getting anything until you speak, scum!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16924
--656	Please! I must feed on something soon... A mana crystal.... a shard... anything! The pain is unbearable!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16916
--655	Tell us! Where does your leader hide?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16924
+-656	Please!  I must feed on something soon... A mana crystal.... a shard... anything!  The pain is unbearable!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16916
+-655	Tell us!  Where does your leader hide?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16924
 -654	Snivvle is here! Snivvle claims the Coldtooth Mine!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	11677
 -653	Ahhh... RAAAAAGH! Never thought... I would be free of him...	\N	\N	\N	\N	\N	\N	\N	\N	14069	1	0	0	29120
 -652	Come forth my brethren! Feast on their flesh.	\N	\N	\N	\N	\N	\N	\N	\N	14059	1	0	0	29120
@@ -417,11 +417,11 @@
 -538	Activate counter-measures. Repel intruder.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25814
 -537	You have been detected. You will be assimilated or eliminated.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25814
 -536	Warning! Warning! Intruder alert! Intruder alert!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25814
--532	Stop! Foolish $C, we cannot let you summon the creature Myzrael!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	2763
--531	Take that! The Drywhiskers will prevail!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Drywhisker
--530	No! Leave us! We must not fail our task!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Drywhisker
--529	Stand firm, brothers. And don't worry! Size is on our side!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Drywhisker
--528	Die! You will not free Myzrael!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Drywhisker
+-532	Stop!  Foolish $C, we cannot let you summon the creature Myzrael!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	2763
+-531	Take that!  The Drywhiskers will prevail!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Drywhisker
+-530	No!  Leave us!  We must not fail our task!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Drywhisker
+-529	Stand firm, brothers.  And don't worry!  Size is on our side!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Drywhisker
+-528	Die!  You will not free Myzrael!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Drywhisker
 -527	The Great One will smash you!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Drywhisker
 -526	%s summons a Blackhand Veteran to his aid!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	10681
 -525	%s summons a Blackhand Dreadweaver to his aid!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	10680
@@ -481,18 +481,18 @@
 -471	%s begins to crack and break apart.	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	2359
 -470	You have my word that I shall find a use for your body after I've killed you, $R.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	2733
 -469	You will never stop the Forsaken, $R. The Dark Lady shall make you suffer.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	2733
--462	The Council of Duskwood must take action. Evil lingers in the air.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	269
--459	Undead are crawling all over the land. Where is the Stormwind Army?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	263
--458	The people of Darkshire expect more from the Council. We cannot let them suffer from this unholy wrath which plagues us.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	269
+-462	The Council of Duskwood must take action.  Evil lingers in the air.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	269
+-459	Undead are crawling all over the land.  Where is the Stormwind Army?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	263
+-458	The people of Darkshire expect more from the Council.  We cannot let them suffer from this unholy wrath which plagues us.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	269
 -457	Our cause falls on deaf ears beyond the thick, stone walls of Stormwind.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	271
 -456	I fear something dark is coming.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	325
 -455	We need better representation from Stormwind. Our homes are falling to the undead.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	270
--454	Constant bickering will get us nowhere. We need to take action.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	269
+-454	Constant bickering will get us nowhere.  We need to take action.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	269
 -453	The news from Stormwind does not bode well. . . .	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	271
 -452	The light appears to have forsaken us.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	325
 -451	Why haven't the Stormwind guards come?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	325
 -450	Toil not in matters of the past, $N!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	2044
--449	Who is this mere $R that meddles with that which is past? May the legend of Stalvan die along with you!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	2044
+-449	Who is this mere $R that meddles with that which is past?  May the legend of Stalvan die along with you!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	2044
 -447	The wizard will fall!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	17835
 -446	We will not be stopped!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	17835
 -445	Victory or death!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	21104
@@ -532,7 +532,7 @@
 -411	I will gladly pay you Tuesday for a hamburger today.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1395
 -410	Hmmm, this one looks like something that would be better off as a windchime. Take notes class... This is NOT what you want to summon in the heat of battle.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	11582
 -409	Get those parts moving down to the ship!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1763
--408	Anyone want to take a break? Well too bad! Get to work you oafs!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1763
+-408	Anyone want to take a break?  Well too bad!  Get to work you oafs!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1763
 -407	I shall spill your blood, $C!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	315
 -406	Never cross a Dark Iron, $C.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1169
 -405	%s seems much calmer now that it has eaten the remains of $N.	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	2931
@@ -739,7 +739,7 @@
 -171	Lap dogs, all of you!	\N	\N	\N	\N	\N	\N	\N	\N	5782	1	0	0	639
 -170	And stay down!	\N	\N	\N	\N	\N	\N	\N	\N	5781	1	0	0	639
 -169	None may challenge the Brotherhood!	\N	\N	\N	\N	\N	\N	\N	\N	5780	1	0	0	639
--168	Who dares disturb me? Die $N!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	315
+-168	Who dares disturb me?  Die $N!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	315
 -167	KILL!!!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3569
 -166	Soon, the Scourge will rule the world!	\N	\N	\N	\N	\N	\N	\N	\N	5821	1	0	0	7357
 -165	We will spread across this barren land!	\N	\N	\N	\N	\N	\N	\N	\N	5820	1	0	0	7357
@@ -776,10 +776,10 @@
 -133	I be da predator! You da prey... 	\N	\N	\N	\N	\N	\N	\N	\N	12013	1	0	0	23574
 -124	Insolence!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	16329
 -123	I am the serpent king! I can do anything.	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	3673
--116	What good does this violence serve? What is done is done. I have failed my people.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19456
--115	Haven't you done enough harm? Must you also disturb my slumber?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19456
--114	I cannot stand the pain. I must find a new source.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	10	0	Common Wretched Text
--113	More, more, more! I must feed soon.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	10	0	Common Wretched Text
+-116	What good does this violence serve?  What is done is done.  I have failed my people.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19456
+-115	Haven't you done enough harm?  Must you also disturb my slumber?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19456
+-114	I cannot stand the pain.  I must find a new source.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	10	0	Common Wretched Text
+-113	More, more, more!  I must feed soon.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	10	0	Common Wretched Text
 -111	%s bursts, showering the area with arcane residue!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	15648
 -110	Take heart! Your friends will not long mourn your passing!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	15638
 -109	Uphold the Law!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	15638
