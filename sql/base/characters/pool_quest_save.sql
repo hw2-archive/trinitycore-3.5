@@ -1,28 +1,19 @@
-/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */; /*!40103 SET TIME_ZONE='+00:00' */; /*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */; /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */; /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */; /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */; DROP TABLE IF EXISTS `pool_quest_save`; /*!40101 SET @saved_cs_client = @@character_set_client */; /*!40101 SET character_set_client = utf8 */; CREATE TABLE `pool_quest_save` ( `pool_id` int(10) unsigned NOT NULL DEFAULT '0', `quest_id` int(10) unsigned NOT NULL DEFAULT '0', PRIMARY KEY (`pool_id`,`quest_id`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8; /*!40101 SET character_set_client = @saved_cs_client */; LOCK TABLES `pool_quest_save` WRITE; /*!40000 ALTER TABLE `pool_quest_save` DISABLE KEYS */; INSERT INTO `pool_quest_save` VALUES (348,24636),
-(349,14105),
-(350,13905),
-(351,13917),
-(352,11377),
-(353,11665),
-(354,13423),
-(356,11374),
-(357,11383),
-(5662,13673),
-(5663,13764),
-(5664,13769),
-(5665,13775),
-(5666,13780),
-(5667,13783),
-(5668,13666),
-(5669,13603),
-(5670,13743),
-(5671,13746),
-(5672,13757),
-(5673,13753),
-(5674,13102),
-(5675,13112),
-(5676,13833),
-(5677,12958),
-(5678,24589),
-(5684,24872),
-(5688,24878); /*!40000 ALTER TABLE `pool_quest_save` ENABLE KEYS */; UNLOCK TABLES; /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */; /*!40101 SET SQL_MODE=@OLD_SQL_MODE */; /*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */; /*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */; /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+DROP TABLE IF EXISTS `pool_quest_save`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `pool_quest_save` (
+  `pool_id` int(10) unsigned NOT NULL DEFAULT '0',
+  `quest_id` int(10) unsigned NOT NULL DEFAULT '0',
+  PRIMARY KEY (`pool_id`,`quest_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+

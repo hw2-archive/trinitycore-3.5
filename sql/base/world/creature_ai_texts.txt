@@ -1,0 +1,841 @@
+-10021	The doctor entrusted me with the plans to Nergeld! I will not fall!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Apprentice Osterkilgr - Say Set Faction
+-10020	You've come for the doctor's plans! You'll only find death!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Apprentice Osterkilgr - Say Kill Credit
+-10019	Of course I was the one Chosen to summon a demon for the competitors. I am Wilfred Fizzlebang, master summoner! Demons quail before the mere thought of being under my will!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	1	Wilfred Say
+-10018	Once he has done so, tell him to leave this land in peace. He does not belong here.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Voice of Nozronn Speach 5
+-10017	Return to your companion. Tell him to go forth and claim his prize in Farunn.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Voice of Nozronn Speach 4
+-10016	Farunn walks the lands north of what your people call the Bittertide Falls. You will find him alone, but you will see her requires no defenders.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Voice of Nozronn Speach 3
+-10015	Your companion seeks the shardhorn patriarch Farunn, who holds himself aloof from his brothers.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Voice of Nozronn Speach 2
+-10014	So the oracIe has decided to aid you, outlander. Very well, I will offer you what i know.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Voice of Nozronn Speach 1
+-10013	My brothers have awoken. Your efforts are wasted...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Windan of the Kvaldir Speach
+-10012	Look to the seas, as your doom comes with the swell of tides	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Isuldof Iceheart Speach
+-10011	From the mist and fog the Kvaldir approach. Flee while you still breathe the air of the living...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Rodin the Reckless Speach
+-10010	Your offering has come too late, little one. Can you feel the mist closing in upon you? The Kvaldir return...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Fengir the Discraced Speach
+-10009	My nightmare, is it finally over?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Fallen Hero Spirit Say
+-10008	I'm so tired. Just let me rest for a moment	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Fallen Hero Spirit Say
+-10007	I can't hear the screams anymore. Is this the end?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Fallen Hero Spirit Say
+-10006	At last... now I can rest	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Fallen Hero Spirit Say
+-10005	It was awful.. I dreamt I was fighting against my friends	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Fallen Hero Spirit Say
+-10004	Help! My eyes!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	North Fleet Reservist Yell
+-10003	Someone shoot that bat down!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	North Fleet Reservist Yell
+-10002	That liquid... it reeks!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	North Fleet Reservist Yell
+-10001	I don't feel so good...	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	North Fleet Reservist Yell
+-10000	Soon all the world will know the name of Wilfred!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	1	Wilfred Say
+-966	High general Abbendis personally told me that it was a mistake to come north and that we're doomed! I urge you all to lay down your weapons and leave before it's too late!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	Commander Jordan - Denouncement
+-965	Abbendis is nothing but a harlot and Grand Admiral Westwind is selling her cheap like he sold us out!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	Lead Cannoneer Zierhut - Denouncement
+-964	Renounce the Scarlet Onslaught! Don't listen to the lies of the high general and the grand admiral any longer!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	Lead Cannoneer Zierhut - Denouncement
+-963	You are being misled! The Onslaught is all lies! The Scourge and the Forsaken are not our enemies! Wake up!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	Blacksmith Goodman - Denouncement
+-962	...victory.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	15	19635
+-961	It smells like...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	1	19635
+-960	I love the smell of nether in the morning.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	1	19635
+-959	Intruder detected! Neutralizing threat immediately!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	18698
+-958	Thank you. Once again you have saved us all. I will see you back at Zim'Torga.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29050
+-957	I THINK NOT. YOU WILL DROP YOUR IMMUNITY, CEASE YOUR RITUAL NOW AND RELEASE THEM!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29050
+-956	YOU KEEP YOUR FILTHY DRAKKARI HANDS OFF THEM!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29050
+-955	PROPHET!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29050
+-954	NO! I will kill you all!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29028
+-953	Very well, kitten. I see no need to delay your inevitable demise. I look forward to dealing with you just as soon as I finish off these simpletons!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29028
+-952	What? HAR┬┤KOA?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29028
+-951	You've meddled in affairs that were none of your business. You are nothing but foreign invaders. Prepare to die!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29028
+-950	How sad that only now do you grasp the truth - I wield the power of a god. You are a mere mortal. You cannot hope to defeat me!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29028
+-949	You don┬┤t worry me, boy. Just the opposite - I look forward to killing you and your friends. Nothing will stand between me and Zim'Torga now!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29028
+-948	What is this? I recognize you from when I killed Akali. You must be this $N that everyone is dreading.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29028
+-947	The pain...the need...I hunger for more...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	10	0	Common Wretched Text
+-946	Ah, wonderful. It was all just a dream...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	1	20100
+-945	I'm right here, daddy. You've been asleep all day long. You sure must be tired!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	1	20098
+-944	Was... Was it all a dream? Azuremyst, Bloodymyst, Zangarmarsh, Shadowmoon... even Zul'Aman... Jane! Jane where are you!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	1	20100
+-943	Ooh what a dreadful job! All day, surrounded by the stench of bad feet.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	1	18929
+-942	Why couldn't mother have chosen something else to dedicate herself to? Cakes, pastries, even bread - anything but cheese!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	1	18929
+-941	If only I had some wine to go with my cheese...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	18	18929
+-940	I don't see why we ally with filthy stinking trolls? The only good troll is a dead troll.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	1	16263
+-939	Does anyone need any supplies to down the trolls? Any troll will do.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	1	16263
+-938	Do not push it citizen!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	1	15371
+-937	Move along, $C.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	66	15371
+-936	Off with you, $N.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	66	15371
+-935	Assassins... save... th... Magistraaa...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	65	2434
+-934	%s grabs the back of his neck and his eyes go wide.	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	2434
+-933	Guards to your posts! They must be after the Magistrate again. He must be protected! They could come from any direction!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	1	2434
+-932	Help me! Help! Assassins in the hills! To arms! To arms!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	22	2434
+-931	The undead shall feast on your soul, $N.	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	1	2433
+-930	Revenge shall be mine at last!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	1	2433
+-929	I have risen!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	1	2433
+-928	Southshore shall pay in blood!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	1	2433
+-927	Intruders! Attack the intruders!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	33	0	2405
+-926	I spent my whole life caring for these trees. Pruning and nurturing them... only fitting that they have joined me in death.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	1	0	2396
+-925	This orchard is now as barren and lifeless as my rotting shell. Once these trees bloomed with fruit but now there is only rot.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	1	0	2396
+-924	More agents of the Syndicate I'll wager! You'll never take back Alterac... Or Southshore!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	7	0	2276
+-910	The Inoculated Nestlewood Owlkin seems overjoyed.	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	4	16534
+-909	The Inoculated Nestlewood Owlkin doen't look like it minds the crystal's effect.	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	22	16534
+-908	The Inoculated Nestlewood Owlkin nods appreciatively.	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	2	16534
+-907	The Inoculated Nestlewood Owlkin looks confused.	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	6	16534
+-906	The Inoculated Nestlewood Owlkin didn't like what just happened.	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	18	16534
+-905	You'll not take me alive, scum!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16522
+-904	I hope you've made your peace.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16521
+-903	We won't allow you to leave this valley!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16521
+-902	What a pity you survived the crash just to die here.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16521
+-897	The light condemns all who harbor evil. Now you will die!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1535
+-896	You carry the taint of the scourge. Prepare to enter the twisting nether.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1535
+-895	There is no escape for you. The Crusade shall destroy all who carry the scourge's taint.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1535
+-891	Well fought...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	31161
+-890	Welcome to the world of the unliving!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	31161
+-889	You have some fight in you. I'm impressed.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	31161
+-888	I knew that you would come.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	31161
+-887	I'm flesh and blood again! Thank you!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	7	1	25773
+-886	Where am I? Who are you? What's that strange feeling?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	7	1	25773
+-885	But... but... I was perfect!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	7	1	25773
+-884	I survived and I'm flesh again!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	7	1	25773
+-883	Hello. Master Fras Siabi is not in at this time. Please come back tomorrow to Fras Siabi's Premium Tobacco! Beep!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	31057
+-882	I pray the illness I'm feeling is due to stress ulcers...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	30994
+-881	How can I possibly help the city in such a widespread crisis?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	30994
+-880	I'm at a loss. What can one simple man do in the face of disaster?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	30994
+-879	No remedy seems to work - the entire city has sickened...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	30994
+-878	The soldiers are spreading panic with rumors of bad food. Neighbors are accusing one another of poison. The city will fall into bedlam!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	30994
+-877	Everyone is falling ill - this is an epidemic!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	30994
+-876	It is Prince Arthas I want, not you.	\N	\N	\N	\N	\N	\N	\N	\N	14418	1	0	0	26533
+-875	The dark lord is displeased with your interference.	\N	\N	\N	\N	\N	\N	\N	\N	14417	1	0	0	26533
+-874	All too easy.	\N	\N	\N	\N	\N	\N	\N	\N	14416	1	0	0	26533
+-873	You seem tired.	\N	\N	\N	\N	\N	\N	\N	\N	14415	1	0	0	26533
+-872	Time out.	\N	\N	\N	\N	\N	\N	\N	\N	14414	1	0	0	26533
+-871	This will be a fine test, Prince Arthas.	\N	\N	\N	\N	\N	\N	\N	\N	14413	1	0	0	26533
+-870	Your journey has just begun, young prince. Gather your forces, and meet me in the arctic land of Northrend. It is there we shall settle the score between us. It is there that your true destiny will unfold.	\N	\N	\N	\N	\N	\N	\N	\N	14412	1	0	0	26533
+-869	As you can see, your people are now mine. I will now turn this city, household by household, until the flame of life has been snuffed out forever.	\N	\N	\N	\N	\N	\N	\N	\N	14411	1	0	0	26533
+-868	Yes, this is the beginning. I've been waiting for you, young prince. I am Mal'Ganis.	\N	\N	\N	\N	\N	\N	\N	\N	14410	1	0	0	26533
+-867	You would destined to fail.	\N	\N	\N	\N	\N	\N	\N	\N	13415	1	0	0	26532
+-866	This is the hour of our greatest triumph!	\N	\N	\N	\N	\N	\N	\N	\N	13414	1	0	0	26532
+-865	There is no future for you.	\N	\N	\N	\N	\N	\N	\N	\N	13413	1	0	0	26532
+-864	Let's get this over with.	\N	\N	\N	\N	\N	\N	\N	\N	13412	1	0	0	26532
+-863	Not quick enough!	\N	\N	\N	\N	\N	\N	\N	\N	13411	1	0	0	26532
+-862	Tick tock, tick tock...	\N	\N	\N	\N	\N	\N	\N	\N	13410	1	0	0	26532
+-861	We'll see about that, young prince.	\N	\N	\N	\N	\N	\N	\N	\N	13409	1	0	0	26532
+-860	Prince Arthas Menethil, on this day, a powerful darkness has taken hold of your soul. The death you are destined to visit upon others will this day be your own.	\N	\N	\N	\N	\N	\N	\N	\N	13408	6	0	0	26532
+-859	You only advance... the master's plan...	\N	\N	\N	\N	\N	\N	\N	\N	13483	1	0	0	26530
+-858	Your flesh betrays you.	\N	\N	\N	\N	\N	\N	\N	\N	13482	1	0	0	26530
+-857	Such strength... it must be mine!	\N	\N	\N	\N	\N	\N	\N	\N	13481	1	0	0	26530
+-856	I want a sample...	\N	\N	\N	\N	\N	\N	\N	\N	13480	1	0	0	26530
+-855	Blood... destruction... EXHILARATING!	\N	\N	\N	\N	\N	\N	\N	\N	13479	1	0	0	26530
+-854	BOOM! Hahahahah...	\N	\N	\N	\N	\N	\N	\N	\N	13478	1	0	0	26530
+-853	Come, citizen of Stratholme! Meet your saviors.	\N	\N	\N	\N	\N	\N	\N	\N	13477	1	0	0	26530
+-852	Say hello to some friends of mine.	\N	\N	\N	\N	\N	\N	\N	\N	13476	1	0	0	26530
+-851	Don't worry, I'll make good use of you.	\N	\N	\N	\N	\N	\N	\N	\N	13475	1	0	0	26530
+-850	Aah, quality materials!	\N	\N	\N	\N	\N	\N	\N	\N	13474	1	0	0	26530
+-849	The fun is just beginning!	\N	\N	\N	\N	\N	\N	\N	\N	13473	1	0	0	26530
+-848	Ah, the entertainment has arrived!	\N	\N	\N	\N	\N	\N	\N	\N	13472	1	0	0	26530
+-847	You are too late, champion of Lordaeron. The dead shall have their day.	\N	\N	\N	\N	\N	\N	\N	\N	13471	1	0	0	26530
+-846	This not fun...	\N	\N	\N	\N	\N	\N	\N	\N	13433	1	0	0	26529
+-845	Get up! Me not done!	\N	\N	\N	\N	\N	\N	\N	\N	13432	1	0	0	26529
+-844	Why you stop moving?	\N	\N	\N	\N	\N	\N	\N	\N	13431	1	0	0	26529
+-843	Boring...	\N	\N	\N	\N	\N	\N	\N	\N	13430	1	0	0	26529
+-842	New toys!	\N	\N	\N	\N	\N	\N	\N	\N	13429	1	0	0	26529
+-841	Play time!	\N	\N	\N	\N	\N	\N	\N	\N	13428	1	0	0	26529
+-840	A cool breeze caresses your face. Gentle, melodic humming resonates throughout the chamber.	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	19412
+-839	Please don't ignore us...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	1	19283
+-838	Spare a copper, madame?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	1	19283
+-837	Hey man, got some money? I've got five kids to feed!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	1	19283
+-836	Don't wait! Order now and receive my Ultra-Kinetic Waffle Iron at no additional charge!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	1	25885
+-835	Wine stains, grass stains, even pet stains are no match for the Electrostatic Maculation Blaster!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	1	25885
+-834	Derived from cutting edge Shattered Sun Offensive military technology, it blasts away stubborn stains with ease!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	1	25885
+-833	Be the first on your block to own the incredible Electrostatic Maculation Blaster!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	1	25885
+-832	It's coming along, Wafflefry. Haven't you got a product demonstration to do or something?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	1	19475
+-831	Hey, harbringer, how's that research coming along? There might be an Ultra-Kinetic Waffle Iron in it for you if you're prompt with the results!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	1	25885
+-830	%s shimmers and becomes intangible.	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	16325
+-829	%s charges!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	Common Emote
+-828	%s attacks Karang's Banner!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	12921
+-827	No! You cannot be stronger than the Foulweald! No!!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	12918
+-826	You are a little gnat to the Foulweald! Die!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	12918
+-825	This evil cannot be allowed to enter this world! Come my children!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	5721
+-820	You know not what you do! We must destroy you for your own good.	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	5721
+-819	Turn back! Do not wake the dreamer!	\N	\N	\N	\N	\N	\N	\N	\N	5866	1	0	0	5721
+-818	IMan atuad fi ting caang	\N	\N	\N	\N	\N	\N	\N	\N	5860	1	14	0	8580
+-817	So or'manley fi siame Dim fus siame yudo	\N	\N	\N	\N	\N	\N	\N	\N	5859	1	14	0	8580
+-816	Never underestimate the other ethereal's greed.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19666
+-815	This... is an unrecoverable... loss.	\N	\N	\N	\N	\N	\N	\N	\N	14507	1	0	0	29266
+-814	Profit!	\N	\N	\N	\N	\N	\N	\N	\N	14506	1	0	0	29266
+-813	Business concluded.	\N	\N	\N	\N	\N	\N	\N	\N	14505	1	0	0	29266
+-812	Nothing personal...	\N	\N	\N	\N	\N	\N	\N	\N	14504	1	0	0	29266
+-811	It seems my freedom must be bought... with blood.	\N	\N	\N	\N	\N	\N	\N	\N	14499	1	0	0	29266
+-810	Back in business! Now, to execute an exit strategy.	\N	\N	\N	\N	\N	\N	\N	\N	14498	1	0	0	29266
+-809	Help me crush these punys!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	14325
+-808	No one get past me and threaten da king! Ungh, take it!!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	14325
+-807	%s begins to retaliate all attacks against him!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	14325
+-806	AHHHHHHHHH! Please... we know... that you... have a spy... disguised as... one of us! There... that's all that I know. Please... mercy... STOP!	\N	\N	\N	\N	\N	\N	\N	\N	0	4	0	0	27209
+-805	We know... that you don't... know why we're immune... to your so-called blight. Grand Admiral Westwind somehow gave the high abbot that prayer. I beg you... no more... please?	\N	\N	\N	\N	\N	\N	\N	\N	0	4	0	0	27209
+-804	OW...NO! We know that you've been stealing our armor and weapons and horses!	\N	\N	\N	\N	\N	\N	\N	\N	0	4	0	0	27209
+-803	Wait... WAIT! What is it that you want to know? I know you're the $C named $N.	\N	\N	\N	\N	\N	\N	\N	\N	0	4	0	0	27209
+-802	Ow! I'll tell you NOTHING, filthy $R!	\N	\N	\N	\N	\N	\N	\N	\N	0	4	0	0	27209
+-801	Come to play?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	27209
+-800	Ugh...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28415
+-799	I am in your debt, friend.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28415
+-798	I thought I was done for!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28415
+-797	Kroshius live? Kroshius crush!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	14467
+-796	You dare to challenge Drottin Hrothgar, king of the seas?	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	34980
+-795	DESTRUCTION!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	1	28907
+-794	With the approaching darkness comes the end of the Scarlet Crusade. You will battle once more! For the Scourge! For the Lich King!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	1	28907
+-793	SUFFER WELL, DEATH KNIGHTS!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	1	28907
+-792	No mercy for the weak!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	1	28907
+-791	TERROR!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	1	28907
+-790	CHAOS!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	1	28907
+-789	The Lich King has spoken to each of you! Let his words resonate among you once more!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	1	28907
+-788	ALL. MUST. DIE.	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	1	28907
+-787	Leave no survivors in your wake, brothers and sisters!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	1	28907
+-786	The corpses of those that try only serve to feed our expanding host!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	1	28907
+-785	The Scarlet fleet lies in ruin upon the sundered coast!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	1	28907
+-784	With each enemy slain, our strength grows! We mustn't relent!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	1	28907
+-783	Open your eyes, brothers and sisters! GAZE UPON APOCALYPSE!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	1	28907
+-782	The sky itself feeds upon the suffering of the conquered!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	1	28907
+-781	The Scarlet Crusade is powerless to stop us!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	1	28907
+-780	Pathetic...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28768
+-779	The Crusade will be victorious!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28609
+-778	Let the purging begin!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28609
+-777	You're not welcome in these lands, monster!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28609
+-776	%s's remains fall on the ground.	\N	\N	\N	\N	\N	\N	\N	\N	3	0	0	0	29001
+-775	Alright! We Surrender... Just put your weapons down, I'll cooperate	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	5089
+-774	Constructs, defend the capital at all costs!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	26334
+-773	To battle, my children! Show the enemy no mercy!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	26334
+-772	For the thane! For Loken!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	26334
+-771	Rise, and fight once more!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	26654
+-770	I am summoned! Intruders, come to my tent and face your death!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	3395
+-768	You cannot stop us!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25682
+-766	You will not master me, puny $R!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	26045
+-765	Death to the interlopers!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	18952
+-764	Leave this place!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	10940
+-763	This meeting of the Assembly of Iron is adjourned!	\N	\N	\N	\N	\N	\N	\N	\N	15664	1	0	0	32927
+-762	Death is the price of your arrogance.	\N	\N	\N	\N	\N	\N	\N	\N	15659	1	0	0	32927
+-761	The world on suffers yet another insignificant loss!	\N	\N	\N	\N	\N	\N	\N	\N	15658	1	0	0	32927
+-760	Face the lightning surge!	\N	\N	\N	\N	\N	\N	\N	\N	15661	1	0	0	32927
+-759	Decipher this!	\N	\N	\N	\N	\N	\N	\N	\N	15660	1	0	0	32927
+-758	What have you gained from my defeat? You are no less doomed, mortals...	\N	\N	\N	\N	\N	\N	\N	\N	15663	1	0	0	32927
+-757	The legacy of storms shall not be undone...	\N	\N	\N	\N	\N	\N	\N	\N	15662	1	0	0	32927
+-756	Nothing short of total decimation will suffice!	\N	\N	\N	\N	\N	\N	\N	\N	15657	1	0	0	32927
+-755	Let the storm clouds rise and rain down death from above!	\N	\N	\N	\N	\N	\N	\N	\N	15688	1	0	0	32857
+-754	This meeting of the Assembly of Iron is adjourned!	\N	\N	\N	\N	\N	\N	\N	\N	15691	1	0	0	32857
+-753	HAH!	\N	\N	\N	\N	\N	\N	\N	\N	15686	1	0	0	32857
+-752	A merciful kill!	\N	\N	\N	\N	\N	\N	\N	\N	15685	1	0	0	32857
+-751	You rush headlong into the maw of madness!	\N	\N	\N	\N	\N	\N	\N	\N	15690	1	0	0	32857
+-750	The power of the storm lives on...	\N	\N	\N	\N	\N	\N	\N	\N	15689	1	0	0	32857
+-749	Stand still and stare into the light!	\N	\N	\N	\N	\N	\N	\N	\N	15687	1	0	0	32857
+-748	Stormcaller Brundir begins to Overload!	\N	\N	\N	\N	\N	\N	\N	\N	0	3	0	0	32857
+-747	Whether the world's greatest gnats or the world's greatest heroes, you're still only mortal.	\N	\N	\N	\N	\N	\N	\N	\N	15684	1	0	0	32857
+-746	This meeting of the Assembly of Iron is adjourned!	\N	\N	\N	\N	\N	\N	\N	\N	15680	1	0	0	32867
+-745	You seek the secrets of Ulduar? Then take them!	\N	\N	\N	\N	\N	\N	\N	\N	15677	1	0	0	32867
+-744	Flesh... such a hindrance.	\N	\N	\N	\N	\N	\N	\N	\N	15676	1	0	0	32867
+-743	So fragile and weak!	\N	\N	\N	\N	\N	\N	\N	\N	15675	1	0	0	32867
+-742	Impossible!	\N	\N	\N	\N	\N	\N	\N	\N	15679	1	0	0	32867
+-741	My death only serves to hasten your demise.	\N	\N	\N	\N	\N	\N	\N	\N	15678	1	0	0	32867
+-740	You will not defeat the Assembly of Iron so easily, invaders!	\N	\N	\N	\N	\N	\N	\N	\N	15674	1	0	0	32867
+-739	Your mother was a wench and your father smelt of seaforium!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29369
+-738	We are Not Amused	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28213
+-737	My treasure! You no steal from Tartek, dumb big-tongue traitor thing. Tartek and nasty dragon going to kill you! You so dumb.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28105
+-736	%s begins to emanate a power dark energy!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	28103
+-735	As masters of blood, we are masters of life and death itself. Agains us, even hope falls drained and lifeless.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29196
+-734	We know power never to be overcome...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29196
+-733	We know hunger never to be quenched...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29196
+-732	As masters of blood, we know battle without end...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29196
+-731	And every foe that falls, energy sapped and stolen, only further fuels our assault.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29196
+-730	Stripping energy from our foes, both fighting and fallen, allows us to persevere where lesser beigns falls exhausted.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29196
+-729	True masters learn to make blood serve more than just their strength in battle.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29196
+-728	Be it by blade or incantation, blood feeds our attacks and weakens our foes.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29196
+-727	As disciples of blood, you strive to master the very lifeforce of your enemies.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	29196
+-726	Yes, M-mistress...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28486
+-725	M-mistress... Might I brush your mighty steed?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28486
+-724	M-mistress... may I p-polish your armor ...?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28486
+-723	M-mistress... did you n-need more corpse dust, p-perhaps... ?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28486
+-722	You can leave my sight, squire, before I slay you. Again.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	27928
+-721	No. Away with you, worm.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	27928
+-720	Get away from me, Edwards, lest I behead you.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	27928
+-719	YOU WANT DRINK? WE GOT DRINK!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	23685
+-718	HEY YOU! DRINK OGRE BREWS! MAKE YOU BIG AND STRONG!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	23685
+-717	YOU TRY DA' BEST, NOW TRY DA' REST! OGRE BREW!!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	23685
+-716	Prepare yourselves for an eternity of anguish and torture - vengeance shall be mine...	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	7664
+-715	Face my champion, mortals!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	7664
+-714	Let the flames of chaos engulf you!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	7664
+-713	Ilifar, your master calls!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	7664
+-712	You have gone, me gonna eat you!	\N	\N	\N	\N	\N	\N	\N	\N	13185	1	0	0	26630
+-711	Corpse go boom!	\N	\N	\N	\N	\N	\N	\N	\N	13184	1	0	0	26630
+-710	Aaaargh...	\N	\N	\N	\N	\N	\N	\N	\N	13183	1	0	0	26630
+-709	So hungry! Must feed!	\N	\N	\N	\N	\N	\N	\N	\N	13182	1	0	0	26630
+-708	More grunts, more glands, more FOOD!	\N	\N	\N	\N	\N	\N	\N	\N	13181	1	0	0	26630
+-707	%s transforms into mammoth!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	29305
+-706	begins to transform!	\N	\N	\N	\N	\N	\N	\N	\N	0	3	0	0	29305
+-705	begins to quake!	\N	\N	\N	\N	\N	\N	\N	\N	0	3	0	0	29305
+-704	If our gods can die... den so can we...	\N	\N	\N	\N	\N	\N	\N	\N	14728	1	0	0	29305
+-703	Not so tough now.	\N	\N	\N	\N	\N	\N	\N	\N	14727	1	0	0	29305
+-702	Who gonna stop me, you?	\N	\N	\N	\N	\N	\N	\N	\N	14726	1	0	0	29305
+-701	I crush you, cockroaches!	\N	\N	\N	\N	\N	\N	\N	\N	14725	1	0	0	29305
+-700	Da ground gonna swallow you up!	\N	\N	\N	\N	\N	\N	\N	\N	14723	1	0	0	29305
+-699	Get ready for somethin'... much... BIGGAH!	\N	\N	\N	\N	\N	\N	\N	\N	14722	1	0	0	29305
+-698	We fought back da Scourge. What chance joo be thinkin' JOO got?	\N	\N	\N	\N	\N	\N	\N	\N	14721	1	0	0	29305
+-697	King Dred calls for a raptor!	\N	\N	\N	\N	\N	\N	\N	\N	0	5	0	0	27483
+-696	King Dred raises his talon menacingly!	\N	\N	\N	\N	\N	\N	\N	\N	0	5	0	0	27483
+-695	Tharon'ja will have more!	\N	\N	\N	\N	\N	\N	\N	\N	13868	1	0	0	26632
+-694	No! A taste... all too brief!	\N	\N	\N	\N	\N	\N	\N	\N	13867	1	0	0	26632
+-693	Tharon'ja has a use for your mortal shell!	\N	\N	\N	\N	\N	\N	\N	\N	13866	1	0	0	26632
+-692	Your flesh serves Tharon'ja now!	\N	\N	\N	\N	\N	\N	\N	\N	13865	1	0	0	26632
+-691	As it was written.	\N	\N	\N	\N	\N	\N	\N	\N	13864	1	0	0	26632
+-690	As Tharon'ja predicted.	\N	\N	\N	\N	\N	\N	\N	\N	13863	1	0	0	26632
+-689	Im... impossible! Tharon'ja is eternal! Tharon'ja... is...	\N	\N	\N	\N	\N	\N	\N	\N	13869	1	0	0	26632
+-688	Tharon'ja sees all! The work of mortals shall not end the eternal dynasty!	\N	\N	\N	\N	\N	\N	\N	\N	13862	1	0	0	26632
+-687	Who dares slay one of my Kargath's commanders? You will pay for this... in flesh!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	22374
+-686	%s begins a massive heal!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	17730
+-685	What is this?! Didn't mommy and daddy teach you anything?	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	17959
+-684	Get back to work you!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	17959
+-683	This is terrible..... my arms grow tired from beating on you lazy peons!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	17959
+-682	Hey! Over here! Yeah, over here... I'm in this cage!!!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	17959
+-681	Too soon! You are slacking off too soon!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	17959
+-680	Wake up! Now get up and back to work!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	17959
+-679	Hurry up with it already! The longer you take, the more of a hurtin' I'm putting on you!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	17959
+-678	Assist me slaves!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	17959
+-677	Will the pain ever end?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	18206
+-676	Help me! Please help me!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	18206
+-675	How can you just leave me here?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	18206
+-674	For Kargath! For Victory!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	17264
+-673	You there! Keep a close watch on these ramparts, intruders could approach at any time!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	17264
+-672	This world is OURS!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	1	0	Common Orc Say
+-671	Incompetent fools! Auchindoun should've been ours... look at yourselves scrambling like rats!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	22381
+-670	Anaya's soft voice trails away into the mists, "Know that I love you always..."	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	3843
+-669	Farewell, Cerellean, until we are joined once again...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3843
+-668	Sadly, even this must be cut short... The ties that bind me to this world weaken, and pull me away...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3843
+-667	Let it not trouble your heart, beloved. You have freed me from slavery, and for that I love you all the more.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3843
+-666	The ages have been cruel to you and I, my love, but be assured, it is, and at long last we are reunited.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3843
+-665	How, my love? How will I find the strength to face the ages of the world without you by my side...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3644
+-664	No! Anaya... Anaya! Don't leave me! Please...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3644
+-663	Do you hate me, my love? That I was forced to destroy your living form, that your spirit be released from unhappy bondage.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3644
+-662	That fates should be so cruel as to permit us only this after a thousand years apart...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3644
+-661	Anaya...? Do my eyes deceive me? Is it really you?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3644
+-660	What... what is this? Could this be the answer to my prayers? Elune has granted me a weapon--this scythe--to defeat the demons.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3946
+-659	Goddess, grant me the power to overcome my enemies! Hear me, please, my need is desperate and my cause is just!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3946
+-658	The numbers of my companions dwindles, goddess, and my own power shall soon be insufficient to hold back the demons of Felwood.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3946
+-657	You're not getting anything until you speak, scum!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16924
+-656	Please! I must feed on something soon... A mana crystal.... a shard... anything! The pain is unbearable!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16916
+-655	Tell us! Where does your leader hide?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16924
+-654	Snivvle is here! Snivvle claims the Coldtooth Mine!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	11677
+-653	Ahhh... RAAAAAGH! Never thought... I would be free of him...	\N	\N	\N	\N	\N	\N	\N	\N	14069	1	0	0	29120
+-652	Come forth my brethren! Feast on their flesh.	\N	\N	\N	\N	\N	\N	\N	\N	14059	1	0	0	29120
+-651	Auum na-l ak-k-k-k, isshhh.	\N	\N	\N	\N	\N	\N	\N	\N	14058	1	0	0	29120
+-650	Soon, the Master's voice will call to you.	\N	\N	\N	\N	\N	\N	\N	\N	14057	1	0	0	29120
+-649	You have made your choice.	\N	\N	\N	\N	\N	\N	\N	\N	14056	1	0	0	29120
+-648	You shall experience my torment, first-hand!	\N	\N	\N	\N	\N	\N	\N	\N	14055	1	0	0	29120
+-647	The pestilence upon you!	\N	\N	\N	\N	\N	\N	\N	\N	14068	1	0	0	29120
+-646	Uunak-hissss tik-k-k-k-k!	\N	\N	\N	\N	\N	\N	\N	\N	14067	1	0	0	29120
+-645	Your armor is useless againts my locusts.	\N	\N	\N	\N	\N	\N	\N	\N	14060	1	0	0	29120
+-644	Eternal aggony awaits you!	\N	\N	\N	\N	\N	\N	\N	\N	14054	1	0	0	29120
+-643	I should be grateful. But I long ago lost the capacity.	\N	\N	\N	\N	\N	\N	\N	\N	14087	1	0	0	28684
+-642	I sense the living. Be ready.	\N	\N	\N	\N	\N	\N	\N	\N	14084	1	0	0	28684
+-641	I hear footsteps. Be on your guard.	\N	\N	\N	\N	\N	\N	\N	\N	14083	1	0	0	28684
+-640	Keep an eye on the tunnel. We must not let anyone through!	\N	\N	\N	\N	\N	\N	\N	\N	14082	1	0	0	28684
+-639	You were foolish to come.	\N	\N	\N	\N	\N	\N	\N	\N	14077	1	0	0	28684
+-638	Hash'tak hi'tak.	\N	\N	\N	\N	\N	\N	\N	\N	14076	1	0	0	28684
+-637	As Anub'Arak commands!	\N	\N	\N	\N	\N	\N	\N	\N	14078	1	0	0	28684
+-636	Dinner time, my pets.	\N	\N	\N	\N	\N	\N	\N	\N	14086	1	0	0	28684
+-635	They hunger.	\N	\N	\N	\N	\N	\N	\N	\N	14085	1	0	0	28684
+-634	This kingdom belongs to the Scourge! Only the dead may enter.	\N	\N	\N	\N	\N	\N	\N	\N	14075	1	0	0	28684
+-633	GOOO!	\N	\N	\N	\N	\N	\N	\N	\N	13460	1	0	0	26798
+-632	Our task is not yet done!	\N	\N	\N	\N	\N	\N	\N	\N	13459	1	0	0	26798
+-631	What is this? Mag thorin Kar! Kill them!	\N	\N	\N	\N	\N	\N	\N	\N	13458	1	0	0	26798
+-630	Is that all you've... got?	\N	\N	\N	\N	\N	\N	\N	\N	13194	1	0	0	26796
+-629	Now wee getting someplace!	\N	\N	\N	\N	\N	\N	\N	\N	13195	1	0	0	26796
+-628	What? Where in a..? Don't just stand around lads KILL SOMEBODY!	\N	\N	\N	\N	\N	\N	\N	\N	13193	1	0	0	26796
+-627	Then teach me, Kel'Thuzad. Teach me everything you know...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20353
+-626	And the Kirin Tor? What have they to say of this necromancy?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20353
+-625	So can you teach me this... this...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20353
+-624	In due time, Helcular... All in due time...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20350
+-623	But to be perfectly frank, I do not give a damn what the Kirin Tor think! They are fools, set in their archaic ways.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20350
+-622	That is none of your concern, Helcular, as you are neither Kirin Tor nor a necromancer.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20350
+-621	Necromancy. It is called necromancy. And yes, I have it within my power to bless you with this gift.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20350
+-620	Keep your voice down, Helcular. Strangers abound...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20350
+-619	What do you put in that pipe of yours Nat?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20342
+-618	It'll never happen, Nat.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20342
+-617	No way!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20342
+-616	Crazy isn't it?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20344
+-615	He ends up destroying the whole keep, freeing all the orcs we're keeping in the camps and rising to power as the king of orcs... Warchief or somethin'.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20344
+-614	That one where i'm in Durnholde and that one orc that Blackmoore keeps as his personal slave breaks out...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20344
+-613	If that weren't crazy enough, they decided to quit the ice-cream business and become adventurers... They travel all over the place and finally disappears into some portal. I woke up in a cold sweat after that one...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20344
+-612	Well in this dream, they somehow end up inventing something called ice-cream and flavoring it with strawberries... Well, long story short, they end up striking it rich!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20344
+-611	I can't even believe this one... You know two loudmouthed ruffians, Foror and Tigule?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20344
+-610	Well, he comes back to the king all pretendin' to be nice, draws his sword, and runs the king through, elbow to... well you know... kills him on the spot...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20344
+-609	But tragically, Arthas is consumed by the evil and becomes evil himself...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20344
+-608	This one's real grim... So the king's kid Arthas...Well he goes out to battle evil, along with Uther *Nat pats his brow dry*	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20344
+-607	I'm like some kind of fishing god...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20344
+-606	And people from all over the world come to me to pay homage... and learn to fish.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20344
+-605	In this dream, I was fishin' master of the world. I moved to some place called Kalimdor...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20344
+-604	And if that weren't crazy enough, that big demon gets killed by a bunch of floating light things... Oh, I was also a female elf in that one... Yep...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20344
+-603	Out of nowhere, some 300 foot tall demon or somethin' walks up and starts climbin' the tree...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20344
+-602	So I'm on some mountain with some big ol' tree. Bunch of elves runnin' around all over...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20344
+-601	Nat, I've heard a whopper or two in my day but that one takes the cake.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20342
+-600	Sometimes, even when I'm awake, I think they're watching us. Maybe they're watching us right now...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20344
+-599	We're like their puppets - we dance and cry and fight and say silly things for their amusement.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20344
+-598	That one where thousands of people are all watching us up from the sky...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20344
+-597	Impossible!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20342
+-596	Could ya imagine such a thing, Hal? Could ya?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20344
+-595	Tarren Mill is destroyed by some crazy force of undead and forever more becomes an enemy to Southshore.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20344
+-594	That one dream... The crazy one. Remember?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20344
+-593	Which one?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20342
+-592	Had that dream again last night...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20344
+-591	Yea, Nat?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20342
+-590	Hal...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20344
+-589	Don't feel.....so good.....	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	18598
+-588	When do we eat again?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	18598
+-581	%s is now armed!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	8035
+-580	%s will be armed in 5 seconds!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	8035
+-579	%s will be armed in 10 seconds!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	8035
+-578	Die! Die!	\N	\N	\N	\N	\N	\N	\N	\N	5854	1	0	0	4854
+-577	Me Grimlok, King!	\N	\N	\N	\N	\N	\N	\N	\N	5853	1	0	0	4854
+-576	By Thorazan's Beard, Slay Them!	\N	\N	\N	\N	\N	\N	\N	\N	5852	1	0	0	7291
+-575	Shaza-Kiel!	\N	\N	\N	\N	\N	\N	\N	\N	11017	1	0	0	17888
+-574	Miserable nuisance!	\N	\N	\N	\N	\N	\N	\N	\N	11054	1	0	0	17888
+-573	You... are nothing!	\N	\N	\N	\N	\N	\N	\N	\N	11053	1	0	0	17888
+-572	You... are marked.	\N	\N	\N	\N	\N	\N	\N	\N	11052	1	0	0	17888
+-571	Your death will be a painful one.	\N	\N	\N	\N	\N	\N	\N	\N	11016	1	0	0	17888
+-570	Cry for mercy! Your meaningless lives will soon be forfeit!	\N	\N	\N	\N	\N	\N	\N	\N	11015	1	0	0	17888
+-569	Aku'mai is dead! At last, I can leave this wretched place!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	6729
+-568	Just... Dust...	\N	\N	\N	\N	\N	\N	\N	\N	5803	1	0	0	4832
+-567	Sleep...	\N	\N	\N	\N	\N	\N	\N	\N	5804	1	0	0	4832
+-566	Who dares disturb my meditation!	\N	\N	\N	\N	\N	\N	\N	\N	5802	1	0	0	4832
+-565	I used to work for Grand Inquisitor Isillien! Your idea of pain is a normal mid-afternoon for me!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28610
+-564	Argh... The pain... The pain is almost as unbearable as the lashings I received in grammar school when I was but a child.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28610
+-563	ARGH! You burned my last good tabard!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28610
+-562	You hit like a girl. Honestly. Is that the best you can do?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28610
+-561	You'll have to kill me, monster! I will tell you NOTHING!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28610
+-560	You'll be hanging in the gallows shortly, Scourge fiend!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28610
+-559	NO! PLEASE! There is one more thing that I forgot to mention... A courier comes soon... From Hearthglen. It...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28610
+-558	I know very little else... The High General chooses who may go and who must stay behind. There's nothing else... You must believe me!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28610
+-557	The Light that guides us. The movement was set in motion before you came... We... We do as we are told. It is what must be done.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28610
+-556	We... We have only been told that the "Crimson Dawn" is an awakening. You see, the Light speaks to the High General. It is the Light...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28610
+-555	I'll tell you everything! STOP! PLEASE!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28610
+-554	Finally, my soul may rest... Oh, dearest Cerellean...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3667
+-553	Who dares disrupt the sanctity of Eldre'Thalas? Face me, cowards!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	11486
+-552	Greetings citizen.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	7	0	466
+-551	%s calls for help!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	2287
+-550	%s goes into a rage after seeing a friend fall in battle!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	2287
+-547	Unknown life forms detected....assessing...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	14224
+-546	Target lost....resuming search patterns Delta	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	14224
+-545	Scanning life forms....target not found	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	14224
+-544	Shirrak the Dead Watcher focuses his energy on $T	\N	\N	\N	\N	\N	\N	\N	\N	0	6	0	0	18371
+-543	Your money or your life! Actually, just your life will do...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	17591
+-542	Your death will make a fitting tribute to the King!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	17591
+-541	For Silvermoon! For Sunstrider!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	17591
+-540	%s is getting VERY hungry!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	8567
+-539	%s is getting hungry!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	8567
+-538	Activate counter-measures. Repel intruder.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25814
+-537	You have been detected. You will be assimilated or eliminated.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25814
+-536	Warning! Warning! Intruder alert! Intruder alert!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25814
+-532	Stop! Foolish $C, we cannot let you summon the creature Myzrael!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	2763
+-531	Take that! The Drywhiskers will prevail!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Drywhisker
+-530	No! Leave us! We must not fail our task!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Drywhisker
+-529	Stand firm, brothers. And don't worry! Size is on our side!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Drywhisker
+-528	Die! You will not free Myzrael!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Drywhisker
+-527	The Great One will smash you!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Drywhisker
+-526	%s summons a Blackhand Veteran to his aid!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	10681
+-525	%s summons a Blackhand Dreadweaver to his aid!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	10680
+-524	%s begins to summon in a Blackhand Veteran!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	9080
+-523	%s begins to summon in a Blackhand Dreadweaver!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	9080
+-522	I wonder what nesingwary will give me for your hide!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25979
+-521	It's gonna be veal tonight!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25979
+-520	Nesingwary is going to go broke if he keeps this up! Lane probably has no idea what he's doing!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25979
+-519	Give it up, little beast!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25979
+-518	Just fifty more hooves and I'll have the new gun!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25979
+-517	No way! Rhino head helmet for the low, low price of thirty rhino heads? I'll take two at those prices!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25979
+-516	Now THIS is a sport!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25979
+-515	KILL KILL KILL!!!!!!!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25979
+-514	I'm sure ol' Hemet can do something with your bones!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25979
+-513	You seek to deafen me? Pathetic... Wait... What's that sound?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25804
+-512	Kada nu batteka, oht!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Common Text
+-511	Etu Magmothregar, cha!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Common Text
+-510	Kaganishu!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Common Text
+-509	Ahh! It's coming right for us!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28095
+-508	Who dares interrupt my work!? Show yourself, coward!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	25584
+-507	What is the meaning of this disturbance?!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	25584
+-506	Bring me more prisoners! Do not rest until Azeroth has been cleansed of its reckless magic-users!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	25584
+-505	These prisons are to be filled at once or Malygos will know why!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	25584
+-504	...Go or I taunt you a second time!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28095
+-503	Things are going as planned, Lord Falconcrest. I assure you, it is only a matter of time.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	2599
+-502	I presume you come with good news?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	2597
+-501	I grow bored with you. Begone!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25416
+-500	Tell Imperean that I will consider a cessation of hostilities. But first, Churn must stop his watery intrusions upon my rise!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25416
+-499	STOP!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25416
+-498	Who dares?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25416
+-497	You cannot stop us all!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25396
+-496	Your death will soon follow....	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25396
+-495	I am the Keymaster. Are you the Gatekeeper?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25210
+-494	My talons will shred your puny body, $R.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3277
+-493	Death will be only the beginning of your torture.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	26165
+-492	I sense danger up ahead.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	12337
+-491	If I should fall, take my pouch. Make certain that it gets to the High General.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	12337
+-490	My back is killing me.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	12337
+-489	Now, remove yourself from my presence. You would be wise not to come within sight of me again.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25418
+-488	I... submit. As long as Simmer agrees to stop boiling my pool, I agree to an armistice.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25418
+-487	WAIT... NO MORE!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25418
+-486	The mojo of Sseratus is ours. Now all will be crushed under the might of the Drakkari!!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	28068
+-485	Drink deep my brothers!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	28068
+-484	Kill these invaders who dare to defile our altar!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	28068
+-483	I will destroy the Argent Crusade! I will crush the Scourge!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	28068
+-482	Finish them and then we will move south to kill their brethren!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	28068
+-481	They dare attack us? The fools! Do they not know we are now all-powerful?!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	28068
+-480	With the power of the wild gods burning in our veins, none, not even the Lich King, can stand in our way!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	28068
+-479	I see you, insect! Come closer	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	28068
+-478	NOOOOOOOOooooooo.........!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	28068
+-477	Mmm, more mojo.	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	28068
+-476	Daddy!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28917
+-475	If Rhunok regains his strength, we all die!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28575
+-474	Filthy $R intruder. DIE!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28575
+-473	%s is reduced to rubble, but still continues to fight.	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	2359
+-472	%s's strength dwindles as chunks of rock break off.	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	2359
+-471	%s begins to crack and break apart.	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	2359
+-470	You have my word that I shall find a use for your body after I've killed you, $R.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	2733
+-469	You will never stop the Forsaken, $R. The Dark Lady shall make you suffer.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	2733
+-462	The Council of Duskwood must take action. Evil lingers in the air.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	269
+-459	Undead are crawling all over the land. Where is the Stormwind Army?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	263
+-458	The people of Darkshire expect more from the Council. We cannot let them suffer from this unholy wrath which plagues us.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	269
+-457	Our cause falls on deaf ears beyond the thick, stone walls of Stormwind.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	271
+-456	I fear something dark is coming.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	325
+-455	We need better representation from Stormwind. Our homes are falling to the undead.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	270
+-454	Constant bickering will get us nowhere. We need to take action.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	269
+-453	The news from Stormwind does not bode well. . . .	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	271
+-452	The light appears to have forsaken us.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	325
+-451	Why haven't the Stormwind guards come?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	325
+-450	Toil not in matters of the past, $N!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	2044
+-449	Who is this mere $R that meddles with that which is past? May the legend of Stalvan die along with you!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	2044
+-447	The wizard will fall!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	17835
+-446	We will not be stopped!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	17835
+-445	Victory or death!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	21104
+-444	You are running out of time!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	21104
+-443	The rift must be protected!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	21104
+-442	Your efforts... are in vain.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	17835
+-441	We are not finished!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	17892
+-440	Death to the Last Guardian!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	17892
+-439	We will not fail!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	17892
+-438	We are betrayed!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	10433
+-437	I'll stay behind and guard the wreck. Hurry! Hopefully no one will notice the smoke...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3451
+-436	Looks like you'll have to go ahead to Ratchet and tell Sputtervalve that I've wrecked the shredder.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3451
+-435	Now this is an example of what not to summon. Look, it's frail and brittle. One good whack from a mace will send bone shards flying.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	11582
+-434	I wanna see the Mage Tower.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3504
+-433	Where we goin'?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3504
+-432	Why do we always go the same way?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3504
+-431	Is it true? Are there crocolisks in the canal?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3504
+-430	My feet hurt.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3504
+-429	Are we there yet?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3504
+-428	O'ourse I'm talking to myself. Only way to get a decent conversation in this city.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3520
+-427	As if I don't have better things to do in my old age than carry buckets of water.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3520
+-426	Where's the water Emma? Get the water Emma? If'n it weren't fer me that lot wouldn't know what water looks like.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3520
+-425	Seems like a hundred times a day I walk all the way to get more water. No respect for their elders I tell ya.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3520
+-424	Jack and Jill my wrinkled patoot! I do all the water luggin' 'round here.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3520
+-423	Think I'm starting to wear a rut in the paving stones.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3520
+-422	Remember, kid: You're always more wrong than you think you are. Double It!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28347
+-421	Only put half as much in next time.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28347
+-420	Then put twice as much in next time!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28347
+-419	Sir, I think we were close with the Lethargy Root in that last poison recipie.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28355
+-418	Sir, our customers are complaining that there's too much Deathweed in our Anesthetics.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28355
+-417	Sir, our customers are complaining that there's not enough Maiden's Anguish in our Deadly Poisons.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	28355
+-416	All of a sudden they were everywhere.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1719
+-415	They must have had someone helping them.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1719
+-414	If the Captain finds out, it'll be the end of me.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1719
+-413	It's all their fault, stupid Alliance army. Just had to build their towers right behind my farm.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1395
+-412	Spare some change for a poor blind man?...What do you mean im not blind?...I'M NOT BLIND! I CAN SEE! ITS A MIRACLE!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1395
+-411	I will gladly pay you Tuesday for a hamburger today.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1395
+-410	Hmmm, this one looks like something that would be better off as a windchime. Take notes class... This is NOT what you want to summon in the heat of battle.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	11582
+-409	Get those parts moving down to the ship!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1763
+-408	Anyone want to take a break? Well too bad! Get to work you oafs!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1763
+-407	I shall spill your blood, $C!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	315
+-406	Never cross a Dark Iron, $C.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1169
+-405	%s seems much calmer now that it has eaten the remains of $N.	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	2931
+-404	I cannot permit you to enter the temple! I must destroy you for your own good!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Common Green Dragon Text
+-403	Dragonhawk incoming from the west! Shoot that druid down!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25144
+-402	Keep your eye on the demons. We're not concerned with killing Scourge today.	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	25144
+-401	Shattered Sun scum! Fire at will!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	25132
+-400	That's all I have to say for now. Stay focused, boys and girls.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25162
+-399	Needless to say, a lot of us won't be going home. But if you remember your training and keep your wits about you, you'll greatly increase your chances.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25162
+-398	Our job is to clear out as much of the fodder as we can, while supporting the specialists that the powers-that-be are having brought in.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25162
+-397	Up on the plateau, he and his demon friends are trying to reignite the Sunwell and open a rift to bring their head-honcho, Kil'Jaeden back into the world.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25162
+-396	The Isle of Quel'Danas has been overrun by the forces of Prince Kael'thas Sunstrider. Intel had him pegged as deceased. Intel was wrong.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25162
+-395	Hello to you new recruits. I'm Drill Sergeant Bahduum. For the next few days, you're going to receive orientation.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25162
+-394	I'm awaiting orders on your specific assignments. In the meantime, stay here and be ready to move at a moment's notice!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25162
+-393	Warriors will be deployed to hold key positions, while you marksmen will be assigned to keep the enemy fliers at bay.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25162
+-392	Let me assure you people that if he's successful, this world will suffer far worse than Outland ever did! So let's make sure that doesn't come to pass.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25162
+-391	I know, we thought he was dead too, but that's not the case. He's trying to use the Sunwell to bring the master of the Burning Legion, Kil'jaeden, into this world.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25162
+-390	The current situation looks like this: we're holding what we can while those with more experience and better equipment are moving against Prince Kael'thas.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25162
+-389	Welcome to the Sunwell. Despite the mild temperatures and scenic vistas, you're not on vacation, ladies and gentlemen!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25162
+-388	Hearty Kill!	\N	\N	\N	\N	\N	\N	\N	\N	5801	1	0	0	4831
+-387	If none of you ladies have any questions, you can get further instruction and assignments from your squad leaders. That's it. Good luck!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25162
+-386	We're here as support for the so-called 'adventurers' that the brass called in. We'll help them hold the key points on the island, and keep the heat off so that they can do their jobs.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25162
+-385	Now that that's out of the way, welcome to the Isle of Quel'Danas. The Sunwell's on the plateau to the south, and Prince Kael'thas is holed up in the Magisters' Terrace to the east.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25162
+-384	First though, you sin'dorei listen up. I run a tight ship... this isn't going to be like what you're used to with the Scryers. Pull your weight, or get back on the boat!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25162
+-383	I've stood with some of you draenei before at Skettis, and others in Shadowmoon Valley. But now we're on Azeroth, and the situation looks grim.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25162
+-382	Alright, quiet down. We have a lot of work to do and very little time to do it in, people.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25162
+-381	ATTENTION!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	25162
+-380	Get away, this place is ours!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	24966
+-379	Mine! You shall not take this place!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	24960
+-378	Berserker stance! Attack them recklessly!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	23049
+-377	[Orcish] Tago mog regas gi mog Tov'nokaz Kagg	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Orc Common Text
+-376	[Orcish] Ogg kaz ko zugas kil mog Tov'nokaz Kagg	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Orc Common Text
+-375	%s's eyes glow red as he lights his dynamite and begins to cackle madly!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	1222
+-374	[Dwarvish] Dum mos	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	2149
+-373	Die in the name of Ragnaros!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1222
+-372	The Loch belongs to the Stonesplinter Tribe now, $N! Now die!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1399
+-371	Die $R! These lands belong to the Stonesplinter Tribe!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1399
+-370	A $C called $N? You'll make a fine breakfast!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1205
+-366	ARRRRRRR!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	13602
+-365	I tire of this nonsense! Prepare to die!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	2318
+-364	Wahehe! I'm taking you down with me!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1222
+-363	The Thandol Span fell to Ragnaros. So shall the Stonewrought Dam!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1222
+-362	King Magni Bronzebeard is a fool and a charlatan!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1222
+-361	Raaar!!! Me smash $R!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Mo'grosh Common Text
+-360	Me smash! You die!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Mo'grosh Common Text
+-359	I'll crush you!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Mo'grosh Common Text
+-358	Time to die, $C!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1169
+-357	Feel the power of the Dark Iron Dwarves!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1169
+-356	Weak $C! You are no match for the Stonesplinter Tribe!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1205 and 1399
+-355	The only good $R is a dead $R!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1205
+-354	Yip! Me kill!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Trogg Common Text
+-353	Me no run from $C like you!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Trogg Common Text
+-352	That was a 200 year old Pupellyverbos Port!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16414
+-351	That was wasted on the likes of you!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16414
+-350	How dare you disturb the master's dinner!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	16414
+-349	Where is that dog?	\N	\N	\N	\N	\N	\N	\N	\N	11796	0	0	0	23618
+-348	Now you face Orabus, fool!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	32576
+-347	The Helmsman comes for you!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	32576
+-346	%s begins to summon in reinforcements!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	2358
+-345	You're going to be just fine.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	5042
+-344	Drink this, it will help.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	5042
+-343	Let me help you with those.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	5042
+-342	%s calls more of his allies out of the shadows.	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	639
+-341	%s jumps out of the shadows!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	636
+-340	%s examines the information on the wanted poster.	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	18098
+-339	%s whispers softle in reverent tones under her breath.	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	21066
+-338	Ahh, another powerful traveler. The nether can be dangerous; you'll want the most potent spells at your disposal. I carry the finest reagents, common and exotic. Come and buy - you won't be sorry!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19535
+-336	This war - and don't mistake this for anything but war - is not going to win itself. If we do not fight, scratch, claw, and kick for every speck of land on this shattered world, all will be lost.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19308
+-335	How many more soldiers need to die before we start paying attention out there?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19308
+-334	Do you think that demons will play fair? These beasts are more savage than the orcs, more cunning than the undead. Do not attempt to engage Legion by normal standards of war.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19308
+-333	I don't get it! Are ya blind? Can ya not see the demons bangin' on our door? Who am I gonna send out to talk to your shaman friends? Point 'em out!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	21773
+-324	Time to bash!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1119
+-323	So ju weh siame is fus nehjo skam worl Uptfeel	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1260
+-322	Dim wha Siame cyaa fi so yudo	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Common Frostmane Troll Text
+-321	Iman m t'ief fu Fus'obeah italaf	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Common Frostmane Troll Text
+-320	Sands consume you!	\N	\N	\N	\N	\N	\N	\N	\N	5872	1	0	0	7271
+-319	Maybe I should gather up some other agents and head out there after this shift?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19541
+-318	Last time someone went out to try and collect the bounty on Netherlock, all we got back was a compressed layer of foolhardy adventurer!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19541
+-317	Wit a reward like dis, how could they refuse, mon?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	21771
+-316	If I see any lazy peons here, I'll load them into a catapult and launch them off to the Black Temple!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	19362
+-315	Any time any of you peons want to take a break, the graveyard is right over there.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19362
+-314	Damm those ogres. Damn them to the Nether. Won't someone save us from these savages! This is the fifth kidnapping is as many days.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	18407
+-313	That's the best reward we're going to be able to offer. Hopefully someone accepts the mission.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	18407
+-312	How does he do it?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	18296
+-311	This one is slightly better than the last. However, it still suffers from the same flimsy bone structure as the others. When you summon one of these, you are on the right path.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	11582
+-310	I wanna be just like the pitfighter!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	18292
+-309	He's so well diciplined!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	18293
+-308	Will he win? Can he win?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	18292
+-307	Wow! Look at his muscles!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	18296
+-306	Pray to your gods, shaman. Perhaps they will come to your aid. The Horde however, cannot...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	21769
+-305	Do you not have eyes? Did you not see the demons on our very doorstep? I do not have the soldiers to spare!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	21769
+-304	What is it that you want from me, shaman?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	21769
+-303	Yea, we got problems. I think that's crystal clear. The question is, what are we gonna do about it?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19255
+-302	The warchief's put a price on Arazzius's head! As of right now, that no-good piece of demon refuse is enemy number one.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19255
+-301	But how, chief? I thought the curse was lifted...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16590
+-300	You mean...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16590
+-299	What kinda orcs, chief?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16590
+-298	I've seen gnomes work harder than you, peon! Little girl gnomes - with pig tails! MOVE IT, MOVE IT, MOVE IT!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16584
+-297	Yer slop is ready. Come n' get it...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16585
+-296	And if I hear that you palookas complained to Nazgrel again, it'll be one of ya's that I serve up next time...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16585
+-295	If my stomach wasn't threatening to dislodge itself from my body and leave me for the refuse that we give to the prisoners, I might be insulted by this... this food.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16590
+-294	Do I detect a hint of cinnamon? Or is that nutmeg? Whatever it is, one thing is for sure - nobody cooks donkey like you, Cookie.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16590
+-285	By tha Naaru, may it be so.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19378
+-284	Bless us with tolerance for our elven visitors.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19378
+-283	Continue to bless this, our ancient home, we beg.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19378
+-282	Please bless and protect them, and grant them success over those who seek to do us harm...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19378
+-281	Into our struggle against the darkness we have sent our children.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19378
+-280	Light that we embrace, we beseech thee...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19378
+-279	My friends, please join me in humble supplication the the Light.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19378
+-278	A noble request. It would be an honor, Erothem.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19378
+-277	Of course, my friend. How can I be of service to you?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19378
+-276	May it be so.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19346
+-275	We've just sent another inexperienced squad into Nagrand. Might you offer a prayer for them?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19346
+-274	Anchorite Nindumen, I have a request to make of you.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19346
+-273	May it be so.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19138
+-272	I've got muffins right over here. Come on over!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19664
+-271	Yea, yea, I'm the muffin man. You know why? Because I sell muffins, that's why!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19664
+-270	Yea, that hit the spot. Muffins for sale! Get your fresh muffins right here!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19664
+-269	Nothing like a tankard full to wash down one of my magnificent muffins.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19664
+-268	Grok get angry if puny ones not go to Blade's Edge and talk to Mog'dorg!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	22940
+-267	FRUIT VENDOR!!! Your cart is still in our way! We will give you one more hour to move it from our area. Do not test our patience anymore!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	19196
+-266	Me hungry. Fruit look tasty.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	22940
+-265	Ya look lovesick. Special someone be gettin' ya down, eh? No worries, no worries. Ya get this medallion from me, ya wear it when ya see 'em and they be all over ya, sweetheart!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19227
+-264	I feel that war is fast approaching. The fruit vendor has enlisted to help an ogre. I shall have to enlist help as well.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19196
+-263	What is that poor orc yelling about? Someone should see what is going on.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19223
+-262	Ya look tired, $c. I be havin' somethin' for ya. These amulets, they can help ya leap obstacles and swim through the rivers like ya be born to it. They energize the food ya be eatin'. Makin' yer wounds close before yer eyes!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19227
+-261	Bladespire clan not fight fair. Have Gronn to help dem. You go to Blade's Edge Mountains. Talk to Mog'dorg the Wizened. Kill Gromm.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	22940
+-260	Mog'dorg the Wizened tell Grok go to city, get help for Bloodmaul. Grok go.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	22940
+-259	Grok need help! Why no one help?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	22940
+-258	Hey! Hey, $r! I be havin' just the thing for ya. Ya ever see a Tikbalang? Frightenin' creatures. Prone to stealin' ya away. What ya need is my tikbaland wards. Guaranteed to ward away all tikbalangs!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19227
+-257	Look over here, $c! I got somethin' for ya. Just what ya need. It's soap, right... and it's on a rope! No offense, man, but yer a little ripe, you know what I'm sayin'? 	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19227
+-256	If no one help. Grok smash!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	22940
+-255	I could have sworn I had more apples. Grok!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19223
+-254	Amazing Amulets! Incredible curios! The newfangled jewlcrafters be havin' nothin' on the tried and true mystical methods of ol' Griftah! Improve yerself through these magical talismans for a bargain price!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19227
+-253	Dangerous out there, innit? Know what ya need? Protection. I can help ya defy death itself! Ya wear this madstone 'round yer neck, see, and then ya be able to come back if ya find yerself in the spirit world! Just a quick jaunt to yer corpse and up ya com	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19227
+-252	C'mere, $r. Ya don't want to be riskin' yerself in a dungeon, do ya? Filthy work, and for what? Some worthless trinket? Nah, what ya need be one of my amulets. Guarenteed to work! 	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19227
+-251	%s faints.	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	18705
+-250	Learning to read is a thirsty business. A toast, eh?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	21193
+-249	Ship it!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	18385
+-248	I never thought it would turn out to be mana oil! There's going to be plenty of demand for that, minus Grek of course!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	18385
+-243	You will die for your hubris, druid!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	22994
+-242	You dare to disturb the loyal followers of the Raven?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	22994
+-241	You will die for your hubris, druid!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	22993
+-240	You dare to disturb the loyal followers of the Raven?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	22993
+-239	The time of the Raven is night, but yours will end here!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	22992
+-238	Fool! The essence of the hawk will never be yours!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	22992
+-237	%s focuses on $N.	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	23163
+-236	%s bares her fangs and hisses menacingly at those around her.	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	23163
+-235	%s's flesh shatters in an unearthly rage!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	23162
+-234	Furious winds envelop Vakkiz as he writhes menacingly towards you.	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	23162
+-233	So much to do, so much to do! Where does the time go?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	295
+-231	I'll cut you!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Common Frostmane Troll Text
+-230	You be dead soon!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Common Frostmane Troll Text
+-229	Killing you be easy.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Common Frostmane Troll Text
+-228	I gonna make you into mojo!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Common Frostmane Troll Text
+-227	Earth and sky shall burn!	\N	\N	\N	\N	\N	\N	\N	\N	11036	1	0	0	17808
+-226	Let fire rain from above!	\N	\N	\N	\N	\N	\N	\N	\N	10980	1	0	0	17808
+-225	Sweet dreams...	\N	\N	\N	\N	\N	\N	\N	\N	11545	1	0	0	17808
+-224	You look tired...	\N	\N	\N	\N	\N	\N	\N	\N	10978	1	0	0	17808
+-223	Pestilence upon you!	\N	\N	\N	\N	\N	\N	\N	\N	11037	1	0	0	17808
+-222	The swarm is eager to feed!	\N	\N	\N	\N	\N	\N	\N	\N	10979	1	0	0	17808
+-221	The clock... is still... ticking.	\N	\N	\N	\N	\N	\N	\N	\N	10982	1	0	0	17808
+-220	Pity, no time for a slow death!	\N	\N	\N	\N	\N	\N	\N	\N	11039	1	0	0	17808
+-219	Scream for me!	\N	\N	\N	\N	\N	\N	\N	\N	11038	1	0	0	17808
+-218	Your hopes are lost!	\N	\N	\N	\N	\N	\N	\N	\N	10981	1	0	0	17808
+-217	You are defenders of a doomed world! Flee here, and perhaps you will prolong your pathetic lives!	\N	\N	\N	\N	\N	\N	\N	\N	10977	1	0	0	17808
+-216	All of your efforts have been in vain, for the draining of the World Tree has already begun! Soon, the heart of your world shall beat no more!	\N	\N	\N	\N	\N	\N	\N	\N	10986	1	0	0	13083
+-215	Destroy!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Trogg Common Text
+-214	Kill!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Trogg Common Text
+-213	Crush!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	Trogg Common Text
+-212	Aaaahhhhhh!	\N	\N	\N	\N	\N	\N	\N	\N	5873	1	0	0	7271
+-208	Some coin?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1402,1405
+-207	Help a poor bloke out?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1402,1405
+-206	Shine yer armor for a copper?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	1402,1405
+-205	Freshly baked bread for sale!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3518
+-204	Fresh bread for sale!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3518
+-203	Ma reth bromo zoln kilagrin dra ma zoern tu ko fraht ka tadrom Ma krin drinor zaln dirnor Ma krin kan aasrugel korsul	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	11256
+-202	A fine trophy your head will make, $R.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	2015,2017,2018
+-201	My talons will shred your puny body, $R.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	2018
+-200	You will be easy prey, $C.	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	2015,2017,2018
+-198	You should not be here! Slay them!	\N	\N	\N	\N	\N	\N	\N	\N	5799	1	0	0	4831
+-197	We can make it better, stronger, faster. We have the technology. We have the magic.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	2922
+-196	It is dangerous here, master. But I shall help stand guard.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	2922
+-195	Brzt... click... whir...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	2922
+-194	One day I'll be a real boy.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	2922
+-193	Gizmos... check. Doothingies... check. Wizzers... check.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	2922
+-192	It can get really hot here in the Badlands. But at least it's a dry heat.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	2922
+-187	%s calls for his worgs!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	19442
+-186	The living are here!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	10411
+-185	Confess and we shall set you free.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	4306
+-184	You will talk eventually. You might as well spill it now.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	4306
+-183	What? Oh no. I don't care what you have to say. I just enjoy inflicting pain.	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	4306
+-182	Mine! Mine! Mine! Gizlock is the ruler of this domain! You shall never reveal my presence!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	13601
+-181	We are the true Horde!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	1	0	17259
+-180	My pets are hungry and they will dine on your flesh!	\N	\N	\N	\N	\N	\N	\N	\N	10161	1	0	0	17259
+-179	Hold them back while I release the warhounds!	\N	\N	\N	\N	\N	\N	\N	\N	10160	1	0	0	17259
+-178	The stogies? You'll have to pry them from my cold dead... er... RAWR!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	11058
+-177	I'm going to wear your skin as a smoking jacket!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	11058
+-176	D'ah! Now you're making me angry!	\N	\N	\N	\N	\N	\N	\N	\N	5779	0	0	0	646
+-175	You land lovers are tougher then I thought! I will need to improvise	\N	\N	\N	\N	\N	\N	\N	\N	5778	0	0	0	646
+-174	We're under attack! Avast ya swabs! Repel the invaders!	\N	\N	\N	\N	\N	\N	\N	\N	5777	1	0	0	646
+-173	The Brotherhood will prevail!	\N	\N	\N	\N	\N	\N	\N	\N	5784	1	0	0	639
+-172	Fools! our cause it righteous!	\N	\N	\N	\N	\N	\N	\N	\N	5783	1	0	0	639
+-171	Lap dogs, all of you!	\N	\N	\N	\N	\N	\N	\N	\N	5782	1	0	0	639
+-170	And stay down!	\N	\N	\N	\N	\N	\N	\N	\N	5781	1	0	0	639
+-169	None may challenge the Brotherhood!	\N	\N	\N	\N	\N	\N	\N	\N	5780	1	0	0	639
+-168	Who dares disturb me? Die $N!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	315
+-167	KILL!!!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	3569
+-166	Soon, the Scourge will rule the world!	\N	\N	\N	\N	\N	\N	\N	\N	5821	1	0	0	7357
+-165	We will spread across this barren land!	\N	\N	\N	\N	\N	\N	\N	\N	5820	1	0	0	7357
+-164	We will enslave the quilboar!	\N	\N	\N	\N	\N	\N	\N	\N	5819	1	0	0	7357
+-163	Slay them, my brethren! For the Scourge!	\N	\N	\N	\N	\N	\N	\N	\N	5822	1	0	0	7357
+-162	Mmm... I love my delicious Southshore stout.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	2440
+-160	This world is OURS!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	17397
+-159	Lok'tar Illidari!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	17397
+-158	For Kargath! For Victory!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	17397
+-157	Lok Narash!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	17370
+-156	The blood is our power!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	1	0	17491
+-155	%s begins to arm the Proximity Bomb!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	17414
+-154	Illidan reigns!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	17727
+-153	%s strength fades!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	17725
+-152	%s grows in size upon seeing $N!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	17725
+-151	I miss my dog so much...	\N	\N	\N	\N	\N	\N	\N	\N	11798	0	0	0	23618
+-150	Will you help me find my dog...?	\N	\N	\N	\N	\N	\N	\N	\N	11797	0	0	0	23618
+-149	%s becomes unstable and begins to disintegrate!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	16876
+-148	Woot! Thanks!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	17681
+-147	His lieutenant, Ilkurd Magthrull possesses a tome which might indicate the location of the remaining soulgems.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	4509
+-146	He worried that his power weakened, that soon even we last of his precious soulgems would fade and die.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	4509
+-145	There were hundreds imprisoned by his spell. Now only a few remain in their prisons. He would speak to us sometimes.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	4509
+-144	When the shaking stopped, his true motives were revealed. We were trapped, and he was slowly draining our powers.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	4509
+-143	Athrikus came to us. He told us that he could save us from harm. He cast a spell upon us to protect us from harm.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	4509
+-142	In the throes of the Sundering, Ameth'Aran was at the whim of the terror that gripped the land. There was little hope for survival.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	4509
+-141	Invaders! Sound the Alarm!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	23586
+-140	The coils of death... Will crush you.	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	3670
+-139	Come an' join me bruddah !	\N	\N	\N	\N	\N	\N	\N	\N	12015	1	0	0	23574
+-138	All you be doin' is wastin' me time!	\N	\N	\N	\N	\N	\N	\N	\N	12016	1	0	0	23574
+-137	Ya got nothin'!	\N	\N	\N	\N	\N	\N	\N	\N	12017	1	0	0	23574
+-136	Stop your cryin'!	\N	\N	\N	\N	\N	\N	\N	\N	12018	1	0	0	23574
+-135	Feed, me bruddahs!	\N	\N	\N	\N	\N	\N	\N	\N	12014	1	0	0	23574
+-134	You can't... kill... me spirit!	\N	\N	\N	\N	\N	\N	\N	\N	12019	1	0	0	23574
+-133	I be da predator! You da prey... 	\N	\N	\N	\N	\N	\N	\N	\N	12013	1	0	0	23574
+-124	Insolence!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	16329
+-123	I am the serpent king! I can do anything.	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	3673
+-116	What good does this violence serve? What is done is done. I have failed my people.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19456
+-115	Haven't you done enough harm? Must you also disturb my slumber?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	19456
+-114	I cannot stand the pain. I must find a new source.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	10	0	Common Wretched Text
+-113	More, more, more! I must feed soon.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	10	0	Common Wretched Text
+-111	%s bursts, showering the area with arcane residue!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	15648
+-110	Take heart! Your friends will not long mourn your passing!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	15638
+-109	Uphold the Law!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	15638
+-108	Serve the Public Trust!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	15638
+-107	Protect the innocent!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	15638
+-106	%s goes into a frenzy!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	Enrage Text
+-105	Your bones will break under my boot, $R!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	1	0	2108
+-104	This land belongs to the Dark Iron Dwarves. Prepare to see the afterlife, $C!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	6	0	1364
+-102	Long live the Dragonmaw! Die you worthless $R!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	1	0	Common Dragonmaw Text
+-101	For the Dragonmaw!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	1	0	Common Dragonmaw Text
+-99	You will never wake the dreamer!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	3669
+-98	I... Deserve this.	\N	\N	\N	\N	\N	\N	\N	\N	10382	1	0	0	17941
+-97	You should not have come.	\N	\N	\N	\N	\N	\N	\N	\N	10381	1	0	0	17941
+-96	It had to be done.	\N	\N	\N	\N	\N	\N	\N	\N	10380	1	0	0	17941
+-95	You brought this on yourselves.	\N	\N	\N	\N	\N	\N	\N	\N	10379	1	0	0	17941
+-94	Don't make me kill you!	\N	\N	\N	\N	\N	\N	\N	\N	10378	1	0	0	17941
+-93	The work must continue.	\N	\N	\N	\N	\N	\N	\N	\N	10376	1	0	0	17941
+-80	I'll cut you to pieces!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20885
+-79	Reap the Whirlwind!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	20885
+-78	Ahh... Just what I needed.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	20885
+-77	Ahh... That is much better.	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	20885
+-76	Now I'm really... angry...	\N	\N	\N	\N	\N	\N	\N	\N	11093	1	0	0	20885
+-75	You chose the wrong opponent.	\N	\N	\N	\N	\N	\N	\N	\N	11088	1	0	0	20885
+-74	Completely ineffective. Just like someone else I know.	\N	\N	\N	\N	\N	\N	\N	\N	11087	1	0	0	20885
+-73	It is unwise to anger me.	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	20885
+-72	You will succeed only in damning yourselves!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	16544
+-71	Turn your back while you can!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	16544
+-70	This... changes nothing. Eternal damnation awaits you!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16485
+-69	Others will take my place!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	16485
+-68	The same fate awaits all who would steal from the master.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16485
+-67	Death is far too merciful for your kind.	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	16485
+-66	Time to move on...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16481
+-65	Free... at last.	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	16481
+-64	Is it really over?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16470
+-63	It's all... coming back to me.	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	16470
+-62	Yes... I think I remember now...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16468
+-61	I'll miss the show!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	16468
+-60	They fall asleep after. Me, I fall asleep during....	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	16461
+-59	We could have had so much fun!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	16461
+-58	He asked if the imp could join in... can you believe it? Actually, it wasn't half bad...	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16460
+-57	So I said, "Yeah, but that'll cost you extra."	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16460
+-56	Five seconds! I'm not kidding!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	16460
+-55	You will be punished!	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16424
+-54	You... will... pay...	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	16424
+-53	What is happening?	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	16406
+-52	Where am I? What...	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	16406
+-51	The fates have turned against me!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	16408
+-50	Not... Fair...	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	16409
+-49	Wait... No! No!	\N	\N	\N	\N	\N	\N	\N	\N	0	1	0	0	16414
+-48	You are spotted by the eye of Grillok!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	19440
+-47	%s attempts to run away in fear!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	Common Text
+-46	%s becomes enraged!	\N	\N	\N	\N	\N	\N	\N	\N	0	2	0	0	Common Text
+-28	Have you come to kill Dalliah? Can I watch?	\N	\N	\N	\N	\N	\N	\N	\N	11237	1	0	0	20886
+-27	At last, a target for my frustrations!	\N	\N	\N	\N	\N	\N	\N	\N	11238	1	0	0	20886
+-26	Yes, that was quite satisfying	\N	\N	\N	\N	\N	\N	\N	\N	11239	1	0	0	20886
+-25	Knew this was... the only way out	\N	\N	\N	\N	\N	\N	\N	\N	11243	1	0	0	20886
+-24	Defend yourself, for all the good it will do...	\N	\N	\N	\N	\N	\N	\N	\N	11242	1	0	0	20886
+-23	On guard!	\N	\N	\N	\N	\N	\N	\N	\N	11241	1	0	0	20886
+-1	I see those fools at the Abbey sent some fresh meat for us.	\N	\N	\N	\N	\N	\N	\N	\N	0	0	0	0	103

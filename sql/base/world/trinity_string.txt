@@ -1,0 +1,994 @@
+1	You should select a character or a creature.	\N	\N	\N	\N	\N	\N	\N	\N
+2	You should select a creature.	\N	\N	\N	\N	\N	\N	\N	\N
+3	[SERVER] %s	\N	\N	\N	\N	\N	\N	\N	\N
+4	|cffff0000[Event Message]: %s|r	\N	\N	\N	\N	\N	\N	\N	\N
+5	There is no help for that command	\N	\N	\N	\N	\N	\N	\N	\N
+6	There is no such command	\N	\N	\N	\N	\N	\N	\N	\N
+7	There is no such subcommand	\N	\N	\N	\N	\N	\N	\N	\N
+8	Command %s have subcommands:%s	\N	\N	\N	\N	\N	\N	\N	\N
+9	Commands available to you:	\N	\N	\N	\N	\N	\N	\N	\N
+10	Incorrect syntax.	\N	\N	\N	\N	\N	\N	\N	\N
+11	Your account level is: %i	\N	\N	\N	\N	\N	\N	\N	\N
+12	Active connections: %u (max: %u) Queued connections: %u (max: %u)	\N	\N	\N	\N	\N	\N	\N	\N
+13	Server uptime: %s	\N	\N	\N	\N	\N	\N	\N	\N
+14	Player saved.	\N	\N	\N	\N	\N	\N	\N	\N
+15	All players saved.	\N	\N	\N	\N	\N	\N	\N	\N
+16	There are the following active GMs on this server:	\N	\N	\N	\N	\N	\N	\N	\N
+17	There are no GMs currently logged in on this server.	\N	\N	\N	\N	\N	\N	\N	\N
+18	Cannot do that while flying.	\N	\N	\N	\N	\N	\N	\N	\N
+19	Update time diff: %u.	\N	\N	\N	\N	\N	\N	\N	\N
+20	Time left until shutdown/restart: %s	\N	\N	\N	\N	\N	\N	\N	\N
+21	%s is flying command failed.	\N	\N	\N	\N	\N	\N	\N	\N
+22	You are not mounted so you can't dismount.	\N	\N	\N	\N	\N	\N	\N	\N
+23	Cannot do that while fighting.	\N	\N	\N	\N	\N	\N	\N	\N
+24	You used it recently.	\N	\N	\N	\N	\N	\N	\N	\N
+25	Password not changed (unknown error)!	\N	\N	\N	\N	\N	\N	\N	\N
+26	The password was changed	\N	\N	\N	\N	\N	\N	\N	\N
+27	The old password is wrong	\N	\N	\N	\N	\N	\N	\N	\N
+28	Your account is now locked.	\N	\N	\N	\N	\N	\N	\N	\N
+29	Your account is now unlocked.	\N	\N	\N	\N	\N	\N	\N	\N
+30	, rank 	\N	\N	\N	\N	\N	\N	\N	\N
+31	 [known]	\N	\N	\N	\N	\N	\N	\N	\N
+32	 [learn]	\N	\N	\N	\N	\N	\N	\N	\N
+33	 [passive]	\N	\N	\N	\N	\N	\N	\N	\N
+34	 [talent]	\N	\N	\N	\N	\N	\N	\N	\N
+35	 [active]	\N	\N	\N	\N	\N	\N	\N	\N
+36	 [complete]	\N	\N	\N	\N	\N	\N	\N	\N
+37	 (offline)	\N	\N	\N	\N	\N	\N	\N	\N
+38	on	\N	\N	\N	\N	\N	\N	\N	\N
+39	off	\N	\N	\N	\N	\N	\N	\N	\N
+40	You are: %s	\N	\N	\N	\N	\N	\N	\N	\N
+41	visible	\N	\N	\N	\N	\N	\N	\N	\N
+42	invisible	\N	\N	\N	\N	\N	\N	\N	\N
+43	done	\N	\N	\N	\N	\N	\N	\N	\N
+44	You	\N	\N	\N	\N	\N	\N	\N	\N
+45	 <unknown> 	\N	\N	\N	\N	\N	\N	\N	\N
+46	<error>	\N	\N	\N	\N	\N	\N	\N	\N
+47	<non-existing character>	\N	\N	\N	\N	\N	\N	\N	\N
+48	UNKNOWN	\N	\N	\N	\N	\N	\N	\N	\N
+49	You must be at least level %u to enter.	\N	\N	\N	\N	\N	\N	\N	\N
+50	You must be at least level %u and have item %s to enter.	\N	\N	\N	\N	\N	\N	\N	\N
+51	Hello! Ready for some training?	\N	\N	\N	\N	\N	\N	\N	\N
+52	Invaid item count (%u) for item %u	\N	\N	\N	\N	\N	\N	\N	\N
+53	Mail can't have more %u item stacks	\N	\N	\N	\N	\N	\N	\N	\N
+54	The new passwords do not match	\N	\N	\N	\N	\N	\N	\N	\N
+55	Your password can't be longer than 16 characters (client limit), password not changed!	\N	\N	\N	\N	\N	\N	\N	\N
+56	Current Message of the day: \
+%s	\N	\N	\N	\N	\N	\N	\N	\N
+57	Using World DB: %s	\N	\N	\N	\N	\N	\N	\N	\N
+58	Using script library: %s	\N	\N	\N	\N	\N	\N	\N	\N
+59	Using creature EventAI: %s	\N	\N	\N	\N	\N	\N	\N	\N
+60	Online players: %u (max: %u)	\N	\N	\N	\N	\N	\N	\N	\N
+61	Up to %u expansion allowed now.	\N	\N	\N	\N	\N	\N	\N	\N
+62	One on more parameters have incorrect values	\N	\N	\N	\N	\N	\N	\N	\N
+100	Global notify: 	\N	\N	\N	\N	\N	\N	\N	\N
+101	Map: %u (%s) Zone: %u (%s) Area: %u (%s) Phase: %u\
+X: %f Y: %f Z: %f Orientation: %f\
+grid[%u,%u]cell[%u,%u] InstanceID: %u\
+ ZoneX: %f ZoneY: %f\
+GroundZ: %f FloorZ: %f Have height data (Map: %u VMap: %u)	\N	\N	\N	\N	\N	\N	\N	\N
+102	%s is already being teleported.	\N	\N	\N	\N	\N	\N	\N	\N
+103	You can summon a player to your instance only if he is in your party with you as leader.	\N	\N	\N	\N	\N	\N	\N	\N
+104	You cannot go to the player's instance because you are in a party now.	\N	\N	\N	\N	\N	\N	\N	\N
+105	You can go to the player's instance while not being in his party only if your GM mode is on.	\N	\N	\N	\N	\N	\N	\N	\N
+106	You can not go to player %s from instance to instance.	\N	\N	\N	\N	\N	\N	\N	\N
+107	You can not summon player %s from instance to instance.	\N	\N	\N	\N	\N	\N	\N	\N
+108	You are summoning %s%s.	\N	\N	\N	\N	\N	\N	\N	\N
+109	You are being summoned by %s.	\N	\N	\N	\N	\N	\N	\N	\N
+110	You are teleporting %s%s to %s.	\N	\N	\N	\N	\N	\N	\N	\N
+111	You are being teleported by %s.	\N	\N	\N	\N	\N	\N	\N	\N
+112	Player (%s) does not exist.	\N	\N	\N	\N	\N	\N	\N	\N
+113	Appearing at %s's location.	\N	\N	\N	\N	\N	\N	\N	\N
+114	%s is appearing to your location.	\N	\N	\N	\N	\N	\N	\N	\N
+115	Incorrect values.	\N	\N	\N	\N	\N	\N	\N	\N
+116	No character selected.	\N	\N	\N	\N	\N	\N	\N	\N
+117	%s is not in a group.	\N	\N	\N	\N	\N	\N	\N	\N
+118	You changed HP of %s to %i/%i.	\N	\N	\N	\N	\N	\N	\N	\N
+119	%s changed your HP to %i/%i.	\N	\N	\N	\N	\N	\N	\N	\N
+120	You changed MANA of %s to %i/%i.	\N	\N	\N	\N	\N	\N	\N	\N
+121	%s changed your MANA to %i/%i.	\N	\N	\N	\N	\N	\N	\N	\N
+122	You changed ENERGY of %s to %i/%i.	\N	\N	\N	\N	\N	\N	\N	\N
+123	%s changed your ENERGY to %i/%i.	\N	\N	\N	\N	\N	\N	\N	\N
+124	Current energy: %u	\N	\N	\N	\N	\N	\N	\N	\N
+125	You changed rage of %s to %i/%i.	\N	\N	\N	\N	\N	\N	\N	\N
+126	%s changed your rage to %i/%i.	\N	\N	\N	\N	\N	\N	\N	\N
+127	You changed level of %s to %i.	\N	\N	\N	\N	\N	\N	\N	\N
+128	GUID %i, faction is %i, flags is %i, npcflag is %i, DY flag is %i	\N	\N	\N	\N	\N	\N	\N	\N
+129	Wrong faction: %u (not found in factiontemplate.dbc).	\N	\N	\N	\N	\N	\N	\N	\N
+130	You changed GUID=%i 's Faction to %i, flags to %i, npcflag to %i, dyflag to %i.	\N	\N	\N	\N	\N	\N	\N	\N
+131	You changed the spellflatid=%i, val= %i, mark =%i to %s.	\N	\N	\N	\N	\N	\N	\N	\N
+132	%s changed your spellflatid=%i, val= %i, mark =%i.	\N	\N	\N	\N	\N	\N	\N	\N
+133	%s has access to all taxi nodes now (until logout).	\N	\N	\N	\N	\N	\N	\N	\N
+134	%s has no more access to all taxi nodes now (only visited accessible).	\N	\N	\N	\N	\N	\N	\N	\N
+135	%s has given you access to all taxi nodes (until logout).	\N	\N	\N	\N	\N	\N	\N	\N
+136	%s has removed access to all taxi nodes (only visited still accessible).	\N	\N	\N	\N	\N	\N	\N	\N
+137	You set all speeds to %2.2f from normal of %s.	\N	\N	\N	\N	\N	\N	\N	\N
+138	%s set all your speeds to %2.2f from normal.	\N	\N	\N	\N	\N	\N	\N	\N
+139	You set the speed to %2.2f from normal of %s.	\N	\N	\N	\N	\N	\N	\N	\N
+140	%s set your speed to %2.2f from normal.	\N	\N	\N	\N	\N	\N	\N	\N
+141	You set the swim speed to %2.2f from normal of %s.	\N	\N	\N	\N	\N	\N	\N	\N
+142	%s set your swim speed to %2.2f from normal.	\N	\N	\N	\N	\N	\N	\N	\N
+143	You set the backwards run speed to %2.2f from normal of %s.	\N	\N	\N	\N	\N	\N	\N	\N
+144	%s set your backwards run speed to %2.2f from normal.	\N	\N	\N	\N	\N	\N	\N	\N
+145	You set the fly speed to %2.2f from normal of %s.	\N	\N	\N	\N	\N	\N	\N	\N
+146	%s set your fly speed to %2.2f from normal.	\N	\N	\N	\N	\N	\N	\N	\N
+147	You set the size %2.2f of %s.	\N	\N	\N	\N	\N	\N	\N	\N
+148	%s set your size to %2.2f.	\N	\N	\N	\N	\N	\N	\N	\N
+149	There is no such mount.	\N	\N	\N	\N	\N	\N	\N	\N
+150	You give a mount to %s.	\N	\N	\N	\N	\N	\N	\N	\N
+151	%s gave you a mount.	\N	\N	\N	\N	\N	\N	\N	\N
+152	USER1: %i, ADD: %i, DIF: %i\
+	\N	\N	\N	\N	\N	\N	\N	\N
+153	You take all copper of %s.	\N	\N	\N	\N	\N	\N	\N	\N
+154	%s took you all of your copper.	\N	\N	\N	\N	\N	\N	\N	\N
+155	You take %i copper from %s.	\N	\N	\N	\N	\N	\N	\N	\N
+156	%s took %i copper from you.	\N	\N	\N	\N	\N	\N	\N	\N
+157	You give %i copper to %s.	\N	\N	\N	\N	\N	\N	\N	\N
+158	%s gave you %i copper.	\N	\N	\N	\N	\N	\N	\N	\N
+159	You hear sound %u.	\N	\N	\N	\N	\N	\N	\N	\N
+160	USER2: %i, ADD: %i, RESULT: %i\
+	\N	\N	\N	\N	\N	\N	\N	\N
+161	Removed bit %i in field %i.	\N	\N	\N	\N	\N	\N	\N	\N
+162	Set bit %i in field %i.	\N	\N	\N	\N	\N	\N	\N	\N
+163	Teleport location table is empty!	\N	\N	\N	\N	\N	\N	\N	\N
+164	Teleport location not found!	\N	\N	\N	\N	\N	\N	\N	\N
+165	Requires search parameter.	\N	\N	\N	\N	\N	\N	\N	\N
+166	There are no teleport locations matching your request.	\N	\N	\N	\N	\N	\N	\N	\N
+168	Locations found are:\
+%s	\N	\N	\N	\N	\N	\N	\N	\N
+169	Mail sent to %s	\N	\N	\N	\N	\N	\N	\N	\N
+170	You try to hear sound %u but it doesn't exist.	\N	\N	\N	\N	\N	\N	\N	\N
+171	You can't teleport self to self!	\N	\N	\N	\N	\N	\N	\N	\N
+172	server console command	\N	\N	\N	\N	\N	\N	\N	\N
+173	You changed runic power of %s to %i/%i.	\N	\N	\N	\N	\N	\N	\N	\N
+174	%s changed your runic power to %i/%i.	\N	\N	\N	\N	\N	\N	\N	\N
+175	Liquid level: %f, ground: %f, type: %u, flags %u, status: %d.	\N	\N	\N	\N	\N	\N	\N	\N
+200	No selection.	\N	\N	\N	\N	\N	\N	\N	\N
+201	Object GUID is: lowpart %u highpart %X	\N	\N	\N	\N	\N	\N	\N	\N
+202	The name was too long by %i characters.	\N	\N	\N	\N	\N	\N	\N	\N
+203	Error, name can only contain characters A-Z and a-z.	\N	\N	\N	\N	\N	\N	\N	\N
+204	The subname was too long by %i characters.	\N	\N	\N	\N	\N	\N	\N	\N
+205	Not yet implemented	\N	\N	\N	\N	\N	\N	\N	\N
+206	Item '%i' '%s' added to list with maxcount '%i' and incrtime '%i' and extendedcost '%i'	\N	\N	\N	\N	\N	\N	\N	\N
+207	Item '%i' not found in database.	\N	\N	\N	\N	\N	\N	\N	\N
+208	Item '%i' '%s' deleted from vendor list	\N	\N	\N	\N	\N	\N	\N	\N
+209	Item '%i' not found in vendor list.	\N	\N	\N	\N	\N	\N	\N	\N
+210	Item '%u' (with extended cost %u) already in vendor list.	\N	\N	\N	\N	\N	\N	\N	\N
+211	Spells of %s reset.	\N	\N	\N	\N	\N	\N	\N	\N
+212	Spells of %s will reset at next login.	\N	\N	\N	\N	\N	\N	\N	\N
+213	Talents of %s reset.	\N	\N	\N	\N	\N	\N	\N	\N
+214	Talents of %s will reset at next login.	\N	\N	\N	\N	\N	\N	\N	\N
+215	Your spells have been reset.	\N	\N	\N	\N	\N	\N	\N	\N
+216	Your talents have been reset.	\N	\N	\N	\N	\N	\N	\N	\N
+217	Unknown case '%s' for .resetall command. Type full correct case name.	\N	\N	\N	\N	\N	\N	\N	\N
+218	Spells will reset for all players at login. Strongly recommend re-login!	\N	\N	\N	\N	\N	\N	\N	\N
+219	Talents will reset for all players at login. Strongly recommend re-login!	\N	\N	\N	\N	\N	\N	\N	\N
+220	Creature (GUID: %u) No waypoint found.	\N	\N	\N	\N	\N	\N	\N	\N
+221	Creature (GUID: %u) Last waypoint not found.	\N	\N	\N	\N	\N	\N	\N	\N
+222	Creature (GUID: %u) No waypoint found - used 'wpguid'. Now trying to find it by its position...	\N	\N	\N	\N	\N	\N	\N	\N
+223	Creature (GUID: %u) No waypoints found - This is a MaNGOS db problem (single float).	\N	\N	\N	\N	\N	\N	\N	\N
+224	Selected creature is ignored - provided GUID is used	\N	\N	\N	\N	\N	\N	\N	\N
+225	Creature (GUID: %u) not found	\N	\N	\N	\N	\N	\N	\N	\N
+226	You must select a visual waypoint.	\N	\N	\N	\N	\N	\N	\N	\N
+227	No visual waypoints found	\N	\N	\N	\N	\N	\N	\N	\N
+228	Could not create visual waypoint with creatureID: %d	\N	\N	\N	\N	\N	\N	\N	\N
+229	All visual waypoints removed	\N	\N	\N	\N	\N	\N	\N	\N
+230	Could not create waypoint-creature with ID: %d	\N	\N	\N	\N	\N	\N	\N	\N
+231	No GUID provided.	\N	\N	\N	\N	\N	\N	\N	\N
+232	No waypoint number provided.	\N	\N	\N	\N	\N	\N	\N	\N
+233	Argument required for '%s'.	\N	\N	\N	\N	\N	\N	\N	\N
+234	Waypoint %i added to GUID: %d	\N	\N	\N	\N	\N	\N	\N	\N
+235	Waypoint %d added.	\N	\N	\N	\N	\N	\N	\N	\N
+236	Waypoint changed.	\N	\N	\N	\N	\N	\N	\N	\N
+237	Waypoint %s modified.	\N	\N	\N	\N	\N	\N	\N	\N
+238	WP export successfull.	\N	\N	\N	\N	\N	\N	\N	\N
+239	No waypoints found inside the database.	\N	\N	\N	\N	\N	\N	\N	\N
+240	File imported.	\N	\N	\N	\N	\N	\N	\N	\N
+241	Waypoint removed.	\N	\N	\N	\N	\N	\N	\N	\N
+242	Warning: Could not delete WP from the world with ID: %d	\N	\N	\N	\N	\N	\N	\N	\N
+243	This happens if the waypoint is too far away from your char.	\N	\N	\N	\N	\N	\N	\N	\N
+244	The WP is deleted from the database, but not from the world here.	\N	\N	\N	\N	\N	\N	\N	\N
+245	They will disappear after a server restart.	\N	\N	\N	\N	\N	\N	\N	\N
+246	Waypoint %d: Info for creature: %s, GUID: %d	\N	\N	\N	\N	\N	\N	\N	\N
+247	Waittime: %d	\N	\N	\N	\N	\N	\N	\N	\N
+248	Model %d: %d	\N	\N	\N	\N	\N	\N	\N	\N
+249	Emote: %d	\N	\N	\N	\N	\N	\N	\N	\N
+250	Spell: %d	\N	\N	\N	\N	\N	\N	\N	\N
+251	Text%d (ID: %i): %s	\N	\N	\N	\N	\N	\N	\N	\N
+252	AIScript: %s	\N	\N	\N	\N	\N	\N	\N	\N
+253	Forced rename for player %s will be requested at next login.	\N	\N	\N	\N	\N	\N	\N	\N
+254	Forced rename for player %s (GUID #%u) will be requested at next login.	\N	\N	\N	\N	\N	\N	\N	\N
+255	Waypoint-Creature (GUID: %u) Not found	\N	\N	\N	\N	\N	\N	\N	\N
+256	Could not find NPC...	\N	\N	\N	\N	\N	\N	\N	\N
+257	Creature movement type set to '%s', waypoints removed (if any).	\N	\N	\N	\N	\N	\N	\N	\N
+258	Creature movement type set to '%s', waypoints were not removed.	\N	\N	\N	\N	\N	\N	\N	\N
+259	Incorrect value, use on or off	\N	\N	\N	\N	\N	\N	\N	\N
+260	Value saved.	\N	\N	\N	\N	\N	\N	\N	\N
+261	Value saved, you may need to rejoin or clean your client cache.	\N	\N	\N	\N	\N	\N	\N	\N
+262	Areatrigger ID %u not found!	\N	\N	\N	\N	\N	\N	\N	\N
+263	Target map or coordinates is invalid (X: %f Y: %f MapId: %u)	\N	\N	\N	\N	\N	\N	\N	\N
+264	Zone coordinates is invalid (X: %f Y: %f AreaId: %u)	\N	\N	\N	\N	\N	\N	\N	\N
+265	Zone %u (%s) is part of instanceable map %u (%s)	\N	\N	\N	\N	\N	\N	\N	\N
+266	Nothing found!	\N	\N	\N	\N	\N	\N	\N	\N
+267	Object not found!	\N	\N	\N	\N	\N	\N	\N	\N
+268	Creature not found!	\N	\N	\N	\N	\N	\N	\N	\N
+269	Warning: Mob found more than once - you will be teleported to the first one found in DB.	\N	\N	\N	\N	\N	\N	\N	\N
+270	Creature Removed	\N	\N	\N	\N	\N	\N	\N	\N
+271	Creature moved.	\N	\N	\N	\N	\N	\N	\N	\N
+272	Creature (GUID:%u) must be on the same map as player!	\N	\N	\N	\N	\N	\N	\N	\N
+273	Game Object (GUID: %u) not found	\N	\N	\N	\N	\N	\N	\N	\N
+274	Game Object (GUID: %u) has references in not found creature %u GO list, can't be deleted.	\N	\N	\N	\N	\N	\N	\N	\N
+275	Game Object (GUID: %u) removed	\N	\N	\N	\N	\N	\N	\N	\N
+276	Game Object |cffffffff|Hgameobject:%d|h[%s]|h|r (GUID: %u) turned	\N	\N	\N	\N	\N	\N	\N	\N
+277	Game Object |cffffffff|Hgameobject:%d|h[%s]|h|r (GUID: %u) moved	\N	\N	\N	\N	\N	\N	\N	\N
+278	You must select a vendor	\N	\N	\N	\N	\N	\N	\N	\N
+279	You must send id for item	\N	\N	\N	\N	\N	\N	\N	\N
+280	Vendor has too many items (max 128)	\N	\N	\N	\N	\N	\N	\N	\N
+281	You can't kick self, logout instead	\N	\N	\N	\N	\N	\N	\N	\N
+282	Player %s kicked.	\N	\N	\N	\N	\N	\N	\N	\N
+283	You have disabled %s's chat for %u minutes, effective at the player's next login. Reason: %s.	\N	\N	\N	\N	\N	\N	\N	\N
+284	Accepting Whisper: %s	\N	\N	\N	\N	\N	\N	\N	\N
+285	Accepting Whisper: ON	\N	\N	\N	\N	\N	\N	\N	\N
+286	Accepting Whisper: OFF	\N	\N	\N	\N	\N	\N	\N	\N
+287	Creature (GUID: %u) not found	\N	\N	\N	\N	\N	\N	\N	\N
+288	Tickets count: %i show new tickets: %s\
+	\N	\N	\N	\N	\N	\N	\N	\N
+289	New ticket from %s	\N	\N	\N	\N	\N	\N	\N	\N
+290	Ticket of %s (Last updated: %s):\
+%s	\N	\N	\N	\N	\N	\N	\N	\N
+291	New ticket show: ON	\N	\N	\N	\N	\N	\N	\N	\N
+292	New ticket show: OFF	\N	\N	\N	\N	\N	\N	\N	\N
+293	Ticket %i doesn't exist	\N	\N	\N	\N	\N	\N	\N	\N
+294	All tickets deleted.	\N	\N	\N	\N	\N	\N	\N	\N
+295	Character %s ticket deleted.	\N	\N	\N	\N	\N	\N	\N	\N
+296	Ticket deleted.	\N	\N	\N	\N	\N	\N	\N	\N
+297	Spawn distance changed to: %f	\N	\N	\N	\N	\N	\N	\N	\N
+298	Spawn time changed to: %i	\N	\N	\N	\N	\N	\N	\N	\N
+299	The honor of %s was set to %u!	\N	\N	\N	\N	\N	\N	\N	\N
+300	Your chat has been disabled for %u minutes. Reason: %s.	\N	\N	\N	\N	\N	\N	\N	\N
+301	You have disabled %s's chat for %u minutes. Reason: %s.	\N	\N	\N	\N	\N	\N	\N	\N
+302	Player's chat is already enabled.	\N	\N	\N	\N	\N	\N	\N	\N
+303	Your chat has been enabled.	\N	\N	\N	\N	\N	\N	\N	\N
+304	You have enabled %s's chat.	\N	\N	\N	\N	\N	\N	\N	\N
+305	Faction %s (%u) reputation of %s was set to %5d!	\N	\N	\N	\N	\N	\N	\N	\N
+306	The arena points of %s was set to %u!	\N	\N	\N	\N	\N	\N	\N	\N
+307	No faction found!	\N	\N	\N	\N	\N	\N	\N	\N
+308	Faction %i unknown!	\N	\N	\N	\N	\N	\N	\N	\N
+309	Invalid parameter %s	\N	\N	\N	\N	\N	\N	\N	\N
+310	delta must be between 0 and %d (inclusive)	\N	\N	\N	\N	\N	\N	\N	\N
+311	%d - |cffffffff|Hfaction:%d|h[%s]|h|r	\N	\N	\N	\N	\N	\N	\N	\N
+312	 [visible]	\N	\N	\N	\N	\N	\N	\N	\N
+313	 [at war]	\N	\N	\N	\N	\N	\N	\N	\N
+314	 [peace forced]	\N	\N	\N	\N	\N	\N	\N	\N
+315	 [hidden]	\N	\N	\N	\N	\N	\N	\N	\N
+316	 [invisible forced]	\N	\N	\N	\N	\N	\N	\N	\N
+317	 [inactive]	\N	\N	\N	\N	\N	\N	\N	\N
+318	Hated	\N	\N	\N	\N	\N	\N	\N	\N
+319	Hostile	\N	\N	\N	\N	\N	\N	\N	\N
+320	Unfriendly	\N	\N	\N	\N	\N	\N	\N	\N
+321	Neutral	\N	\N	\N	\N	\N	\N	\N	\N
+322	Friendly	\N	\N	\N	\N	\N	\N	\N	\N
+323	Honored	\N	\N	\N	\N	\N	\N	\N	\N
+324	Revered	\N	\N	\N	\N	\N	\N	\N	\N
+325	Exalted	\N	\N	\N	\N	\N	\N	\N	\N
+326	Faction %s (%u) can't have reputation.	\N	\N	\N	\N	\N	\N	\N	\N
+327	 [no reputation]	\N	\N	\N	\N	\N	\N	\N	\N
+328	Characters at account %s (Id: %u)	\N	\N	\N	\N	\N	\N	\N	\N
+329	 %s (GUID %u)	\N	\N	\N	\N	\N	\N	\N	\N
+330	No players found!	\N	\N	\N	\N	\N	\N	\N	\N
+331	Extended item cost %u not exist	\N	\N	\N	\N	\N	\N	\N	\N
+332	GM mode is ON	\N	\N	\N	\N	\N	\N	\N	\N
+333	GM mode is OFF	\N	\N	\N	\N	\N	\N	\N	\N
+334	GM Chat Badge is ON	\N	\N	\N	\N	\N	\N	\N	\N
+335	GM Chat Badge is OFF	\N	\N	\N	\N	\N	\N	\N	\N
+336	You repair all %s's items.	\N	\N	\N	\N	\N	\N	\N	\N
+337	All your items repaired by %s.	\N	\N	\N	\N	\N	\N	\N	\N
+338	You set waterwalk mode %s for %s.	\N	\N	\N	\N	\N	\N	\N	\N
+339	Your waterwalk mode %s by %s.	\N	\N	\N	\N	\N	\N	\N	\N
+340	%s is now following you.	\N	\N	\N	\N	\N	\N	\N	\N
+341	%s is not following you.	\N	\N	\N	\N	\N	\N	\N	\N
+342	%s is now not following you.	\N	\N	\N	\N	\N	\N	\N	\N
+343	Creature (Entry: %u) cannot be tamed.	\N	\N	\N	\N	\N	\N	\N	\N
+344	You already have pet.	\N	\N	\N	\N	\N	\N	\N	\N
+345	Forced customize for player %s will be requested at next login.	\N	\N	\N	\N	\N	\N	\N	\N
+346	Forced customize for player %s (GUID #%u) will be requested at next login.	\N	\N	\N	\N	\N	\N	\N	\N
+347	TaxiNode ID %u not found!	\N	\N	\N	\N	\N	\N	\N	\N
+348	Game Object (Entry: %u) have invalid data and can't be spawned	\N	\N	\N	\N	\N	\N	\N	\N
+349	%d (idx:%d) - |cffffffff|Htitle:%d|h[%s %s]|h|r %s %s 	\N	\N	\N	\N	\N	\N	\N	\N
+350	%d (idx:%d) - [%s %s] %s %s 	\N	\N	\N	\N	\N	\N	\N	\N
+351	No titles found!	\N	\N	\N	\N	\N	\N	\N	\N
+352	Invalid title id: %u	\N	\N	\N	\N	\N	\N	\N	\N
+353	Title %u (%s) added to known titles list for player %s.	\N	\N	\N	\N	\N	\N	\N	\N
+354	Title %u (%s) removed from known titles list for player %s.	\N	\N	\N	\N	\N	\N	\N	\N
+355	Title %u (%s) set as current seelcted title for player %s.	\N	\N	\N	\N	\N	\N	\N	\N
+356	Current selected title for player %s reset as not known now.	\N	\N	\N	\N	\N	\N	\N	\N
+357	Cheat Command Status:	\N	\N	\N	\N	\N	\N	\N	\N
+358	Godmode: %s.	\N	\N	\N	\N	\N	\N	\N	\N
+359	Casttime: %s.	\N	\N	\N	\N	\N	\N	\N	\N
+360	Cooldown: %s.	\N	\N	\N	\N	\N	\N	\N	\N
+361	Power: %s.	\N	\N	\N	\N	\N	\N	\N	\N
+362	Waterwalk: %s.	\N	\N	\N	\N	\N	\N	\N	\N
+400	|cffff0000[System Message]:|rScripts reloaded	\N	\N	\N	\N	\N	\N	\N	\N
+401	You change security level of account %s to %i.	\N	\N	\N	\N	\N	\N	\N	\N
+402	%s changed your security level to %i.	\N	\N	\N	\N	\N	\N	\N	\N
+403	You have low security level for this.	\N	\N	\N	\N	\N	\N	\N	\N
+404	Creature movement disabled.	\N	\N	\N	\N	\N	\N	\N	\N
+405	Creature movement enabled.	\N	\N	\N	\N	\N	\N	\N	\N
+406	Weather can't be changed for this zone.	\N	\N	\N	\N	\N	\N	\N	\N
+407	Weather system disabled at server.	\N	\N	\N	\N	\N	\N	\N	\N
+408	%s is banned for %s. Reason: %s.	\N	\N	\N	\N	\N	\N	\N	\N
+409	%s is banned permanently for %s.	\N	\N	\N	\N	\N	\N	\N	\N
+410	%s %s not found	\N	\N	\N	\N	\N	\N	\N	\N
+411	%s unbanned.	\N	\N	\N	\N	\N	\N	\N	\N
+412	There was an error removing the ban on %s.	\N	\N	\N	\N	\N	\N	\N	\N
+413	Account not exist: %s	\N	\N	\N	\N	\N	\N	\N	\N
+414	There is no such character.	\N	\N	\N	\N	\N	\N	\N	\N
+415	There is no such IP in banlist.	\N	\N	\N	\N	\N	\N	\N	\N
+416	Account %s has never been banned	\N	\N	\N	\N	\N	\N	\N	\N
+417	Ban history for account %s:	\N	\N	\N	\N	\N	\N	\N	\N
+418	Ban Date: %s Bantime: %s Still active: %s Reason: %s Set by: %s	\N	\N	\N	\N	\N	\N	\N	\N
+419	Inf.	\N	\N	\N	\N	\N	\N	\N	\N
+420	Never	\N	\N	\N	\N	\N	\N	\N	\N
+421	Yes	\N	\N	\N	\N	\N	\N	\N	\N
+422	No	\N	\N	\N	\N	\N	\N	\N	\N
+423	IP: %s\
+Ban Date: %s\
+Unban Date: %s\
+Remaining: %s\
+Reason: %s\
+Set by: %s	\N	\N	\N	\N	\N	\N	\N	\N
+424	There is no matching IPban.	\N	\N	\N	\N	\N	\N	\N	\N
+425	There is no matching account.	\N	\N	\N	\N	\N	\N	\N	\N
+426	There is no banned account owning a character matching this part.	\N	\N	\N	\N	\N	\N	\N	\N
+427	The following IPs match your pattern:	\N	\N	\N	\N	\N	\N	\N	\N
+428	The following accounts match your query:	\N	\N	\N	\N	\N	\N	\N	\N
+429	You learned many spells/skills.	\N	\N	\N	\N	\N	\N	\N	\N
+430	You learned all spells for class.	\N	\N	\N	\N	\N	\N	\N	\N
+431	You learned all talents for class.	\N	\N	\N	\N	\N	\N	\N	\N
+432	You learned all languages.	\N	\N	\N	\N	\N	\N	\N	\N
+433	You learned all craft skills and recipes.	\N	\N	\N	\N	\N	\N	\N	\N
+434	Could not find '%s'	\N	\N	\N	\N	\N	\N	\N	\N
+435	Invalid item id: %u	\N	\N	\N	\N	\N	\N	\N	\N
+436	No items found!	\N	\N	\N	\N	\N	\N	\N	\N
+437	Invalid gameobject id: %u	\N	\N	\N	\N	\N	\N	\N	\N
+438	Found items %u: %u ( inventory %u mail %u auction %u guild %u)	\N	\N	\N	\N	\N	\N	\N	\N
+439	Found gameobjects %u: %u 	\N	\N	\N	\N	\N	\N	\N	\N
+440	Invalid creature id: %u	\N	\N	\N	\N	\N	\N	\N	\N
+441	Found creatures %u: %u 	\N	\N	\N	\N	\N	\N	\N	\N
+442	No area found!	\N	\N	\N	\N	\N	\N	\N	\N
+443	No item sets found!	\N	\N	\N	\N	\N	\N	\N	\N
+444	No skills found!	\N	\N	\N	\N	\N	\N	\N	\N
+445	No spells found!	\N	\N	\N	\N	\N	\N	\N	\N
+446	No quests found!	\N	\N	\N	\N	\N	\N	\N	\N
+447	No creatures found!	\N	\N	\N	\N	\N	\N	\N	\N
+448	No gameobjects found!	\N	\N	\N	\N	\N	\N	\N	\N
+449	Graveyard #%u doesn't exist.	\N	\N	\N	\N	\N	\N	\N	\N
+450	Graveyard #%u already linked to zone #%u (current).	\N	\N	\N	\N	\N	\N	\N	\N
+451	Graveyard #%u linked to zone #%u (current).	\N	\N	\N	\N	\N	\N	\N	\N
+452	Graveyard #%u can't be linked to subzone or not existed zone #%u (internal error).	\N	\N	\N	\N	\N	\N	\N	\N
+453	Ban time remaining: %s, Banned by: %s, Reason: %s	\N	\N	\N	\N	\N	\N	\N	\N
+454	No faction in Graveyard with id= #%u , fix your DB	\N	\N	\N	\N	\N	\N	\N	\N
+455	invalid team, please fix database	\N	\N	\N	\N	\N	\N	\N	\N
+456	any	\N	\N	\N	\N	\N	\N	\N	\N
+457	alliance	\N	\N	\N	\N	\N	\N	\N	\N
+458	horde	\N	\N	\N	\N	\N	\N	\N	\N
+459	Graveyard #%u (faction: %s) is nearest from linked to zone #%u.	\N	\N	\N	\N	\N	\N	\N	\N
+460	Zone #%u doesn't have linked graveyards.	\N	\N	\N	\N	\N	\N	\N	\N
+461	Zone #%u doesn't have linked graveyards for faction: %s.	\N	\N	\N	\N	\N	\N	\N	\N
+462	Teleport location already exists!	\N	\N	\N	\N	\N	\N	\N	\N
+463	Teleport location added.	\N	\N	\N	\N	\N	\N	\N	\N
+464	Teleport location NOT added: database error.	\N	\N	\N	\N	\N	\N	\N	\N
+465	Teleport location deleted.	\N	\N	\N	\N	\N	\N	\N	\N
+466	No taxinodes found!	\N	\N	\N	\N	\N	\N	\N	\N
+467	Target unit has %d auras:	\N	\N	\N	\N	\N	\N	\N	\N
+468	id: %d %s effmask: %d charges: %d stack: %d slot %d duration: %d maxduration: %d %s %s caster: %s guid: %d	\N	\N	\N	\N	\N	\N	\N	\N
+469	Target unit has %d auras of type %d:	\N	\N	\N	\N	\N	\N	\N	\N
+470	id: %d eff: %d amount: %d	\N	\N	\N	\N	\N	\N	\N	\N
+471	Quest %u not found.	\N	\N	\N	\N	\N	\N	\N	\N
+472	Quest %u started from item. For correct work, please, add item to inventory and start quest in normal way: .additem %u	\N	\N	\N	\N	\N	\N	\N	\N
+473	Quest removed.	\N	\N	\N	\N	\N	\N	\N	\N
+474	 [rewarded]	\N	\N	\N	\N	\N	\N	\N	\N
+475	 [complete]	\N	\N	\N	\N	\N	\N	\N	\N
+476	 [active]	\N	\N	\N	\N	\N	\N	\N	\N
+477	%s's Fly Mode %s	\N	\N	\N	\N	\N	\N	\N	\N
+478	Opcode %u sent to %s	\N	\N	\N	\N	\N	\N	\N	\N
+479	Character loaded successfully!	\N	\N	\N	\N	\N	\N	\N	\N
+480	Failed to load the character!	\N	\N	\N	\N	\N	\N	\N	\N
+481	Character dumped successfully!	\N	\N	\N	\N	\N	\N	\N	\N
+482	Character dump failed!	\N	\N	\N	\N	\N	\N	\N	\N
+483	Spell %u broken and not allowed to cast or learn!	\N	\N	\N	\N	\N	\N	\N	\N
+484	Skill %u (%s) for player %s set to %u and current maximum set to %u (without permanent (talent) bonuses).	\N	\N	\N	\N	\N	\N	\N	\N
+485	Player %s must have skill %u (%s) before using this command.	\N	\N	\N	\N	\N	\N	\N	\N
+486	Invalid skill id (%u)	\N	\N	\N	\N	\N	\N	\N	\N
+487	You learned default GM spells/skills.	\N	\N	\N	\N	\N	\N	\N	\N
+488	You already know that spell.	\N	\N	\N	\N	\N	\N	\N	\N
+489	Target(%s) already know that spell.	\N	\N	\N	\N	\N	\N	\N	\N
+490	%s doesn't know that spell.	\N	\N	\N	\N	\N	\N	\N	\N
+491	You already forgot that spell.	\N	\N	\N	\N	\N	\N	\N	\N
+492	All spell cooldowns removed for %s.	\N	\N	\N	\N	\N	\N	\N	\N
+493	Spell %u cooldown removed for %s.	\N	\N	\N	\N	\N	\N	\N	\N
+494	Command : Additem, itemId = %i, amount = %i	\N	\N	\N	\N	\N	\N	\N	\N
+495	Command : Additemset, itemsetId = %i	\N	\N	\N	\N	\N	\N	\N	\N
+496	Removed itemID = %i, amount = %i from %s	\N	\N	\N	\N	\N	\N	\N	\N
+497	Cannot create item '%i' (amount: %i)	\N	\N	\N	\N	\N	\N	\N	\N
+498	You need to provide a guild name!	\N	\N	\N	\N	\N	\N	\N	\N
+499	Player not found!	\N	\N	\N	\N	\N	\N	\N	\N
+500	Player already has a guild!	\N	\N	\N	\N	\N	\N	\N	\N
+501	Guild not created! (already exists?)	\N	\N	\N	\N	\N	\N	\N	\N
+502	No items from itemset '%u' found.	\N	\N	\N	\N	\N	\N	\N	\N
+503	The distance is: (3D) %f (2D) %f (Exact 3D) %f (Exact 2D) %f yards.	\N	\N	\N	\N	\N	\N	\N	\N
+504	Item '%i' '%s' Item Slot %i	\N	\N	\N	\N	\N	\N	\N	\N
+505	Item '%i' doesn't exist.	\N	\N	\N	\N	\N	\N	\N	\N
+506	Item '%i' '%s' Added to Slot %i	\N	\N	\N	\N	\N	\N	\N	\N
+507	Item save failed!	\N	\N	\N	\N	\N	\N	\N	\N
+508	%d - owner: %s (guid: %u account: %u ) %s	\N	\N	\N	\N	\N	\N	\N	\N
+509	%d - sender: %s (guid: %u account: %u ) receiver: %s (guid: %u account: %u ) %s	\N	\N	\N	\N	\N	\N	\N	\N
+510	%d - owner: %s (guid: %u account: %u ) %s	\N	\N	\N	\N	\N	\N	\N	\N
+511	Wrong link type!	\N	\N	\N	\N	\N	\N	\N	\N
+512	%d - |cffffffff|Hitem:%d:0:0:0:0:0:0:0:0|h[%s]|h|r 	\N	\N	\N	\N	\N	\N	\N	\N
+513	%d - |cffffffff|Hquest:%d:%d|h[%s]|h|r %s	\N	\N	\N	\N	\N	\N	\N	\N
+514	%d - |cffffffff|Hcreature_entry:%d|h[%s]|h|r 	\N	\N	\N	\N	\N	\N	\N	\N
+515	%d - |cffffffff|Hcreature:%d|h[%s X:%f Y:%f Z:%f MapId:%d]|h|r 	\N	\N	\N	\N	\N	\N	\N	\N
+516	%d - |cffffffff|Hgameobject_entry:%d|h[%s]|h|r 	\N	\N	\N	\N	\N	\N	\N	\N
+517	%d (Entry: %d) - |cffffffff|Hgameobject:%d|h[%s X:%f Y:%f Z:%f MapId:%d]|h|r 	\N	\N	\N	\N	\N	\N	\N	\N
+518	%d - |cffffffff|Hitemset:%d|h[%s %s]|h|r 	\N	\N	\N	\N	\N	\N	\N	\N
+519	|cffffffff|Htele:%s|h[%s]|h|r 	\N	\N	\N	\N	\N	\N	\N	\N
+520	%d - |cffffffff|Hspell:%d|h[%s]|h|r 	\N	\N	\N	\N	\N	\N	\N	\N
+521	%d - |cffffffff|Hskill:%d|h[%s %s]|h|r %s %s	\N	\N	\N	\N	\N	\N	\N	\N
+522	Game Object (Entry: %u) not found	\N	\N	\N	\N	\N	\N	\N	\N
+523	>> Game Object %s (GUID: %u) at %f %f %f. Orientation %f.	\N	\N	\N	\N	\N	\N	\N	\N
+524	Selected object:\
+|cffffffff|Hgameobject:%d|h[%s]|h|r GUID: %u ID: %u\
+X: %f Y: %f Z: %f MapId: %u\
+Orientation: %f\
+Phasemask %u	\N	\N	\N	\N	\N	\N	\N	\N
+525	>> Add Game Object '%i' (%s) (GUID: %i) added at '%f %f %f'.	\N	\N	\N	\N	\N	\N	\N	\N
+526	%s (lowguid: %u) movement generators stack:	\N	\N	\N	\N	\N	\N	\N	\N
+527	 Idle	\N	\N	\N	\N	\N	\N	\N	\N
+528	 Random	\N	\N	\N	\N	\N	\N	\N	\N
+529	 Waypoint	\N	\N	\N	\N	\N	\N	\N	\N
+530	 Animal random	\N	\N	\N	\N	\N	\N	\N	\N
+531	 Confused	\N	\N	\N	\N	\N	\N	\N	\N
+532	 Targeted to player %s (lowguid %u)	\N	\N	\N	\N	\N	\N	\N	\N
+533	 Targeted to creature %s (lowguid %u)	\N	\N	\N	\N	\N	\N	\N	\N
+534	 Targeted to <NULL>	\N	\N	\N	\N	\N	\N	\N	\N
+535	 Home movement to (X:%f Y:%f Z:%f)	\N	\N	\N	\N	\N	\N	\N	\N
+536	 Home movement used for player?!?	\N	\N	\N	\N	\N	\N	\N	\N
+537	 Taxi flight	\N	\N	\N	\N	\N	\N	\N	\N
+538	 Unknown movement generator (%u)	\N	\N	\N	\N	\N	\N	\N	\N
+539	Player selected NPC\
+DB GUID: %u, current GUID: %u.\
+Faction: %u.\
+npcFlags: %u.\
+Entry: %u.\
+DisplayID: %u (Native: %u).	\N	\N	\N	\N	\N	\N	\N	\N
+540	Level: %u.	\N	\N	\N	\N	\N	\N	\N	\N
+541	Health (base): %u. (max): %u. (current): %u.	\N	\N	\N	\N	\N	\N	\N	\N
+542	Field Flags: %u.\
+Dynamic Flags: %u.\
+Faction Template: %u.	\N	\N	\N	\N	\N	\N	\N	\N
+543	Loot: %u Pickpocket: %u Skinning: %u	\N	\N	\N	\N	\N	\N	\N	\N
+544	Position: %f %f %f.	\N	\N	\N	\N	\N	\N	\N	\N
+545	*** Is a vendor!	\N	\N	\N	\N	\N	\N	\N	\N
+546	*** Is a trainer!	\N	\N	\N	\N	\N	\N	\N	\N
+547	InstanceID: %u	\N	\N	\N	\N	\N	\N	\N	\N
+548	Player%s %s (guid: %u) Account: %s (id: %u) Email: %s GMLevel: %u Last IP: %s Last login: %s Latency: %ums	\N	\N	\N	\N	\N	\N	\N	\N
+549	Race: %s Class: %s Played time: %s Level: %u Money: %ug%us%uc	\N	\N	\N	\N	\N	\N	\N	\N
+550	Mute time remaining: %s	\N	\N	\N	\N	\N	\N	\N	\N
+551	%s has explored all zones now.	\N	\N	\N	\N	\N	\N	\N	\N
+552	%s has no more explored zones.	\N	\N	\N	\N	\N	\N	\N	\N
+553	%s has explored all zones for you.	\N	\N	\N	\N	\N	\N	\N	\N
+554	%s has hidden all zones from you.	\N	\N	\N	\N	\N	\N	\N	\N
+555	SetData performed on [GUID: %u, entry: %u, name: %s] Field: %u, Data: %u, with %s	\N	\N	\N	\N	\N	\N	\N	\N
+556	Found near creatures (distance %f): %u 	\N	\N	\N	\N	\N	\N	\N	\N
+557	%s level up you to (%i)	\N	\N	\N	\N	\N	\N	\N	\N
+558	%s level down you to (%i)	\N	\N	\N	\N	\N	\N	\N	\N
+559	%s reset your level progress.	\N	\N	\N	\N	\N	\N	\N	\N
+560	The area has been set as explored.	\N	\N	\N	\N	\N	\N	\N	\N
+561	The area has been set as not explored.	\N	\N	\N	\N	\N	\N	\N	\N
+562	GUID=%i 's updateIndex: %i, value: %i.	\N	\N	\N	\N	\N	\N	\N	\N
+563	You change GUID=%i 's UpdateIndex: %i value to %i.	\N	\N	\N	\N	\N	\N	\N	\N
+564	The value index %u is too big to %u(count: %u).	\N	\N	\N	\N	\N	\N	\N	\N
+565	Set %u uint32 Value:[OPCODE]:%u [VALUE]:%u	\N	\N	\N	\N	\N	\N	\N	\N
+566	You Set %u Field:%u to uint32 Value: %u	\N	\N	\N	\N	\N	\N	\N	\N
+567	Set %u float Value:[OPCODE]:%u [VALUE]:%f	\N	\N	\N	\N	\N	\N	\N	\N
+568	You Set %u Field:%i to float Value: %f	\N	\N	\N	\N	\N	\N	\N	\N
+569	Get %u uint32 Value:[OPCODE]:%u [VALUE]:%u	\N	\N	\N	\N	\N	\N	\N	\N
+570	The uint32 value of %u in %u is: %u	\N	\N	\N	\N	\N	\N	\N	\N
+571	Get %u float Value:[OPCODE]:%u [VALUE]:%f	\N	\N	\N	\N	\N	\N	\N	\N
+572	The float of %u value in %u is: %f	\N	\N	\N	\N	\N	\N	\N	\N
+573	.Set32Bit:[OPCODE]:%u [VALUE]:%u	\N	\N	\N	\N	\N	\N	\N	\N
+574	You set Bit of Field:%u to Value: %u	\N	\N	\N	\N	\N	\N	\N	\N
+575	.Mod32Value:[OPCODE]:%u [VALUE]:%i	\N	\N	\N	\N	\N	\N	\N	\N
+576	You modified the value of Field:%u to Value: %u	\N	\N	\N	\N	\N	\N	\N	\N
+577	You are now invisible.	\N	\N	\N	\N	\N	\N	\N	\N
+578	You are now visible.	\N	\N	\N	\N	\N	\N	\N	\N
+579	Selected player or creature not have victim.	\N	\N	\N	\N	\N	\N	\N	\N
+580	Player %s learned all default spells for race/class and completed quests rewarded spells.	\N	\N	\N	\N	\N	\N	\N	\N
+581	Found near gameobjects (distance %f): %u 	\N	\N	\N	\N	\N	\N	\N	\N
+582	SpawnTime: Full:%s Remain:%s	\N	\N	\N	\N	\N	\N	\N	\N
+583	%d - |cffffffff|Hgameevent:%d|h[%s]|h|r%s	\N	\N	\N	\N	\N	\N	\N	\N
+584	No event found!	\N	\N	\N	\N	\N	\N	\N	\N
+585	Event not exist!	\N	\N	\N	\N	\N	\N	\N	\N
+586	Event %u: %s%s\
+Start: %s End: %s Occurence: %s Length: %s\
+Next state change: %s	\N	\N	\N	\N	\N	\N	\N	\N
+587	Event %u already active!	\N	\N	\N	\N	\N	\N	\N	\N
+588	Event %u not active!	\N	\N	\N	\N	\N	\N	\N	\N
+589	 Point movement to (X:%f Y:%f Z:%f)	\N	\N	\N	\N	\N	\N	\N	\N
+590	 Fear movement	\N	\N	\N	\N	\N	\N	\N	\N
+591	 Distract movement	\N	\N	\N	\N	\N	\N	\N	\N
+592	You have learned all spells in craft: %s	\N	\N	\N	\N	\N	\N	\N	\N
+593	Currently Banned Accounts:	\N	\N	\N	\N	\N	\N	\N	\N
+594	| Account | BanDate | UnbanDate | Banned By | Ban Reason |	\N	\N	\N	\N	\N	\N	\N	\N
+595	Currently Banned IPs:	\N	\N	\N	\N	\N	\N	\N	\N
+596	| IP | BanDate | UnbanDate | Banned By | Ban Reason |	\N	\N	\N	\N	\N	\N	\N	\N
+597	Current gamemasters:	\N	\N	\N	\N	\N	\N	\N	\N
+598	| Account | GM |	\N	\N	\N	\N	\N	\N	\N	\N
+599	No gamemasters.	\N	\N	\N	\N	\N	\N	\N	\N
+600	The Alliance wins!	\N	\N	\N	\N	\N	\N	\N	\N
+601	The Horde wins!	\N	\N	\N	\N	\N	\N	\N	\N
+602	The battle for Warsong Gulch begins in 1 minute.	\N	\N	\N	\N	\N	\N	\N	\N
+603	The battle for Warsong Gulch begins in 30 seconds. Prepare yourselves!	\N	\N	\N	\N	\N	\N	\N	\N
+604	Let the battle for Warsong Gulch begin!	\N	\N	\N	\N	\N	\N	\N	\N
+605	$n captured the Horde flag!	\N	\N	\N	\N	\N	\N	\N	\N
+606	$n captured the Alliance flag!	\N	\N	\N	\N	\N	\N	\N	\N
+607	The Horde flag was dropped by $n!	\N	\N	\N	\N	\N	\N	\N	\N
+608	The Alliance Flag was dropped by $n!	\N	\N	\N	\N	\N	\N	\N	\N
+609	The Alliance Flag was returned to its base by $n!	\N	\N	\N	\N	\N	\N	\N	\N
+610	The Horde flag was returned to its base by $n!	\N	\N	\N	\N	\N	\N	\N	\N
+611	The Horde flag was picked up by $n!	\N	\N	\N	\N	\N	\N	\N	\N
+612	The Alliance Flag was picked up by $n!	\N	\N	\N	\N	\N	\N	\N	\N
+613	The flags are now placed at their bases.	\N	\N	\N	\N	\N	\N	\N	\N
+614	The Alliance flag is now placed at its base.	\N	\N	\N	\N	\N	\N	\N	\N
+615	The Horde flag is now placed at its base.	\N	\N	\N	\N	\N	\N	\N	\N
+636	The Battle for Eye of the Storm begins in 1 minute.	\N	\N	\N	\N	\N	\N	\N	\N
+637	The Battle for Eye of the Storm begins in 30 seconds.	\N	\N	\N	\N	\N	\N	\N	\N
+638	The Battle for Eye of the Storm has begun!	\N	\N	\N	\N	\N	\N	\N	\N
+650	Alliance	\N	\N	\N	\N	\N	\N	\N	\N
+651	Horde	\N	\N	\N	\N	\N	\N	\N	\N
+652	stables	\N	\N	\N	\N	\N	\N	\N	\N
+653	blacksmith	\N	\N	\N	\N	\N	\N	\N	\N
+654	farm	\N	\N	\N	\N	\N	\N	\N	\N
+655	lumber mill	\N	\N	\N	\N	\N	\N	\N	\N
+656	mine	\N	\N	\N	\N	\N	\N	\N	\N
+657	The %s has taken the %s	\N	\N	\N	\N	\N	\N	\N	\N
+658	$n has defended the %s	\N	\N	\N	\N	\N	\N	\N	\N
+659	$n has assaulted the %s	\N	\N	\N	\N	\N	\N	\N	\N
+660	$n claims the %s! If left unchallenged, the %s will control it in 1 minute!	\N	\N	\N	\N	\N	\N	\N	\N
+661	The Battle for Arathi Basin begins in 1 minute.	\N	\N	\N	\N	\N	\N	\N	\N
+662	The Battle for Arathi Basin begins in 30 seconds. Prepare yourselves!	\N	\N	\N	\N	\N	\N	\N	\N
+663	The Battle for Arathi Basin has begun!	\N	\N	\N	\N	\N	\N	\N	\N
+664	The Alliance has gathered $1776W resources, and is near victory!	\N	\N	\N	\N	\N	\N	\N	\N
+665	The Horde has gathered $1777W resources, and is near victory!	\N	\N	\N	\N	\N	\N	\N	\N
+666	After your recent battle in %s our best attempts to award you a Mark of Honor failed. Enclosed you will find the Mark of Honor we were not able to deliver to you at the time. Thanks for fighting in %s!	\N	\N	\N	\N	\N	\N	\N	\N
+667	The Alliance has taken control of the Mage Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+668	The Horde has taken control of the Mage Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+669	The Alliance has taken control of the Draenei Ruins!	\N	\N	\N	\N	\N	\N	\N	\N
+670	The Horde has taken control of the Draenei Ruins!	\N	\N	\N	\N	\N	\N	\N	\N
+671	The Alliance has taken control of the Blood Elf Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+672	The Horde has taken control of the Blood Elf Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+673	The Alliance has taken control of the Fel Reaver Ruins!	\N	\N	\N	\N	\N	\N	\N	\N
+674	The Horde has taken control of the Fel Reaver Ruins!	\N	\N	\N	\N	\N	\N	\N	\N
+675	The Alliance has lost control of the Mage Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+676	The Horde has lost control of the Mage Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+677	The Alliance has lost control of the Draenei Ruins!	\N	\N	\N	\N	\N	\N	\N	\N
+678	The Horde has lost control of the Draenei Ruins!	\N	\N	\N	\N	\N	\N	\N	\N
+679	The Alliance has lost control of the Blood Elf Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+680	The Horde has lost control of the Blood Elf Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+681	The Alliance has lost control of the Fel Reaver Ruins!	\N	\N	\N	\N	\N	\N	\N	\N
+682	The Horde has lost control of the Fel Reaver Ruins!	\N	\N	\N	\N	\N	\N	\N	\N
+683	%s has taken the flag!	\N	\N	\N	\N	\N	\N	\N	\N
+684	The Alliance have captured the flag!	\N	\N	\N	\N	\N	\N	\N	\N
+685	The Horde have captured the flag!	\N	\N	\N	\N	\N	\N	\N	\N
+686	The flag has been dropped.	\N	\N	\N	\N	\N	\N	\N	\N
+687	The flag has been reset.	\N	\N	\N	\N	\N	\N	\N	\N
+700	You must be level %u to form an arena team	\N	\N	\N	\N	\N	\N	\N	\N
+701	One minute until the Arena battle begins!	\N	\N	\N	\N	\N	\N	\N	\N
+702	Thirty seconds until the Arena battle begins!	\N	\N	\N	\N	\N	\N	\N	\N
+703	Fifteen seconds until the Arena battle begins!	\N	\N	\N	\N	\N	\N	\N	\N
+704	The Arena battle has begun!	\N	\N	\N	\N	\N	\N	\N	\N
+705	You must wait %s before speaking again.	\N	\N	\N	\N	\N	\N	\N	\N
+706	This item(s) have problems with equipping/storing in inventory.	\N	\N	\N	\N	\N	\N	\N	\N
+707	%s does not wish to be disturbed: %s	\N	\N	\N	\N	\N	\N	\N	\N
+708	%s is Away from Keyboard: %s	\N	\N	\N	\N	\N	\N	\N	\N
+709	Do not Disturb	\N	\N	\N	\N	\N	\N	\N	\N
+710	Away from Keyboard	\N	\N	\N	\N	\N	\N	\N	\N
+711	Queue status for %s (Lvl: %u to %u)\
+Queued alliances: %u (Need at least %u more)\
+Queued hordes: %u (Need at least %u more)	\N	\N	\N	\N	\N	\N	\N	\N
+712	|cffff0000[BG Queue Announcer]:|r %s -- [%u-%u] A: %u/%u, H: %u/%u|r	\N	\N	\N	\N	\N	\N	\N	\N
+713	You must be level %u to join an arena team!	\N	\N	\N	\N	\N	\N	\N	\N
+714	Map: %s, Area: %s, Zone: %s, Phase: %u	\N	\N	\N	\N	\N	\N	\N	\N
+715	You don't meet Battleground level requirements	\N	\N	\N	\N	\N	\N	\N	\N
+716	Map: %s, Area: %s	\N	\N	\N	\N	\N	\N	\N	\N
+717	|cffff0000[BG Queue Announcer]:|r %s -- [%u-%u] Started!|r	\N	\N	\N	\N	\N	\N	\N	\N
+718	|cffff0000[Arena Queue Announcer]:|r %s -- Joined : %ux%u : %u|r	\N	\N	\N	\N	\N	\N	\N	\N
+719	|cffff0000[Arena Queue Announcer]:|r %s -- Exited : %ux%u : %u|r	\N	\N	\N	\N	\N	\N	\N	\N
+720	Your group is too large for this battleground. Please regroup to join.	\N	\N	\N	\N	\N	\N	\N	\N
+721	Your group is too large for this arena. Please regroup to join.	\N	\N	\N	\N	\N	\N	\N	\N
+722	Your group has members not in your arena team. Please regroup to join.	\N	\N	\N	\N	\N	\N	\N	\N
+723	Your group does not have enough players to join this match.	\N	\N	\N	\N	\N	\N	\N	\N
+724	The Gold Team wins!	\N	\N	\N	\N	\N	\N	\N	\N
+725	The Green Team wins!	\N	\N	\N	\N	\N	\N	\N	\N
+726	There aren't enough players in this battleground. It will end soon unless some more players join to balance the fight.	\N	\N	\N	\N	\N	\N	\N	\N
+727	Your group has an offline member. Please remove him before joining.	\N	\N	\N	\N	\N	\N	\N	\N
+728	Your group has players from the opposing faction. You can't join the battleground as a group.	\N	\N	\N	\N	\N	\N	\N	\N
+729	Your group has players from different battleground brakets. You can't join as group.	\N	\N	\N	\N	\N	\N	\N	\N
+730	Someone in your party is already in this battleground queue. (S)he must leave it before joining as group.	\N	\N	\N	\N	\N	\N	\N	\N
+731	Someone in your party is Deserter. You can't join as group.	\N	\N	\N	\N	\N	\N	\N	\N
+732	Someone in your party is already in three battleground queues. You cannot join as group.	\N	\N	\N	\N	\N	\N	\N	\N
+733	You cannot teleport to a battleground or arena map.	\N	\N	\N	\N	\N	\N	\N	\N
+734	You cannot summon players to a battleground or arena map.	\N	\N	\N	\N	\N	\N	\N	\N
+735	You must be in GM mode to teleport to a player in a battleground.	\N	\N	\N	\N	\N	\N	\N	\N
+736	You cannot teleport to a battleground from another battleground. Please leave the current battleground first.	\N	\N	\N	\N	\N	\N	\N	\N
+737	Arenas are set to 1v1 for debugging. So, don't join as group.	\N	\N	\N	\N	\N	\N	\N	\N
+738	Arenas are set to normal playercount.	\N	\N	\N	\N	\N	\N	\N	\N
+739	Battlegrounds are set to 1v0 for debugging.	\N	\N	\N	\N	\N	\N	\N	\N
+740	Battlegrounds are set to normal playercount.	\N	\N	\N	\N	\N	\N	\N	\N
+741	Flushing Arena points based on team ratings, this may take a few minutes. Please stand by...	\N	\N	\N	\N	\N	\N	\N	\N
+742	Distributing arena points to players...	\N	\N	\N	\N	\N	\N	\N	\N
+743	Finished setting arena points for online players.	\N	\N	\N	\N	\N	\N	\N	\N
+744	Modifying played count, arena points etc. for loaded arena teams, sending updated stats to online players...	\N	\N	\N	\N	\N	\N	\N	\N
+745	Modification done.	\N	\N	\N	\N	\N	\N	\N	\N
+746	Done flushing Arena points.	\N	\N	\N	\N	\N	\N	\N	\N
+747	This Battleground has been disabled. You can't join the queue.	\N	\N	\N	\N	\N	\N	\N	\N
+748	Arenas have been disabled. You can't join the queue.	\N	\N	\N	\N	\N	\N	\N	\N
+750	Not enough players. This game will close in %u mins.	\N	\N	\N	\N	\N	\N	\N	\N
+751	Not enough players. This game will close in %u seconds.	\N	\N	\N	\N	\N	\N	\N	\N
+753	The battle for Warsong Gulch begins in 2 minutes.	\N	\N	\N	\N	\N	\N	\N	\N
+754	The battle for Arathi Basin begins in 2 minutes.	\N	\N	\N	\N	\N	\N	\N	\N
+755	The battle for Eye of the Storm begins in 2 minutes.	\N	\N	\N	\N	\N	\N	\N	\N
+785	Arena testing turned %s	\N	\N	\N	\N	\N	\N	\N	\N
+786	|cffff0000[Automatic]:|r	\N	\N	\N	\N	\N	\N	\N	\N
+787	|cffffff00[|c1f40af20Announce by|r |cffff0000%s|cffffff00]:|r %s|r	\N	\N	\N	\N	\N	\N	\N	\N
+800	Invalid name	\N	\N	\N	\N	\N	\N	\N	\N
+801	You do not have enough gold	\N	\N	\N	\N	\N	\N	\N	\N
+802	You do not have enough free slots	\N	\N	\N	\N	\N	\N	\N	\N
+803	Your partner does not have enough free bag slots	\N	\N	\N	\N	\N	\N	\N	\N
+804	You do not have permission to perform that function	\N	\N	\N	\N	\N	\N	\N	\N
+805	Unknown language	\N	\N	\N	\N	\N	\N	\N	\N
+806	You don't know that language	\N	\N	\N	\N	\N	\N	\N	\N
+807	Please provide character name	\N	\N	\N	\N	\N	\N	\N	\N
+808	Player %s not found or offline	\N	\N	\N	\N	\N	\N	\N	\N
+809	Account for character %s not found	\N	\N	\N	\N	\N	\N	\N	\N
+810	|Hplayer:$N|h[$N]|h has earned the achievement $a!	\N	\N	\N	\N	\N	\N	\N	\N
+811	Guild Master	\N	\N	\N	\N	\N	\N	\N	\N
+812	Officer	\N	\N	\N	\N	\N	\N	\N	\N
+813	Veteran	\N	\N	\N	\N	\N	\N	\N	\N
+814	Member	\N	\N	\N	\N	\N	\N	\N	\N
+815	Initiate	\N	\N	\N	\N	\N	\N	\N	\N
+816	Warning: You've entered a no-fly zone and are about to be dismounted!	\N	\N	\N	\N	\N	\N	\N	\N
+817	Entry %u not found in creature_template table.	\N	\N	\N	\N	\N	\N	\N	\N
+818	Entry %u not found in sCreatureStorage. Possible new line in creature_template, but you can not add new creatures without restarting. Only modifing is allowed.	\N	\N	\N	\N	\N	\N	\N	\N
+819	City	\N	\N	\N	\N	\N	\N	\N	\N
+1000	Exiting daemon...	\N	\N	\N	\N	\N	\N	\N	\N
+1001	Account deleted: %s	\N	\N	\N	\N	\N	\N	\N	\N
+1002	Account %s NOT deleted (probably sql file format was updated)	\N	\N	\N	\N	\N	\N	\N	\N
+1003	Account %s NOT deleted (unknown error)	\N	\N	\N	\N	\N	\N	\N	\N
+1004	Account created: %s	\N	\N	\N	\N	\N	\N	\N	\N
+1005	Account name can't be longer than 16 characters (client limit), account not created!	\N	\N	\N	\N	\N	\N	\N	\N
+1006	Account with this name already exist!	\N	\N	\N	\N	\N	\N	\N	\N
+1007	Account %s NOT created (probably sql file format was updated)	\N	\N	\N	\N	\N	\N	\N	\N
+1008	Account %s NOT created (unknown error)	\N	\N	\N	\N	\N	\N	\N	\N
+1009	Player %s (Guid: %u) Account %s (Id: %u) deleted.	\N	\N	\N	\N	\N	\N	\N	\N
+1010	-[ Account][ Character][ IP][Map][Zone][Exp][GMLev]-	\N	\N	\N	\N	\N	\N	\N	\N
+1011	|<Error> | %20s |<Error> |<Er>| <Error> |	\N	\N	\N	\N	\N	\N	\N	\N
+1012	-==================================================================-	\N	\N	\N	\N	\N	\N	\N	\N
+1013	-[%16s][%12s][%15s][%3d][%4d][%d][%d]-	\N	\N	\N	\N	\N	\N	\N	\N
+1014	No online players.	\N	\N	\N	\N	\N	\N	\N	\N
+1015	-======================== Characters Online =======================-	\N	\N	\N	\N	\N	\N	\N	\N
+1016	| GUID | Name | Account | Delete Date |	\N	\N	\N	\N	\N	\N	\N	\N
+1017	| %10u | %20s | %15s (%10u) | %19s |	\N	\N	\N	\N	\N	\N	\N	\N
+1018	==========================================================================================	\N	\N	\N	\N	\N	\N	\N	\N
+1019	No characters found.	\N	\N	\N	\N	\N	\N	\N	\N
+1020	Restoring the following characters:	\N	\N	\N	\N	\N	\N	\N	\N
+1021	Deleting the following characters:	\N	\N	\N	\N	\N	\N	\N	\N
+1022	ERROR: You can only assign a new name if you have only selected a single character!	\N	\N	\N	\N	\N	\N	\N	\N
+1023	Character '%s' (GUID: %u Account %u) can't be restored: account not exist!	\N	\N	\N	\N	\N	\N	\N	\N
+1024	Character '%s' (GUID: %u Account %u) can't be restored: account character list full!	\N	\N	\N	\N	\N	\N	\N	\N
+1025	Character '%s' (GUID: %u Account %u) can't be restored: new name already used!	\N	\N	\N	\N	\N	\N	\N	\N
+1026	GUID: %u Name: %s Account: %s (%u) Date: %s	\N	\N	\N	\N	\N	\N	\N	\N
+1027	SQL driver query logging enabled.	\N	\N	\N	\N	\N	\N	\N	\N
+1028	SQL driver query logging disabled.	\N	\N	\N	\N	\N	\N	\N	\N
+1100	Account %s (Id: %u) have up to %u expansion allowed now.	\N	\N	\N	\N	\N	\N	\N	\N
+1101	Message of the day changed to:\
+%s	\N	\N	\N	\N	\N	\N	\N	\N
+1102	Message sent to %s: %s	\N	\N	\N	\N	\N	\N	\N	\N
+1103	%d - %s %s	\N	\N	\N	\N	\N	\N	\N	\N
+1104	%d - %s	\N	\N	\N	\N	\N	\N	\N	\N
+1105	%d - %s	\N	\N	\N	\N	\N	\N	\N	\N
+1106	%d - %s %s	\N	\N	\N	\N	\N	\N	\N	\N
+1107	%d - %s	\N	\N	\N	\N	\N	\N	\N	\N
+1108	%d - %s %s	\N	\N	\N	\N	\N	\N	\N	\N
+1109	%d - %s %s %s %s	\N	\N	\N	\N	\N	\N	\N	\N
+1110	%d - %s X:%f Y:%f Z:%f MapId:%d	\N	\N	\N	\N	\N	\N	\N	\N
+1111	%d - %s X:%f Y:%f Z:%f MapId:%d	\N	\N	\N	\N	\N	\N	\N	\N
+1112	Failed to open file: %s	\N	\N	\N	\N	\N	\N	\N	\N
+1113	Account %s (%u) have max amount allowed characters (client limit)	\N	\N	\N	\N	\N	\N	\N	\N
+1114	Dump file have broken data!	\N	\N	\N	\N	\N	\N	\N	\N
+1115	Invalid character name!	\N	\N	\N	\N	\N	\N	\N	\N
+1116	Invalid character guid!	\N	\N	\N	\N	\N	\N	\N	\N
+1117	Character guid %u in use!	\N	\N	\N	\N	\N	\N	\N	\N
+1118	%d - guild: %s (guid: %u) %s	\N	\N	\N	\N	\N	\N	\N	\N
+1119	You must use male or female as gender.	\N	\N	\N	\N	\N	\N	\N	\N
+1120	You change gender of %s to %s.	\N	\N	\N	\N	\N	\N	\N	\N
+1121	Your gender changed to %s by %s.	\N	\N	\N	\N	\N	\N	\N	\N
+1122	(%u/%u +perm %u +temp %u)	\N	\N	\N	\N	\N	\N	\N	\N
+1123	Not pet found	\N	\N	\N	\N	\N	\N	\N	\N
+1124	Wrong pet type	\N	\N	\N	\N	\N	\N	\N	\N
+1125	Your pet learned all talents	\N	\N	\N	\N	\N	\N	\N	\N
+1126	Your pet talents have been reset.	\N	\N	\N	\N	\N	\N	\N	\N
+1127	Talents of %s's pet reset.	\N	\N	\N	\N	\N	\N	\N	\N
+1128	%d - |cffffffff|Htaxinode:%u|h[%s %s]|h|r (Map:%u X:%f Y:%f Z:%f)	\N	\N	\N	\N	\N	\N	\N	\N
+1129	%d - %s %s (Map:%u X:%f Y:%f Z:%f)	\N	\N	\N	\N	\N	\N	\N	\N
+1130	Can't dump deleted characters,aborting.	\N	\N	\N	\N	\N	\N	\N	\N
+1131	The following characters match your query:	\N	\N	\N	\N	\N	\N	\N	\N
+1132	Currently Banned Characters:	\N	\N	\N	\N	\N	\N	\N	\N
+1133	| Character | BanDate | UnbanDate | Banned By | Ban Reason |	\N	\N	\N	\N	\N	\N	\N	\N
+1134	Sending tickets is allowed.	\N	\N	\N	\N	\N	\N	\N	\N
+1135	Sending tickets is not allowed.	\N	\N	\N	\N	\N	\N	\N	\N
+1136	Character %s has never been banned!	\N	\N	\N	\N	\N	\N	\N	\N
+1137	Dev mode is ON	\N	\N	\N	\N	\N	\N	\N	\N
+1138	Dev mode is OFF	\N	\N	\N	\N	\N	\N	\N	\N
+1139	 Follow player %s (lowguid %u)	\N	\N	\N	\N	\N	\N	\N	\N
+1140	 Follow creature %s (lowguid %u)	\N	\N	\N	\N	\N	\N	\N	\N
+1141	 Follow <NULL>	\N	\N	\N	\N	\N	\N	\N	\N
+1142	 Effect movement	\N	\N	\N	\N	\N	\N	\N	\N
+1143	Target's moveFlags: %u, moveFlagsExtra: %u.	\N	\N	\N	\N	\N	\N	\N	\N
+1144	Target's moveFlags set to: %u, moveFlagsExtra to: %u	\N	\N	\N	\N	\N	\N	\N	\N
+1200	You try to view cinematic %u but it doesn't exist.	\N	\N	\N	\N	\N	\N	\N	\N
+1201	You try to view movie %u but it doesn't exist.	\N	\N	\N	\N	\N	\N	\N	\N
+1202	Areatrigger debugging turned on.	\N	\N	\N	\N	\N	\N	\N	\N
+1203	Areatrigger debugging turned off.	\N	\N	\N	\N	\N	\N	\N	\N
+1204	You have reached areatrigger %u.	\N	\N	\N	\N	\N	\N	\N	\N
+1205	The battle will begin in two minutes.	\N	\N	\N	\N	\N	\N	\N	\N
+1206	The battle will begin in 1 minute.	\N	\N	\N	\N	\N	\N	\N	\N
+1207	The battle will begin in 30 seconds!	\N	\N	\N	\N	\N	\N	\N	\N
+1208	The battle has begun!	\N	\N	\N	\N	\N	\N	\N	\N
+1209	the alliance keep	\N	\N	\N	\N	\N	\N	\N	\N
+1210	the horde keep	\N	\N	\N	\N	\N	\N	\N	\N
+1211	%s wins!	\N	\N	\N	\N	\N	\N	\N	\N
+1212	The west gate of %s is destroyed!	\N	\N	\N	\N	\N	\N	\N	\N
+1213	The east gate of %s is destroyed!	\N	\N	\N	\N	\N	\N	\N	\N
+1214	The south gate of %s is destroyed!	\N	\N	\N	\N	\N	\N	\N	\N
+1215	The north gate of %s is destroyed!	\N	\N	\N	\N	\N	\N	\N	\N
+1216	$n has assaulted the %s	\N	\N	\N	\N	\N	\N	\N	\N
+1217	$n has defended the %s	\N	\N	\N	\N	\N	\N	\N	\N
+1218	$n claims the %s! If left unchallenged, the %s will control it in 1 minute!	\N	\N	\N	\N	\N	\N	\N	\N
+1219	The %s has taken the %s	\N	\N	\N	\N	\N	\N	\N	\N
+1220	Workshop	\N	\N	\N	\N	\N	\N	\N	\N
+1221	Docks	\N	\N	\N	\N	\N	\N	\N	\N
+1222	Refinery	\N	\N	\N	\N	\N	\N	\N	\N
+1223	Quarry	\N	\N	\N	\N	\N	\N	\N	\N
+1224	Hangar	\N	\N	\N	\N	\N	\N	\N	\N
+1300	Alliance	\N	\N	\N	\N	\N	\N	\N	\N
+1301	Horde	\N	\N	\N	\N	\N	\N	\N	\N
+1302	%s was destroyed by the %s!	\N	\N	\N	\N	\N	\N	\N	\N
+1303	The %s is under attack! If left unchecked, the %s will destroy it!	\N	\N	\N	\N	\N	\N	\N	\N
+1304	The %s was taken by the %s!	\N	\N	\N	\N	\N	\N	\N	\N
+1305	The %s was taken by the %s!	\N	\N	\N	\N	\N	\N	\N	\N
+1306	The %s was taken by the %s!	\N	\N	\N	\N	\N	\N	\N	\N
+1307	The %s is under attack! If left unchecked, the %s will capture it!	\N	\N	\N	\N	\N	\N	\N	\N
+1308	The %s has taken the %s! Its supplies will now be used for reinforcements!	\N	\N	\N	\N	\N	\N	\N	\N
+1309	Irondeep Mine	\N	\N	\N	\N	\N	\N	\N	\N
+1310	Coldtooth Mine	\N	\N	\N	\N	\N	\N	\N	\N
+1311	Stormpike Aid Station	\N	\N	\N	\N	\N	\N	\N	\N
+1312	Dun Baldar South Bunker	\N	\N	\N	\N	\N	\N	\N	\N
+1313	Dun Baldar North Bunker	\N	\N	\N	\N	\N	\N	\N	\N
+1314	Stormpike Graveyard	\N	\N	\N	\N	\N	\N	\N	\N
+1315	Icewing Bunker	\N	\N	\N	\N	\N	\N	\N	\N
+1316	Stonehearth Graveyard	\N	\N	\N	\N	\N	\N	\N	\N
+1317	Stonehearth Bunker	\N	\N	\N	\N	\N	\N	\N	\N
+1318	Snowfall Graveyard	\N	\N	\N	\N	\N	\N	\N	\N
+1319	Iceblood Tower	\N	\N	\N	\N	\N	\N	\N	\N
+1320	Iceblood Graveyard	\N	\N	\N	\N	\N	\N	\N	\N
+1321	Tower Point	\N	\N	\N	\N	\N	\N	\N	\N
+1322	Frostwolf Graveyard	\N	\N	\N	\N	\N	\N	\N	\N
+1323	East Frostwolf Tower	\N	\N	\N	\N	\N	\N	\N	\N
+1324	West Frostwolf Tower	\N	\N	\N	\N	\N	\N	\N	\N
+1325	Frostwolf Relief Hut	\N	\N	\N	\N	\N	\N	\N	\N
+1326	The Battle for Alterac Valley begins in 1 minute.	\N	\N	\N	\N	\N	\N	\N	\N
+1327	The Battle for Alterac Valley begins in 30 seconds. Prepare yourselves!	\N	\N	\N	\N	\N	\N	\N	\N
+1328	The Battle for Alterac Valley has begun!	\N	\N	\N	\N	\N	\N	\N	\N
+1329	The Alliance Team is running out of reinforcements!	\N	\N	\N	\N	\N	\N	\N	\N
+1330	The Horde Team is running out of reinforcements!	\N	\N	\N	\N	\N	\N	\N	\N
+1331	The Frostwolf General is Dead!	\N	\N	\N	\N	\N	\N	\N	\N
+1332	The Stormpike General is Dead!	\N	\N	\N	\N	\N	\N	\N	\N
+1333	The Battle for Alterac Valley begins in 2 minutes.	\N	\N	\N	\N	\N	\N	\N	\N
+2000	|cff00ff00New ticket from|r|cffff00ff %s.|r |cff00ff00Ticket entry:|r|cffff00ff %d.|r	\N	\N	\N	\N	\N	\N	\N	\N
+2001	|cff00ff00Character|r|cffff00ff %s |r|cff00ff00edited his/her ticket:|r|cffff00ff %d.|r	\N	\N	\N	\N	\N	\N	\N	\N
+2002	|cff00ff00Character|r|cffff00ff %s |r|cff00ff00abandoned ticket entry:|r|cffff00ff %d.|r	\N	\N	\N	\N	\N	\N	\N	\N
+2003	|cff00ff00Closed by|r:|cff00ccff %s|r 	\N	\N	\N	\N	\N	\N	\N	\N
+2004	|cff00ff00Deleted by|r:|cff00ccff %s|r 	\N	\N	\N	\N	\N	\N	\N	\N
+2005	Ticket not found.	\N	\N	\N	\N	\N	\N	\N	\N
+2006	Please close ticket before deleting it permanently.	\N	\N	\N	\N	\N	\N	\N	\N
+2007	Ticket %d is already assigned.	\N	\N	\N	\N	\N	\N	\N	\N
+2008	%u Tickets succesfully reloaded from the database.	\N	\N	\N	\N	\N	\N	\N	\N
+2009	Showing list of open tickets.	\N	\N	\N	\N	\N	\N	\N	\N
+2010	Showing list of open tickets whose creator is online.	\N	\N	\N	\N	\N	\N	\N	\N
+2011	Showing list of closed tickets.	\N	\N	\N	\N	\N	\N	\N	\N
+2012	Invalid name specified. Name should be that of an online Gamemaster.	\N	\N	\N	\N	\N	\N	\N	\N
+2013	This ticket is already assigned to yourself. To unassign use .ticket unassign %d and then reassign.	\N	\N	\N	\N	\N	\N	\N	\N
+2014	Ticket %d is not assigned, you cannot unassign it.	\N	\N	\N	\N	\N	\N	\N	\N
+2015	You cannot unassign tickets from staffmembers with a higher security level than yourself.	\N	\N	\N	\N	\N	\N	\N	\N
+2016	Cannot close ticket %d, it is assigned to another GM.	\N	\N	\N	\N	\N	\N	\N	\N
+2017	|cffaaffaaTicket|r:|cffaaccff %d.|r 	\N	\N	\N	\N	\N	\N	\N	\N
+2018	|cff00ff00Created by|r:|cff00ccff %s|r 	\N	\N	\N	\N	\N	\N	\N	\N
+2019	|cff00ff00Last change|r:|cff00ccff %s ago|r 	\N	\N	\N	\N	\N	\N	\N	\N
+2020	|cff00ff00Assigned to|r:|cff00ccff %s|r 	\N	\N	\N	\N	\N	\N	\N	\N
+2021	|cff00ff00Unassigned by|r:|cff00ccff %s|r 	\N	\N	\N	\N	\N	\N	\N	\N
+2022	|cff00ff00Ticket Message|r: [%s]|r	\N	\N	\N	\N	\N	\N	\N	\N
+2023	|cff00ff00GM Comment|r: [%s]|r	\N	\N	\N	\N	\N	\N	\N	\N
+2024	|cff00ccff%s|r |cff00ff00Added comment|r: [%s]|r	\N	\N	\N	\N	\N	\N	\N	\N
+2025	|cff00ff00Created|r:|cff00ccff %s ago|r 	\N	\N	\N	\N	\N	\N	\N	\N
+2027	There are pending open tickets, please close them first!	\N	\N	\N	\N	\N	\N	\N	\N
+2028	All closed tickets were deleted and counter is reseted to |cffff00ff 1|r	\N	\N	\N	\N	\N	\N	\N	\N
+2029	|cff00ff00Ticket Response|r: [%s]|r	\N	\N	\N	\N	\N	\N	\N	\N
+5000	You froze player %s.	\N	\N	\N	\N	\N	\N	\N	\N
+5001	It might be amusing but no... you cant freeze yourself!	\N	\N	\N	\N	\N	\N	\N	\N
+5002	Invalid input check the name of target.	\N	\N	\N	\N	\N	\N	\N	\N
+5003	You unfroze player %s.	\N	\N	\N	\N	\N	\N	\N	\N
+5004	There are no frozen players.	\N	\N	\N	\N	\N	\N	\N	\N
+5005	Following players are frozen on the server:	\N	\N	\N	\N	\N	\N	\N	\N
+5006	- %s	\N	\N	\N	\N	\N	\N	\N	\N
+5007	You must be in a raid group to enter this instance.	\N	\N	\N	\N	\N	\N	\N	\N
+5008	This instance is closed.	\N	\N	\N	\N	\N	\N	\N	\N
+5009	Sound %u Played to server	\N	\N	\N	\N	\N	\N	\N	\N
+5010	linkGUID: %u, Entry: %u (%s)	\N	\N	\N	\N	\N	\N	\N	\N
+5011	You can't teleport self to self!	\N	\N	\N	\N	\N	\N	\N	\N
+5012	No maps found!	\N	\N	\N	\N	\N	\N	\N	\N
+5013	[Continent]	\N	\N	\N	\N	\N	\N	\N	\N
+5014	[Instance]	\N	\N	\N	\N	\N	\N	\N	\N
+5015	[Battleground]	\N	\N	\N	\N	\N	\N	\N	\N
+5016	[Arena]	\N	\N	\N	\N	\N	\N	\N	\N
+5017	[Raid]	\N	\N	\N	\N	\N	\N	\N	\N
+5020	Phasemask: %u	\N	\N	\N	\N	\N	\N	\N	\N
+5021	Armor: %u	\N	\N	\N	\N	\N	\N	\N	\N
+5022	Granting ownership to first person that joins the channel "%s": Enabled.	\N	\N	\N	\N	\N	\N	\N	\N
+5023	Granting ownership to first person that joins the channel "%s": Disabled.	\N	\N	\N	\N	\N	\N	\N	\N
+5024	Entry: %u	\N	\N	\N	\N	\N	\N	\N	\N
+5025	Type: %u	\N	\N	\N	\N	\N	\N	\N	\N
+5026	DisplayID: %u	\N	\N	\N	\N	\N	\N	\N	\N
+5027	Name: %s	\N	\N	\N	\N	\N	\N	\N	\N
+5028	Lootid: %u	\N	\N	\N	\N	\N	\N	\N	\N
+5029	Result limit reached (max results: %d)	\N	\N	\N	\N	\N	\N	\N	\N
+5030	%s attempts to run away in fear!	\N	\N	\N	\N	\N	\N	\N	\N
+5031	AIName: %s ScriptName: %s	\N	\N	\N	\N	\N	\N	\N	\N
+5032	No battleground found!	\N	\N	\N	\N	\N	\N	\N	\N
+5033	No achievement criteria found!	\N	\N	\N	\N	\N	\N	\N	\N
+5034	No outdoor PvP found!	\N	\N	\N	\N	\N	\N	\N	\N
+5035	%s calls for help!	\N	\N	\N	\N	\N	\N	\N	\N
+6604	You cannot say, yell or emote until you become level %d.	\N	\N	\N	\N	\N	\N	\N	\N
+6605	You cannot whisper until you become level %d.	\N	\N	\N	\N	\N	\N	\N	\N
+6606	You cannot write to channels until you become level %d.	\N	\N	\N	\N	\N	\N	\N	\N
+6607	You cannot use auction until you become level %d.	\N	\N	\N	\N	\N	\N	\N	\N
+6608	You cannot write tickets until you become level %d.	\N	\N	\N	\N	\N	\N	\N	\N
+6609	You cannot trade until you become level %d.	\N	\N	\N	\N	\N	\N	\N	\N
+6610	You cannot trade with characters lower than level %d.	\N	\N	\N	\N	\N	\N	\N	\N
+6611	You cannot send mail until you become level %d.	\N	\N	\N	\N	\N	\N	\N	\N
+6612	You cannot send mail to characters lower than level %d.	\N	\N	\N	\N	\N	\N	\N	\N
+6613	|cfff00000[GM Announcement]: %s|r	\N	\N	\N	\N	\N	\N	\N	\N
+6614	Notification to GM's - 	\N	\N	\N	\N	\N	\N	\N	\N
+6615	|cffffff00[|c1f40af20GM Announce by|r |cffff0000%s|cffffff00]:|r %s|r	\N	\N	\N	\N	\N	\N	\N	\N
+6616	Silence is ON for %s	\N	\N	\N	\N	\N	\N	\N	\N
+7523	WORLD: Denying connections.	\N	\N	\N	\N	\N	\N	\N	\N
+7524	WORLD: Accepting connections.	\N	\N	\N	\N	\N	\N	\N	\N
+9980	Player name: %s, State: %s, Dungeons: %u (%s), Roles: %s, Comment: %s	\N	\N	\N	\N	\N	\N	\N	\N
+9981	LfgGroup?: %u, State: %s, Dungeon: %u	\N	\N	\N	\N	\N	\N	\N	\N
+9982	Not in group	\N	\N	\N	\N	\N	\N	\N	\N
+9983	Queues cleared	\N	\N	\N	\N	\N	\N	\N	\N
+9984	Lfg options: %u	\N	\N	\N	\N	\N	\N	\N	\N
+9985	Lfg options changed	\N	\N	\N	\N	\N	\N	\N	\N
+9986	None	\N	\N	\N	\N	\N	\N	\N	\N
+9987	Role check	\N	\N	\N	\N	\N	\N	\N	\N
+9988	Queued	\N	\N	\N	\N	\N	\N	\N	\N
+9989	Proposal	\N	\N	\N	\N	\N	\N	\N	\N
+9990	Vote kick	\N	\N	\N	\N	\N	\N	\N	\N
+9991	In dungeon	\N	\N	\N	\N	\N	\N	\N	\N
+9992	Finished dungeon	\N	\N	\N	\N	\N	\N	\N	\N
+9993	Raid browser	\N	\N	\N	\N	\N	\N	\N	\N
+9994	Tank	\N	\N	\N	\N	\N	\N	\N	\N
+9995	Healer	\N	\N	\N	\N	\N	\N	\N	\N
+9996	Dps	\N	\N	\N	\N	\N	\N	\N	\N
+9997	Leader	\N	\N	\N	\N	\N	\N	\N	\N
+9998	None	\N	\N	\N	\N	\N	\N	\N	\N
+9999	Error	\N	\N	\N	\N	\N	\N	\N	\N
+10001	The Horde has taken The Overlook!	\N	\N	\N	\N	\N	\N	\N	\N
+10002	The Alliance has taken The Overlook!	\N	\N	\N	\N	\N	\N	\N	\N
+10003	The Horde has taken The Stadium!	\N	\N	\N	\N	\N	\N	\N	\N
+10004	The Alliance has taken The Stadium!	\N	\N	\N	\N	\N	\N	\N	\N
+10005	The Horde has taken Broken Hill!	\N	\N	\N	\N	\N	\N	\N	\N
+10006	The Alliance has taken Broken Hill!	\N	\N	\N	\N	\N	\N	\N	\N
+10007	The Horde lost The Overlook!	\N	\N	\N	\N	\N	\N	\N	\N
+10008	The Alliance lost The Overlook!	\N	\N	\N	\N	\N	\N	\N	\N
+10009	The Horde lost The Stadium!	\N	\N	\N	\N	\N	\N	\N	\N
+10010	The Alliance lost The Stadium!	\N	\N	\N	\N	\N	\N	\N	\N
+10011	The Horde lost Broken Hill!	\N	\N	\N	\N	\N	\N	\N	\N
+10012	The Alliance lost Broken Hill!	\N	\N	\N	\N	\N	\N	\N	\N
+10013	The Horde has taken the West Beacon!	\N	\N	\N	\N	\N	\N	\N	\N
+10014	The Alliance has taken the West Beacon!	\N	\N	\N	\N	\N	\N	\N	\N
+10015	The Horde has taken the East Beacon!	\N	\N	\N	\N	\N	\N	\N	\N
+10016	The Alliance has taken the East Beacon!	\N	\N	\N	\N	\N	\N	\N	\N
+10017	The Horde has captured the Twin Spire Graveyard!	\N	\N	\N	\N	\N	\N	\N	\N
+10018	The Alliance has captured the Twin Spire Graveyard!	\N	\N	\N	\N	\N	\N	\N	\N
+10019	The Horde lost the West Beacon!	\N	\N	\N	\N	\N	\N	\N	\N
+10020	The Alliance lost the West Beacon!	\N	\N	\N	\N	\N	\N	\N	\N
+10021	The Horde lost the East Beacon!	\N	\N	\N	\N	\N	\N	\N	\N
+10022	The Alliance lost the East Beacon!	\N	\N	\N	\N	\N	\N	\N	\N
+10023	The Horde lost the Twin Spire Graveyard!	\N	\N	\N	\N	\N	\N	\N	\N
+10024	The Alliance lost the Twin Spire Graveyard!	\N	\N	\N	\N	\N	\N	\N	\N
+10025	The Horde has captured Halaa!	\N	\N	\N	\N	\N	\N	\N	\N
+10026	The Alliance has captured Halaa!	\N	\N	\N	\N	\N	\N	\N	\N
+10027	The Horde lost Halaa!	\N	\N	\N	\N	\N	\N	\N	\N
+10028	The Alliance lost Halaa!	\N	\N	\N	\N	\N	\N	\N	\N
+10029	The Horde has taken a Spirit Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+10030	The Alliance has taken a Spirit Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+10031	The Horde lost a Spirit Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+10032	The Alliance lost a Spirit Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+10033	The Horde has taken the Northpass Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+10034	The Alliance has taken the Northpass Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+10035	The Horde has taken the Eastwall Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+10036	The Alliance has taken the Eastwall Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+10037	The Horde has taken the Crown Guard Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+10038	The Alliance has taken the Crown Guard Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+10039	The Horde has taken the Plaguewood Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+10040	The Alliance has taken the Plaguewood Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+10041	The Horde lost the Northpass Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+10042	The Alliance lost the Northpass Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+10043	The Horde lost the Eastwall Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+10044	The Alliance lost the Eastwall Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+10045	The Horde lost the Crown Guard Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+10046	The Alliance lost the Crown Guard Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+10047	The Horde lost the Plaguewood Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+10048	The Alliance lost the Plaguewood Tower!	\N	\N	\N	\N	\N	\N	\N	\N
+10049	The Horde has collected 200 silithyst!	\N	\N	\N	\N	\N	\N	\N	\N
+10050	The Alliance has collected 200 silithyst!	\N	\N	\N	\N	\N	\N	\N	\N
+10051	Take me to Northpass Tower.	\N	\N	\N	\N	\N	\N	\N	\N
+10052	Take me to Eastwall Tower.	\N	\N	\N	\N	\N	\N	\N	\N
+10053	Take me to Crown Guard Tower.	\N	\N	\N	\N	\N	\N	\N	\N
+10054	Give me the flag, I'll take it to the central beacon for the glory of the Alliance!	\N	\N	\N	\N	\N	\N	\N	\N
+10055	Give me the flag, I'll take it to the central beacon for the glory of the Horde!	\N	\N	\N	\N	\N	\N	\N	\N
+10056	The battle for Strand of the Ancients begins in 2 minutes.	\N	\N	\N	\N	\N	\N	\N	\N
+10057	The battle for Strand of the Ancients begins in 1 minute.	\N	\N	\N	\N	\N	\N	\N	\N
+10058	The battle for Strand of the Ancients begins in 30 seconds. Prepare yourselves!.	\N	\N	\N	\N	\N	\N	\N	\N
+10059	Let the battle for Strand of the Ancients begin!	\N	\N	\N	\N	\N	\N	\N	\N
+10060	The %s is under attack!	\N	\N	\N	\N	\N	\N	\N	\N
+10061	The %s was destroyed!	\N	\N	\N	\N	\N	\N	\N	\N
+10062	Round 1 - finished!	\N	\N	\N	\N	\N	\N	\N	\N
+10063	The Alliance captured the titan portal!	\N	\N	\N	\N	\N	\N	\N	\N
+10064	The Horde captured the titan portal!	\N	\N	\N	\N	\N	\N	\N	\N
+10065	Round 2 of the Battle for the Strand of the Ancients begins in 1 minute.	\N	\N	\N	\N	\N	\N	\N	\N
+10066	Round 2 begins in 30 seconds. Prepare yourselves!	\N	\N	\N	\N	\N	\N	\N	\N
+10067	The chamber has been breached! The titan relic is vulnerable!	\N	\N	\N	\N	\N	\N	\N	\N
+10068	The Alliance captured the South Graveyard!	\N	\N	\N	\N	\N	\N	\N	\N
+10069	The Alliance captured the West Graveyard!	\N	\N	\N	\N	\N	\N	\N	\N
+10070	The Alliance captured the East Graveyard!	\N	\N	\N	\N	\N	\N	\N	\N
+10071	The Horde captured the South Graveyard!	\N	\N	\N	\N	\N	\N	\N	\N
+10072	The Horde captured the West Graveyard!	\N	\N	\N	\N	\N	\N	\N	\N
+10073	The Horde captured the East Graveyard!	\N	\N	\N	\N	\N	\N	\N	\N
+11000	|cffffff00[|c00077766Autobroadcast|cffffff00]: |cFFF222FF%s|r	\N	\N	\N	\N	\N	\N	\N	\N
+11001	You have not chosen -1 or the current realmID that you are on.	\N	\N	\N	\N	\N	\N	\N	\N
+12050	%s has been captured by %s 	\N	\N	\N	\N	\N	\N	\N	\N
+12051	%s is under attack by %s	\N	\N	\N	\N	\N	\N	\N	\N
+12052	The Broken Temple siege workshop	\N	\N	\N	\N	\N	\N	\N	\N
+12053	Eastspark siege workshop	\N	\N	\N	\N	\N	\N	\N	\N
+12054	Westspark siege workshop	\N	\N	\N	\N	\N	\N	\N	\N
+12055	The Sunken Ring siege workshop	\N	\N	\N	\N	\N	\N	\N	\N
+12056	Horde	\N	\N	\N	\N	\N	\N	\N	\N
+12057	Alliance	\N	\N	\N	\N	\N	\N	\N	\N
+12058	The battle for Wintergrasp is about to begin!	\N	\N	\N	\N	\N	\N	\N	\N
+12059	You have reached Rank 1: Corporal	\N	\N	\N	\N	\N	\N	\N	\N
+12060	You have reached Rank 2: First Lieutenant	\N	\N	\N	\N	\N	\N	\N	\N
+12061	The south-eastern keep tower	\N	\N	\N	\N	\N	\N	\N	\N
+12062	The north-eastern keep tower	\N	\N	\N	\N	\N	\N	\N	\N
+12063	The south-western keep tower	\N	\N	\N	\N	\N	\N	\N	\N
+12064	The north-western keep tower	\N	\N	\N	\N	\N	\N	\N	\N
+12065	%s has been damaged !	\N	\N	\N	\N	\N	\N	\N	\N
+12066	%s has been destroyed!	\N	\N	\N	\N	\N	\N	\N	\N
+12067	The battle for Wintergrasp begin!	\N	\N	\N	\N	\N	\N	\N	\N
+12068	%s has successfully defended the Wintergrasp fortress!	\N	\N	\N	\N	\N	\N	\N	\N
+12069	The southern tower	\N	\N	\N	\N	\N	\N	\N	\N
+12070	The eastern tower	\N	\N	\N	\N	\N	\N	\N	\N
+12071	The western tower	\N	\N	\N	\N	\N	\N	\N	\N
+12072	The Wintergrasp fortress has been captured by %s !	\N	\N	\N	\N	\N	\N	\N	\N

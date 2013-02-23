@@ -1,0 +1,4 @@
+1	Player
+2	Moderator
+3	GameMaster
+4	Administrator

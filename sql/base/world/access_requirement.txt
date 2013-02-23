@@ -1,0 +1,121 @@
+33	0	14	0	0	0	0	0	0	\N	Shadowfang Keep Entrance
+34	0	15	0	0	0	0	0	0	\N	Stormwind Stockades Entrance
+36	0	10	0	0	0	0	0	0	\N	DeadMines Entrance
+43	0	10	0	0	0	0	0	0	\N	The Barrens - Wailing Caverns
+47	0	17	0	0	0	0	0	0	\N	Razorfen Kraul Entrance
+48	0	19	0	0	0	0	0	0	\N	Blackphantom Deeps Entrance
+70	0	30	0	0	0	0	0	0	\N	Uldaman Entrance
+90	0	15	0	0	0	0	0	0	\N	Gnomeregan Entrance
+109	0	35	0	0	0	0	0	0	\N	Altar of Atal'Hakkar Entrance
+129	0	25	0	0	0	0	0	0	\N	Razorfen Downs Entrance
+189	0	20	0	0	0	0	0	0	\N	Scarlet Monastery - Graveyard (Entrance)
+209	0	35	0	0	0	0	0	0	\N	Zul'Farrak Entrance
+229	0	45	0	0	0	0	0	0	\N	Blackrock Spire - Searing Gorge Instance (Inside)
+230	0	40	0	0	0	0	0	0	\N	Blackrock Mountain - Searing Gorge Instance?
+249	0	80	0	0	0	0	0	0	\N	Onyxia's Lair Entrance
+249	1	80	0	0	0	0	0	0	\N	Onyxia's Lair Entrance
+269	0	66	0	0	0	10285	10285	0	You must complete the quest "Return to Andormu" before entering the Black Morass.	Caverns Of Time,Black Morass (Entrance)
+269	1	70	0	30635	0	10285	10285	0	You must complete the quest "Return to Andormu" and be level 70 before entering the Heroic difficulty of the Black Morass.	Caverns Of Time,Black Morass (Entrance)
+289	0	45	0	0	0	0	0	0	\N	Scholomance Entrance
+309	0	50	0	0	0	0	0	0	\N	Zul'Gurub Entrance 
+329	0	45	0	0	0	0	0	0	\N	Stratholme - Eastern Plaguelands Instance
+349	0	30	0	0	0	0	0	0	\N	Maraudon
+389	0	8	0	0	0	0	0	0	\N	Ragefire Chasm - Ogrimmar Instance
+409	0	50	0	0	0	0	0	0	\N	The Molten Bridge
+429	0	45	0	0	0	0	0	0	\N	Dire Maul
+469	0	60	0	0	0	0	0	0	\N	Blackwing Lair - Blackrock Mountain - Eastern Kingdoms
+509	0	50	0	0	0	0	0	0	\N	Ruins Of Ahn'Qiraj (Outside)
+531	0	50	0	0	0	0	0	0	\N	Ahn'Qiraj Temple (Outside)
+532	0	68	0	0	0	0	0	0	\N	Karazhan,Main (Entrance)
+533	0	80	0	0	0	0	0	0	\N	Naxxramas
+533	1	80	0	0	0	0	0	0	\N	Naxxramas
+534	0	70	0	0	0	0	0	0	\N	Battle Of Mount Hyjal,Alliance Base (Entrance)
+540	0	55	0	0	0	0	0	0	\N	The Shattered Halls (Entrance)
+540	1	70	0	30637	30622	0	0	0	\N	The Shattered Halls (Entrance)
+542	0	55	0	0	0	0	0	0	\N	The Blood Furnace (Entrance)
+542	1	70	0	30637	30622	0	0	0	\N	The Blood Furnace (Entrance)
+543	0	55	0	0	0	0	0	0	\N	Hellfire Ramparts (Entrance)
+543	1	70	0	30637	30622	0	0	0	\N	Hellfire Ramparts (Entrance)
+544	0	65	0	0	0	0	0	0	\N	Magtheridon's Lair (Entrance)
+545	0	55	0	0	0	0	0	0	\N	The Steamvault (Entrance)
+545	1	70	0	30623	0	0	0	0	\N	The Steamvault (Entrance)
+546	0	55	0	0	0	0	0	0	\N	The Underbog (Entrance)
+546	1	70	0	30623	0	0	0	0	\N	The Underbog (Entrance)
+547	0	55	0	0	0	0	0	0	\N	The Slave Pens (Entrance)
+547	1	70	0	30623	0	0	0	0	\N	The Slave Pens (Entrance)
+548	0	68	0	0	0	0	0	0	\N	Serpentshrine Cavern (Entrance)
+550	0	70	0	0	0	0	0	0	\N	The Eye (Entrance)
+552	0	68	0	0	0	0	0	0	\N	The Arcatraz (Entrance)
+552	1	70	0	30634	0	0	0	0	\N	The Arcatraz (Entrance)
+553	0	68	0	0	0	0	0	0	\N	The Botanica (Entrance)
+553	1	70	0	30634	0	0	0	0	\N	The Botanica (Entrance)
+554	0	68	0	0	0	0	0	0	\N	The Mechanar (Entrance)
+554	1	70	0	30634	0	0	0	0	\N	The Mechanar (Entrance)
+555	0	65	0	0	0	0	0	0	\N	Shadow Labyrinth (Entrance)
+555	1	70	0	30633	0	0	0	0	\N	Shadow Labyrinth (Entrance)
+556	0	55	0	0	0	0	0	0	\N	Sethekk Halls (Entrance)
+556	1	70	0	30633	0	0	0	0	\N	Sethekk Halls (Entrance)
+557	0	55	0	0	0	0	0	0	\N	Mana Tombs (Entrance)
+557	1	70	0	30633	0	0	0	0	\N	Mana Tombs (Entrance)
+558	0	55	0	0	0	0	0	0	\N	Auchenai Crypts (Entrance)
+558	1	70	0	30633	0	0	0	0	\N	Auchenai Crypts (Entrance)
+560	0	66	0	0	0	0	0	0	\N	Caverns Of Time,Old Hillsbrad Foothills (Entrance)
+560	1	70	0	30635	0	0	0	0	\N	Caverns Of Time,Old Hillsbrad Foothills (Entrance)
+564	0	70	0	0	0	0	0	0	\N	Black Temple (Entrance)
+565	0	70	0	0	0	0	0	0	\N	Gruul's Lair (Entrance)
+568	0	70	0	0	0	0	0	0	\N	Zul'Aman (Entrance)
+574	0	65	0	0	0	0	0	0	\N	Utgarde Keep (entrance)
+574	1	80	0	0	0	0	0	0	\N	Utgarde Keep (entrance)
+575	0	75	0	0	0	0	0	0	\N	Utgarde Pinnacle (entrance)
+575	1	80	0	0	0	0	0	0	\N	Utgarde Pinnacle (entrance)
+576	0	66	0	0	0	0	0	0	\N	The Nexus (entrance)
+576	1	80	0	0	0	0	0	0	\N	The Nexus (entrance)
+578	0	75	0	0	0	0	0	0	\N	The Oculus (entrance)
+578	1	80	0	0	0	0	0	0	\N	The Oculus (entrance)
+580	0	70	0	0	0	0	0	0	\N	Sunwell Plateau (Entrance)
+585	0	65	0	0	0	0	0	0	\N	Magisters' Terrace (Entrance)
+585	1	70	0	0	0	11492	11492	0	\N	Magisters' Terrace (Entrance)
+595	0	75	0	0	0	0	0	0	\N	Culling of Stratholme (entrance)
+595	1	80	0	0	0	0	0	0	\N	Culling of Stratholme (entrance)
+599	0	72	0	0	0	0	0	0	\N	Ulduar,Halls of Stone (entrance)
+599	1	80	0	0	0	0	0	0	\N	Ulduar,Halls of Stone (entrance)
+600	0	69	0	0	0	0	0	0	\N	Drak'Tharon Keep (entrance)
+600	1	80	0	0	0	0	0	0	\N	Drak'Tharon Keep (entrance)
+601	0	67	0	0	0	0	0	0	\N	Azjol-Nerub (entrance)
+601	1	80	0	0	0	0	0	0	\N	Azjol-Nerub (entrance)
+602	0	75	0	0	0	0	0	0	\N	Ulduar,Halls of Lightning (entrance)
+602	1	80	0	0	0	0	0	0	\N	Ulduar,Halls of Lightning (entrance)
+603	0	80	0	0	0	0	0	0	\N	Ulduar Raid entrance
+603	1	80	0	0	0	0	0	0	\N	Ulduar Raid entrance
+604	0	71	0	0	0	0	0	0	\N	Gundrak (entrance north)
+604	1	80	0	0	0	0	0	0	\N	Gundrak (entrance north)
+608	0	70	0	0	0	0	0	0	\N	Violet Hold (entrance)
+608	1	80	0	0	0	0	0	0	\N	Violet Hold (entrance)
+615	0	80	0	0	0	0	0	0	\N	Chamber of Aspects,Obsidian Sanctum (entrance)
+615	1	80	0	0	0	0	0	0	\N	Chamber of Aspects,Obsidian Sanctum (entrance)
+616	0	80	0	0	0	0	0	0	\N	The Eye of Eternity (entrance)
+616	1	80	0	0	0	0	0	0	\N	The Eye of Eternity (entrance)
+619	0	68	0	0	0	0	0	0	\N	Ahn'Kahet (entrance)
+619	1	80	0	0	0	0	0	0	\N	Ahn'Kahet (entrance)
+624	0	80	0	0	0	0	0	0	\N	Vault of Archavon (Entrance)
+624	1	80	0	0	0	0	0	0	\N	Vault of Archavon (Entrance)
+631	0	80	0	0	0	0	0	0	\N	IceCrown Citadel (Entrance)
+631	1	80	0	0	0	0	0	0	\N	IceCrown Citadel (Entrance)
+631	2	80	0	0	0	0	0	4530	\N	IceCrown Citadel (Entrance)
+631	3	80	0	0	0	0	0	4597	\N	IceCrown Citadel (Entrance)
+632	0	75	0	0	0	0	0	0	\N	Forge of Souls (Entrance)
+632	1	80	0	0	0	0	0	0	\N	Forge of Souls (Entrance)
+649	0	80	0	0	0	0	0	0	\N	Trial of the Crusader
+649	1	80	0	0	0	0	0	0	\N	Trial of the Crusader
+649	2	80	0	0	0	0	0	0	\N	Trial of the Crusader
+649	3	80	0	0	0	0	0	0	\N	Trial of the Crusader
+650	0	75	0	0	0	0	0	0	\N	Trial of the Champion
+650	1	80	0	0	0	0	0	0	\N	Trial of the Champion
+658	0	75	0	0	0	24499	24511	0	\N	Pit of Saron (Entrance)
+658	1	80	0	0	0	24499	24511	0	\N	Pit of Saron (Entrance)
+668	0	75	0	0	0	24710	24712	0	\N	Halls of Reflection (Entrance)
+668	1	80	0	0	0	24710	24712	0	\N	Halls of Reflection (Entrance)
+724	0	80	0	0	0	0	0	0	\N	The Ruby Sanctum (Entrance)
+724	1	80	0	0	0	0	0	0	\N	The Ruby Sanctum (Entrance)
+724	2	80	0	0	0	0	0	0	\N	The Ruby Sanctum (Entrance)
+724	3	80	0	0	0	0	0	0	\N	The Ruby Sanctum (Entrance)

@@ -1,0 +1,10 @@
+1	Instant logout
+2	Skip Queue
+3	Join Normal Battleground
+4	Join Random Battleground
+5	Join Arenas
+6	Join Dungeon Finder
+7	Player Commands (Temporal till commands moved to rbac)
+8	Moderator Commands (Temporal till commands moved to rbac)
+9	GameMaster Commands (Temporal till commands moved to rbac)
+10	Administrator Commands (Temporal till commands moved to rbac)

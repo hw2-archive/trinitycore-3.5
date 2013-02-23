@@ -1,0 +1,7 @@
+1	Player Commands
+2	Moderator Commands
+3	GameMaster Commands
+4	Administrator Commands
+5	Quick Login/Logout
+6	Use Battleground/Arenas
+7	Use Dungeon Finder
