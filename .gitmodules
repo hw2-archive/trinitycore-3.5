@@ -1,0 +1,3 @@
+[submodule "contrib/mysqltools"]
+	path = contrib/mysqltools
+	url = git@github.com:udw/mysqltool_XT.git
